@@ -1,0 +1,60 @@
+{
+  "set_name": "Re:Zero Vol.1",
+  "set_slug": "rezero-vol1",
+  "set_code_en": "RZ/S46-E",
+  "set_code_jp": "RZ/S46",
+  "language": "EN",
+  "release_date": "2018-12-28",
+  "jp_release_date": "2016-05-27",
+  "product_type": "booster",
+  "packs_per_box": 20,
+  "cards_per_pack": 8,
+  "cards_per_box": 160,
+  "preorder_price_usd": 98.00,
+  "preorder_price_source": "Potomac Distribution / retailer listings at launch",
+  "pull_rates": [
+    {
+      "rarity": "SP",
+      "guaranteed_per_box": true,
+      "rate_per_box": 1.0,
+      "cards_in_set": 10,
+      "note": "1 SP guaranteed per box; ~10 SP cards in set"
+    },
+    {
+      "rarity": "SSP",
+      "guaranteed_per_box": false,
+      "rate_per_box": 0.0,
+      "note": "No SSP in this set"
+    },
+    {
+      "rarity": "SEC",
+      "guaranteed_per_box": false,
+      "rate_per_box": 0.0,
+      "note": "No SEC in this set"
+    },
+    {
+      "rarity": "RRR",
+      "guaranteed_per_box": false,
+      "rate_per_box": 8.0,
+      "note": "Estimated ~8 RRR per box (standard WS distribution)"
+    },
+    {
+      "rarity": "RR",
+      "guaranteed_per_box": false,
+      "rate_per_box": 16.0,
+      "note": "Estimated ~16 RR per box"
+    },
+    {
+      "rarity": "R",
+      "guaranteed_per_box": false,
+      "rate_per_box": 32.0,
+      "note": "Estimated ~32 R per box"
+    }
+  ],
+  "competitive_standing": "moderate",
+  "competitive_notes": "Re:Zero Vol.1 introduced the IP to EN WS. Twin-synergy red builds showed early viability but not top-tier. Foundation cards from this set are still used in updated builds.",
+  "total_card_types": 100,
+  "total_parallel_types": 22,
+  "data_confidence": "medium",
+  "notes": "Set code may be RZ/S46-E (not W76-E as originally thought). Preorder price is approximate from retailer records."
+}

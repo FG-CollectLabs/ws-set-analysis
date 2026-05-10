@@ -1,0 +1,62 @@
+{
+  "set_name": "Re:Zero Frozen Bond",
+  "set_slug": "rezero-frozen-bond",
+  "set_code_en": "RZ/SE35-E",
+  "set_code_jp": "RZ/SE35",
+  "language": "EN",
+  "release_date": "2021-02-26",
+  "jp_release_date": "2020-12-18",
+  "product_type": "extra_booster",
+  "packs_per_box": 12,
+  "cards_per_pack": 8,
+  "cards_per_box": 96,
+  "preorder_price_usd": 29.00,
+  "preorder_price_source": "Retailer listings at launch (approximately $29-32)",
+  "pull_rates": [
+    {
+      "rarity": "SP",
+      "guaranteed_per_box": true,
+      "rate_per_box": 1.0,
+      "cards_in_set": 4,
+      "note": "4 SP cards in the set; 1 guaranteed per box. Small pool = high repeat rate."
+    },
+    {
+      "rarity": "SSP",
+      "guaranteed_per_box": false,
+      "rate_per_box": 0.0,
+      "note": "No SSP in Extra Booster"
+    },
+    {
+      "rarity": "SEC",
+      "guaranteed_per_box": false,
+      "rate_per_box": 0.0,
+      "note": "No SEC in Extra Booster"
+    },
+    {
+      "rarity": "SR",
+      "guaranteed_per_box": false,
+      "rate_per_box": 8.0,
+      "cards_in_set": 46,
+      "note": "46 SR cards in set — Extra Booster uses SR not RRR/RR"
+    },
+    {
+      "rarity": "RR",
+      "guaranteed_per_box": false,
+      "rate_per_box": 4.0,
+      "cards_in_set": 6
+    },
+    {
+      "rarity": "R",
+      "guaranteed_per_box": false,
+      "rate_per_box": 8.0,
+      "cards_in_set": 12
+    }
+  ],
+  "competitive_standing": "niche",
+  "competitive_notes": "Extra Booster with heavy Green color focus (42/50 new cards are Green). Introduced Green Re:Zero to EN. Limited competitive use — main value is collector SP cards (Emilia, Rem, Ram art).",
+  "total_card_types": 50,
+  "total_parallel_types": 50,
+  "color_distribution": "42 Green, 1 Blue, 7 other",
+  "data_confidence": "high",
+  "notes": "Extra Booster format — smaller set, lower price, fewer packs per box. Not comparable 1:1 with standard boosters. The $29 preorder price reflects the smaller format."
+}

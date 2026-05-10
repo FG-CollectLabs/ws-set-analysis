@@ -1,0 +1,88 @@
+{
+  "set_name": "Re:Zero Vol.3",
+  "set_slug": "rezero-vol3",
+  "ip_name": "Re:Zero",
+  "ip_full_name": "Re:Zero -Starting Life in Another World-",
+  "mal_anime_id": 31240,
+  "mal_manga_id": 74697,
+  "language": "EN",
+  "status": "preorder",
+  "set_code_jp": "RZ/S116",
+  "jp_release_date": "2024-11-22",
+  "en_release_date_estimate": "2026-Q3",
+  "en_announced": true,
+  "analysis_date": "2026-05-10",
+  "en_historical_sets": [
+    {
+      "name": "Re:Zero Vol.1",
+      "slug": "rezero-vol1",
+      "set_code": "RZ/S46-E",
+      "seed": "seed-data/en-sets/rezero-vol1.json",
+      "product_type": "booster"
+    },
+    {
+      "name": "Re:Zero Vol.2",
+      "slug": "rezero-vol2",
+      "set_code": "RZ/S55-E",
+      "seed": "seed-data/en-sets/rezero-vol2.json",
+      "product_type": "booster"
+    },
+    {
+      "name": "Re:Zero Memory Snow",
+      "slug": "rezero-memory-snow",
+      "set_code": "RZ/S68-E",
+      "seed": "seed-data/en-sets/rezero-memory-snow.json",
+      "product_type": "booster"
+    },
+    {
+      "name": "Re:Zero Frozen Bond",
+      "slug": "rezero-frozen-bond",
+      "set_code": "RZ/SE35-E",
+      "seed": "seed-data/en-sets/rezero-frozen-bond.json",
+      "product_type": "extra_booster"
+    }
+  ],
+  "jp_equivalent_sets": [
+    {
+      "name": "Re:Zero Vol.1 (JP)",
+      "set_code": "RZ/S46",
+      "yuyutei_id": null,
+      "yuyutei_search_query": "Re:Zero S46",
+      "jp_release_date": "2016-05-27"
+    },
+    {
+      "name": "Re:Zero Vol.2 (JP)",
+      "set_code": "RZ/S55",
+      "yuyutei_id": null,
+      "yuyutei_search_query": "Re:Zero S55",
+      "jp_release_date": "2018-08-31"
+    },
+    {
+      "name": "Re:Zero Memory Snow (JP)",
+      "set_code": "RZ/S68",
+      "yuyutei_id": null,
+      "yuyutei_search_query": "Re:Zero S68",
+      "jp_release_date": "2020-08-28"
+    },
+    {
+      "name": "Re:Zero Frozen Bond (JP)",
+      "set_code": "RZ/SE35",
+      "yuyutei_id": null,
+      "yuyutei_search_query": "Re:Zero SE35",
+      "jp_release_date": "2020-12-18"
+    },
+    {
+      "name": "Re:Zero Vol.3 (JP)",
+      "set_code": "RZ/S116",
+      "yuyutei_id": null,
+      "yuyutei_search_query": "Re:Zero S116",
+      "jp_release_date": "2024-11-22",
+      "is_current_jp_set": true,
+      "note": "This is the JP set whose EN version (Vol.3) is being analyzed"
+    }
+  ],
+  "competitive_standing": "moderate",
+  "competitive_notes": "Re:Zero has tournament presence but is not currently top-tier in BCS 24/25. Viable for locals and regionals. Vol.3 JP may introduce new competitive pieces.",
+  "expected_en_preorder_price_usd": 90.00,
+  "expected_en_preorder_price_note": "Standard EN WS booster boxes trend $85-105. Using $90 as baseline for EV comparison."
+}

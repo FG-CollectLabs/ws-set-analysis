@@ -1,0 +1,50 @@
+baseURL = "https://fg-collectlabs.github.io/ws-set-analysis/"
+languageCode = "en-us"
+title = "WS Set Analysis"
+theme = "PaperMod"
+[pagination]
+  pagerSize = 20
+
+[params]
+  author = "FG CollectLabs"
+  description = "Weiss Schwarz booster set investment analysis — preorder signals, historical performance, and JP set data."
+  defaultTheme = "dark"
+  ShowReadingTime = false
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = false
+  hideSummary = false
+
+  [params.homeInfoParams]
+    Title = "WS Set Analysis"
+    Content = "Preorder investment signals for Weiss Schwarz booster sets. Should you preorder or wait for the dip?"
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/FG-CollectLabs"
+
+[taxonomies]
+  recommendation = "recommendations"
+  stage = "stages"
+  ip = "ips"
+
+[menu]
+  [[menu.main]]
+    name = "Sets"
+    url = "/sets/"
+    weight = 1
+  [[menu.main]]
+    name = "Methodology"
+    url = "/methodology/"
+    weight = 2
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
+
+[markup]
+  [markup.highlight]
+    noClasses = false
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true

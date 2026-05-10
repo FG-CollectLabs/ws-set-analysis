@@ -1,0 +1,15 @@
+blog/public/
+blog/resources/
+__pycache__/
+*.pyc
+.env
+*.egg-info/
+dist/
+.venv/
+venv/
+
+# Analysis debug dumps — don't commit, large and ephemeral
+agents/sets/*-analysis-debug.json
+
+# Yuyutei cache is intentional — commit jp-set JSON files
+# seed-data/jp-sets/*.json  ← do NOT ignore these

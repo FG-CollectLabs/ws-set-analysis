@@ -1,0 +1,60 @@
+{
+  "set_name": "Re:Zero Vol.2",
+  "set_slug": "rezero-vol2",
+  "set_code_en": "RZ/S55-E",
+  "set_code_jp": "RZ/S55",
+  "language": "EN",
+  "release_date": "2019-08-02",
+  "jp_release_date": "2018-08-31",
+  "product_type": "booster",
+  "packs_per_box": 20,
+  "cards_per_pack": 8,
+  "cards_per_box": 160,
+  "preorder_price_usd": 98.00,
+  "preorder_price_source": "Retailer listings at launch (approximate)",
+  "pull_rates": [
+    {
+      "rarity": "SP",
+      "guaranteed_per_box": true,
+      "rate_per_box": 1.0,
+      "cards_in_set": 10,
+      "note": "1 SP guaranteed per box"
+    },
+    {
+      "rarity": "SSP",
+      "guaranteed_per_box": false,
+      "rate_per_box": 0.0,
+      "note": "No SSP confirmed in this set"
+    },
+    {
+      "rarity": "SEC",
+      "guaranteed_per_box": false,
+      "rate_per_box": 0.0,
+      "note": "No SEC confirmed"
+    },
+    {
+      "rarity": "RRR",
+      "guaranteed_per_box": false,
+      "rate_per_box": 8.0,
+      "note": "Standard WS distribution estimate"
+    },
+    {
+      "rarity": "RR",
+      "guaranteed_per_box": false,
+      "rate_per_box": 16.0,
+      "note": "Standard WS distribution estimate"
+    },
+    {
+      "rarity": "R",
+      "guaranteed_per_box": false,
+      "rate_per_box": 32.0,
+      "note": "Standard WS distribution estimate"
+    }
+  ],
+  "competitive_standing": "moderate",
+  "competitive_notes": "Adds Season 2 characters and cards. Some RR/RRR cards became staples. Still sees play in casual and local formats.",
+  "total_card_types": 100,
+  "total_parallel_types": 27,
+  "data_confidence": "medium",
+  "notes": "JP release date approximate. Pull rates are standard WS estimates — no official breakdown documented."
+}
