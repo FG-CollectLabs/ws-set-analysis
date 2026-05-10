@@ -23,8 +23,8 @@ Solid signals overall. Preorder is reasonable. Minor risk factors present but no
 
 ### Anime
 
-- **Title:** Re:ZERO -Starting Life in Another World-
-- **MAL Rank:** #385
+- **Title:** [Re:ZERO -Starting Life in Another World-](https://myanimelist.net/anime/31240/Re_Zero_kara_Hajimeru_Isekai_Seikatsu)
+- **MAL Rank:** [#385](https://myanimelist.net/topanime.php)
 - **Score:** 8.25 / 10
 - **Members:** 2,458,287
 - **Favorites:** 76,181
@@ -33,8 +33,8 @@ Solid signals overall. Preorder is reasonable. Minor risk factors present but no
 
 ### Manga / Light Novel
 
-- **Title:** Re:ZERO -Starting Life in Another World-
-- **MAL Rank:** #36
+- **Title:** [Re:ZERO -Starting Life in Another World-](https://myanimelist.net/manga/74697/Re_Zero_kara_Hajimeru_Isekai_Seikatsu)
+- **MAL Rank:** [#36](https://myanimelist.net/topmanga.php)
 - **Score:** 8.86 / 10
 - **Members:** 85,219
 - **Status:** Publishing
@@ -47,10 +47,10 @@ Prior EN sets average +129.3% vs preorder. Strong appreciation — demand holds 
 
 | Set | Type | Preorder | Current Box | Change | ROI | Post-Fee ROI | Age | Competitive |
 |-----|------|----------|-------------|--------|-----|--------------|-----|-------------|
-| Re:Zero Vol.1 | Standard | $98 | $249 | +154% | +154% | +124% | 2,690d | Moderate |
-| Re:Zero Vol.2 | Standard | $98 | $249 | +154% | +154% | +124% | 2,473d | Moderate |
-| Re:Zero Memory Snow | Standard | $98 | $176 | +80% | +80% | +58% | 2,081d | Low |
-| Re:Zero Frozen Bond | Extra | $29 | $83 | +185% | +185% | +151% | 1,899d | Niche |
+| Re:Zero Vol.1 | Standard | $98 | [$249](https://www.tcgplayer.com/search/weiss-schwarz/product?q=Re:Zero+Vol.1+booster+box+sealed&productLineName=weiss-schwarz) | +154% | +154% | +124% | 2,690d | Moderate |
+| Re:Zero Vol.2 | Standard | $98 | [$249](https://www.tcgplayer.com/search/weiss-schwarz/product?q=Re:Zero+Vol.2+booster+box+sealed&productLineName=weiss-schwarz) | +154% | +154% | +124% | 2,473d | Moderate |
+| Re:Zero Memory Snow | Standard | $98 | [$176](https://www.tcgplayer.com/search/weiss-schwarz/product?q=Re:Zero+Memory+Snow+booster+box+sealed&productLineName=weiss-schwarz) | +80% | +80% | +58% | 2,081d | Low |
+| Re:Zero Frozen Bond | Extra | $29 | [$83](https://www.tcgplayer.com/search/weiss-schwarz/product?q=Re:Zero+Frozen+Bond+booster+box+sealed&productLineName=weiss-schwarz) | +185% | +185% | +151% | 1,899d | Niche |
 
 > _Post-Fee ROI assumes TCGPlayer seller fees of 11.75% (10.25% marketplace + 1.5% payment processing). Extra Booster sets not directly comparable to standard boosters._
 

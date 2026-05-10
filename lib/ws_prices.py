@@ -75,7 +75,12 @@ def _search_tcgplayer(query: str) -> str:
 def get_box_price(set_name: str) -> dict:
     """Return current sealed booster box market price from TCGPlayer."""
     try:
-        text = _search_tcgplayer(f"{set_name} booster box sealed")
+        query = f"{set_name} booster box sealed"
+        search_url = (
+            "https://www.tcgplayer.com/search/weiss-schwarz/product"
+            f"?q={query.replace(' ', '+')}&productLineName=weiss-schwarz"
+        )
+        text = _run(_fetch_page_text(search_url))
         lines = [l.strip() for l in text.split("\n") if l.strip()]
 
         results = []
@@ -114,11 +119,12 @@ def get_box_price(set_name: str) -> dict:
 
         return {
             "set_name": set_name,
+            "search_url": search_url,
             "results": results[:5],
             "top": best,
         }
     except Exception as e:
-        return {"set_name": set_name, "results": [], "top": None, "error": str(e)}
+        return {"set_name": set_name, "search_url": None, "results": [], "top": None, "error": str(e)}
 
 
 def get_set_summary(set_name: str) -> dict:

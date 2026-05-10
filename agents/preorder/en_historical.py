@@ -44,9 +44,11 @@ def analyze_en_history(en_historical_sets: list[dict]) -> dict:
         # Current box price from TCGPlayer
         box_result = None
         current_price = None
+        tcgplayer_url = None
         try:
             box_result = ws_prices.get_box_price(set_cfg["name"])
             top = box_result.get("top")
+            tcgplayer_url = box_result.get("search_url")
             if top:
                 current_price = top.get("market_price_usd")
         except Exception as e:
@@ -76,6 +78,7 @@ def analyze_en_history(en_historical_sets: list[dict]) -> dict:
             "days_elapsed": days_elapsed,
             "preorder_price_usd": preorder_price,
             "current_box_price_usd": current_price,
+            "tcgplayer_url": tcgplayer_url,
             "price_change_pct": price_change_pct,
             "roi_pct": roi_pct,
             "post_fee_roi_pct": post_fee_roi_pct,

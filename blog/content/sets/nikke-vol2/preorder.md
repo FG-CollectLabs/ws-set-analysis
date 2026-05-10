@@ -37,7 +37,7 @@ Prior EN sets average -17.5% vs preorder. Moderate dip — waiting 30–60 days 
 
 | Set | Type | Preorder | Current Box | Change | ROI | Post-Fee ROI | Age | Competitive |
 |-----|------|----------|-------------|--------|-----|--------------|-----|-------------|
-| Goddess of Victory: NIKKE Vol.1 | Standard | $85 | $70 | -18% | -18% | -27% | 835d | Low |
+| Goddess of Victory: NIKKE Vol.1 | Standard | $85 | [$70](https://www.tcgplayer.com/search/weiss-schwarz/product?q=Goddess+of+Victory:+NIKKE+Vol.1+booster+box+sealed&productLineName=weiss-schwarz) | -18% | -18% | -27% | 835d | Low |
 
 > _Post-Fee ROI assumes TCGPlayer seller fees of 11.75% (10.25% marketplace + 1.5% payment processing). Extra Booster sets not directly comparable to standard boosters._
 

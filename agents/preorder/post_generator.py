@@ -96,9 +96,14 @@ def _ip_strength_section(ip_data: dict, set_config: dict) -> str:
 
     anime_lines = []
     if anime and "error" not in anime:
+        a_title = anime.get('title_english') or anime.get('title')
+        a_url = anime.get('url')
+        a_title_str = f"[{a_title}]({a_url})" if a_url else a_title
+        a_rank = anime.get('rank')
+        a_rank_str = f"[#{a_rank}](https://myanimelist.net/topanime.php)" if a_rank else "N/A"
         anime_lines = [
-            f"- **Title:** {anime.get('title_english') or anime.get('title')}",
-            f"- **MAL Rank:** #{anime.get('rank', 'N/A')}",
+            f"- **Title:** {a_title_str}",
+            f"- **MAL Rank:** {a_rank_str}",
             f"- **Score:** {anime.get('score', 'N/A')} / 10",
             f"- **Members:** {anime.get('members', 0):,}",
             f"- **Favorites:** {anime.get('favorites', 0):,}",
@@ -108,9 +113,14 @@ def _ip_strength_section(ip_data: dict, set_config: dict) -> str:
 
     manga_lines = []
     if manga and "error" not in manga:
+        m_title = manga.get('title_english') or manga.get('title')
+        m_url = manga.get('url')
+        m_title_str = f"[{m_title}]({m_url})" if m_url else m_title
+        m_rank = manga.get('rank')
+        m_rank_str = f"[#{m_rank}](https://myanimelist.net/topmanga.php)" if m_rank else "N/A"
         manga_lines = [
-            f"- **Title:** {manga.get('title_english') or manga.get('title')}",
-            f"- **MAL Rank:** #{manga.get('rank', 'N/A')}",
+            f"- **Title:** {m_title_str}",
+            f"- **MAL Rank:** {m_rank_str}",
             f"- **Score:** {manga.get('score', 'N/A')} / 10",
             f"- **Members:** {manga.get('members', 0):,}",
             f"- **Status:** {manga.get('status', 'N/A')}",
@@ -142,7 +152,12 @@ def _en_history_section(en_history: dict) -> str:
         name = s["name"]
         ptype = "Extra" if s.get("product_type") == "extra_booster" else "Standard"
         preorder = f"${s['preorder_price_usd']:.0f}" if s.get("preorder_price_usd") else "N/A"
-        current = f"${s['current_box_price_usd']:.0f}" if s.get("current_box_price_usd") else "N/A"
+        if s.get("current_box_price_usd"):
+            price_str = f"${s['current_box_price_usd']:.0f}"
+            tcg_url = s.get("tcgplayer_url")
+            current = f"[{price_str}]({tcg_url})" if tcg_url else price_str
+        else:
+            current = "N/A"
         change = f"{s['price_change_pct']:+.0f}%" if s.get("price_change_pct") is not None else "N/A"
         roi = f"{s['roi_pct']:+.0f}%" if s.get("roi_pct") is not None else "N/A"
         post_fee_roi = f"{s['post_fee_roi_pct']:+.0f}%" if s.get("post_fee_roi_pct") is not None else "N/A"
