@@ -19,15 +19,15 @@ Solid signals overall. Preorder is reasonable. Minor risk factors present but no
 
 ## IP Strength — Strong
 
-**Assessment:** Anime MAL rank #384 (top 500)
+**Assessment:** Anime MAL rank #385 (top 500)
 
 ### Anime
 
 - **Title:** Re:ZERO -Starting Life in Another World-
-- **MAL Rank:** #384
+- **MAL Rank:** #385
 - **Score:** 8.25 / 10
-- **Members:** 2,457,554
-- **Favorites:** 76,154
+- **Members:** 2,458,287
+- **Favorites:** 76,181
 - **Popularity Rank:** #23
 - **Status:** Finished Airing (25 episodes)
 
@@ -36,7 +36,7 @@ Solid signals overall. Preorder is reasonable. Minor risk factors present but no
 - **Title:** Re:ZERO -Starting Life in Another World-
 - **MAL Rank:** #36
 - **Score:** 8.86 / 10
-- **Members:** 85,192
+- **Members:** 85,219
 - **Status:** Publishing
 
 ## Historical EN Performance
@@ -45,14 +45,14 @@ Solid signals overall. Preorder is reasonable. Minor risk factors present but no
 
 Prior EN sets average +129.3% vs preorder. Strong appreciation — demand holds post-release.
 
-| Set | Type | Preorder | Current Box | Change | Age | Competitive |
-|-----|------|----------|-------------|--------|-----|-------------|
-| Re:Zero Vol.1 | Standard | $98 | $249 | +154% | 2,690d | Moderate |
-| Re:Zero Vol.2 | Standard | $98 | $249 | +154% | 2,473d | Moderate |
-| Re:Zero Memory Snow | Standard | $98 | $176 | +80% | 2,081d | Low |
-| Re:Zero Frozen Bond | Extra | $29 | $83 | +185% | 1,899d | Niche |
+| Set | Type | Preorder | Current Box | Change | ROI | Post-Fee ROI | Age | Competitive |
+|-----|------|----------|-------------|--------|-----|--------------|-----|-------------|
+| Re:Zero Vol.1 | Standard | $98 | $249 | +154% | +154% | +124% | 2,690d | Moderate |
+| Re:Zero Vol.2 | Standard | $98 | $249 | +154% | +154% | +124% | 2,473d | Moderate |
+| Re:Zero Memory Snow | Standard | $98 | $176 | +80% | +80% | +58% | 2,081d | Low |
+| Re:Zero Frozen Bond | Extra | $29 | $83 | +185% | +185% | +151% | 1,899d | Niche |
 
-> _Note: Extra Booster sets are not directly comparable to standard boosters due to different price points and pack configurations._
+> _Post-Fee ROI assumes TCGPlayer seller fees of 11.75% (10.25% marketplace + 1.5% payment processing). Extra Booster sets not directly comparable to standard boosters._
 
 ## Japanese Set Analysis (RZ/S116)
 
@@ -89,11 +89,32 @@ Prior EN sets average +129.3% vs preorder. Strong appreciation — demand holds 
 | 9 | ミニエミリア | PR | ¥1,480 ($9.92) |
 | 10 | 母様の愛した世界で エミリア | S | ¥1,280 ($8.58) |
 
+### Prior JP Sets — SP Avg & EV History
+
+| Set | Code | JP Release | Box EV | EX/SP Avg (× cards) |
+|-----|------|------------|--------|----------------------|
+| Re:Zero Vol.1 (JP) | RZ/S46 | 2016-05-27 | ¥588 ($4) | N/A |
+| Re:Zero Vol.2 (JP) | RZ/S55 | 2018-08-31 | ¥941 ($6) | N/A |
+| Re:Zero Memory Snow (JP) | RZ/S68 | 2020-08-28 | ¥556 ($4) | N/A |
+| Re:Zero Frozen Bond (JP) | RZ/SE35 | 2020-12-18 | ¥429 ($3) | N/A |
+
+> _EX rarity on Yuyutei = EN-eligible SP/SSP equivalents. Helps gauge how this IP's SP values trend over time._
+
 ## Competitive Standing — Moderate
 
 **Score contribution:** 1/2
 
 Re:Zero has tournament presence but is not currently top-tier in BCS 24/25. Viable for locals and regionals. Vol.3 JP may introduce new competitive pieces.
+
+## Series & Future Demand Outlook
+
+**Series Status:** Ongoing &nbsp;|&nbsp; **Future EN Sets Expected:** Yes
+
+Re:Zero is a long-running light novel series (Tappei Nagatsuki, Kadokawa) with no announced ending. The main story is ongoing; arc 7 is still being written as of 2025. The anime has covered through arc 4 (season 2). Arcs 5 and beyond remain unadapted.
+
+A third anime season adapting arc 5+ would significantly boost demand for EN WS sets. No season 3 announcement as of 2026-05-10, but community expectation is high given the arc 4 conclusion. Bushiroad has released Vol.1, Vol.2, Memory Snow, and Frozen Bond in EN — this is the 5th EN release, indicating sustained publisher commitment.
+
+**Demand impact:** Ongoing IP with high season 3 anticipation. If season 3 is announced before or during the EN release window, expect a significant demand spike. Even without announcement, prior sets have shown strong long-term appreciation, suggesting collector floor is solid.
 
 ## Recommendation: 🔵 BUY
 
@@ -101,7 +122,7 @@ Re:Zero has tournament presence but is not currently top-tier in BCS 24/25. Viab
 
 | Dimension | Score | Detail |
 |-----------|-------|--------|
-| IP Strength | 3/3 | Strong — Anime MAL rank #384 (top 500) |
+| IP Strength | 3/3 | Strong — Anime MAL rank #385 (top 500) |
 | EN Trend | 3/3 | Appreciating — Prior EN sets average +129.3% vs preorder. Strong appreciation — demand holds po... |
 | JP EV Signal | -1/2 | Negative — JP box EV $64 is significantly below expected EN preorder. EV does not support p... |
 | Competitive | 1/2 | Moderate |

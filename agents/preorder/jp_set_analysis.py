@@ -40,6 +40,7 @@ def analyze_jp_sets(jp_equivalent_sets: list[dict], expected_en_preorder_usd: fl
                     else None
                 )
                 entry["total_cards"] = summary.get("total_cards", 0)
+                entry["sp_stats"] = _extract_sp_stats(summary, JPY_TO_USD)
             except Exception as e:
                 entry["summary_error"] = str(e)
         else:
@@ -82,4 +83,31 @@ def analyze_jp_sets(jp_equivalent_sets: list[dict], expected_en_preorder_usd: fl
         "ev_signal": ev_signal,
         "jpy_to_usd_rate": JPY_TO_USD,
         "note": "EV uses heuristic pull rates based on rarity tier. Signed cards (AGR-equivalent) excluded.",
+    }
+
+
+def _extract_sp_stats(summary: dict, jpy_to_usd: float) -> dict:
+    """
+    From a Yuyutei set summary, extract EX-rarity (EN-eligible SP/SSP) stats.
+    EX = non-signed SP/SSP in Yuyutei terminology — the main pull targets that appear in EN.
+    """
+    rarity_breakdown = summary.get("rarity_breakdown", [])
+    ex_entry = next((r for r in rarity_breakdown if r["rarity"] == "EX"), None)
+
+    if not ex_entry:
+        return {"available": False, "note": "No EX rarity found in set"}
+
+    avg_jpy = ex_entry.get("avg_sell_price_jpy", 0)
+    count = ex_entry.get("card_count", 0)
+
+    # Top EX cards from the full top-10 list
+    top10 = summary.get("top_10_by_price", [])
+    ex_cards = [c for c in top10 if c.get("rarity") == "EX"]
+
+    return {
+        "available": True,
+        "card_count": count,
+        "avg_price_jpy": avg_jpy,
+        "avg_price_usd": round(avg_jpy * jpy_to_usd, 2),
+        "top_ex_cards": ex_cards[:3],
     }

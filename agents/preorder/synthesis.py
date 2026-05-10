@@ -10,6 +10,7 @@ def synthesize(
     en_history: dict,
     jp_analysis: dict,
     competitive_standing: str,
+    simultaneous_release: bool = False,
 ) -> dict:
     """
     Apply V1 heuristic scoring to produce a recommendation.
@@ -41,9 +42,16 @@ def synthesize(
     trend_score = trend_scores.get(trend_pattern, 1)
 
     ev_signal = jp_analysis.get("ev_signal") or {}
-    ev_rating = ev_signal.get("rating", "neutral")
-    ev_scores = {"positive": 2, "neutral": 1, "caution": 0, "negative": -1}
-    ev_score = ev_scores.get(ev_rating, 1)
+    if simultaneous_release:
+        # JP and EN release at the same time — JP pricing has no predictive value
+        ev_rating = "simultaneous"
+        ev_score = 1  # neutral default; no signal either way
+        ev_description = "EN and JP release simultaneously — JP market prices cannot be used as a forward indicator."
+    else:
+        ev_rating = ev_signal.get("rating", "neutral")
+        ev_scores = {"positive": 2, "neutral": 1, "caution": 0, "negative": -1}
+        ev_score = ev_scores.get(ev_rating, 1)
+        ev_description = ev_signal.get("description", "")
 
     comp_score = COMP_SCORES.get(competitive_standing.lower(), 0)
 
@@ -70,7 +78,7 @@ def synthesize(
         "score_breakdown": {
             "ip_tier": {"score": ip_score, "tier": ip_tier, "reason": ip_data.get("tier_reason")},
             "en_trend": {"score": trend_score, "pattern": trend_pattern, "description": trend.get("description")},
-            "jp_ev": {"score": ev_score, "rating": ev_rating, "description": ev_signal.get("description")},
+            "jp_ev": {"score": ev_score, "rating": ev_rating, "description": ev_description},
             "competitive": {"score": comp_score, "standing": competitive_standing},
         },
     }

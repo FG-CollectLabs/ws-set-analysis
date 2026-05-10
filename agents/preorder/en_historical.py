@@ -11,6 +11,9 @@ from lib import ws_prices
 
 ROOT = Path(__file__).parent.parent.parent
 
+# TCGPlayer seller fee (10.25%) + payment processing (1.5%) = 11.75%
+TCGPLAYER_FEE_RATE = 0.1175
+
 
 def analyze_en_history(en_historical_sets: list[dict]) -> dict:
     """
@@ -49,10 +52,15 @@ def analyze_en_history(en_historical_sets: list[dict]) -> dict:
         except Exception as e:
             box_result = {"error": str(e)}
 
-        # Price change
+        # Price change and ROI
         price_change_pct = None
+        roi_pct = None
+        post_fee_roi_pct = None
         if preorder_price and current_price:
             price_change_pct = round(((current_price - preorder_price) / preorder_price) * 100, 1)
+            roi_pct = price_change_pct  # same calc, aliased for clarity
+            net_after_fees = current_price * (1 - TCGPLAYER_FEE_RATE)
+            post_fee_roi_pct = round(((net_after_fees - preorder_price) / preorder_price) * 100, 1)
 
         # SP pull rate for quick reference
         sp_rate = next(
@@ -69,6 +77,8 @@ def analyze_en_history(en_historical_sets: list[dict]) -> dict:
             "preorder_price_usd": preorder_price,
             "current_box_price_usd": current_price,
             "price_change_pct": price_change_pct,
+            "roi_pct": roi_pct,
+            "post_fee_roi_pct": post_fee_roi_pct,
             "sp_rate": sp_rate,
             "pull_rates": seed.get("pull_rates", []),
             "competitive_standing": seed.get("competitive_standing"),

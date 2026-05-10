@@ -45,6 +45,9 @@ def run(slug: str) -> None:
     ip_data = score_ip(
         mal_anime_id=cfg.get("mal_anime_id"),
         mal_manga_id=cfg.get("mal_manga_id"),
+        ip_tier_override=cfg.get("ip_tier_override"),
+        ip_tier_reason_override=cfg.get("ip_tier_reason_override"),
+        ip_type=cfg.get("ip_type", "anime"),
     )
     print(f"      Tier: {ip_data['tier']} — {ip_data['tier_reason']}")
 
@@ -73,6 +76,7 @@ def run(slug: str) -> None:
         en_history=en_history,
         jp_analysis=jp_analysis,
         competitive_standing=cfg.get("competitive_standing", "unknown"),
+        simultaneous_release=cfg.get("simultaneous_jp_en_release", False),
     )
     print(f"\n  *** RECOMMENDATION: {rec_data['recommendation'].upper()} ***")
     print(f"  Score: {rec_data['total_score']}/{rec_data['max_score']}")

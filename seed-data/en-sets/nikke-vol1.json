@@ -1,0 +1,54 @@
+{
+  "set_name": "Goddess of Victory: NIKKE Vol.1",
+  "set_slug": "nikke-vol1",
+  "set_code_en": "NK/W86-E",
+  "set_code_jp": "NK/W86",
+  "language": "EN",
+  "release_date": "2024-01-26",
+  "jp_release_date": "2024-01-26",
+  "simultaneous_release": true,
+  "product_type": "booster",
+  "packs_per_box": 20,
+  "cards_per_pack": 8,
+  "cards_per_box": 160,
+  "preorder_price_usd": 85.00,
+  "preorder_price_source": "Retailer preorder listings at launch (approximately $80-90 range; $85 used as midpoint)",
+  "pull_rates": [
+    {
+      "rarity": "SP",
+      "guaranteed_per_box": true,
+      "rate_per_box": 1.0,
+      "cards_in_set": 6,
+      "note": "1 SP guaranteed per box; 6 SP cards in set"
+    },
+    {
+      "rarity": "SSP",
+      "guaranteed_per_box": false,
+      "rate_per_box": 0.25,
+      "cards_in_set": 4,
+      "note": "Approximately 1 SSP per 4 boxes; 4 SSP cards in set"
+    },
+    {
+      "rarity": "RRR",
+      "guaranteed_per_box": false,
+      "rate_per_box": 8.0,
+      "note": "Estimated ~8 RRR per box (standard WS distribution)"
+    },
+    {
+      "rarity": "RR",
+      "guaranteed_per_box": false,
+      "rate_per_box": 16.0,
+      "note": "Estimated ~16 RR per box"
+    },
+    {
+      "rarity": "R",
+      "guaranteed_per_box": false,
+      "rate_per_box": 32.0,
+      "note": "Estimated ~32 R per box"
+    }
+  ],
+  "competitive_standing": "low",
+  "competitive_notes": "NIKKE Vol.1 has minimal competitive presence in EN WS. The IP is a mobile game without a major anime tournament arc. Cards see some casual play but not BCS top-8 representation.",
+  "data_confidence": "medium",
+  "notes": "Simultaneous EN/JP release. Preorder price estimated from retailer records — actual prices varied by retailer. Set code NK/W86-E verified. Pull rate data estimated from community sources; official pull rate PDF not available at time of writing."
+}

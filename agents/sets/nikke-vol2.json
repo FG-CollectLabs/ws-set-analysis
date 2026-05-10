@@ -1,0 +1,56 @@
+{
+  "set_name": "Goddess of Victory: NIKKE Vol.2",
+  "set_slug": "nikke-vol2",
+  "ip_name": "NIKKE",
+  "ip_full_name": "Goddess of Victory: NIKKE",
+  "ip_type": "game",
+  "ip_tier_override": "Moderate",
+  "ip_tier_reason_override": "Top-grossing mobile game globally; consistent top-10 gross revenue on iOS/Android. Shift Up reported 3M+ downloads in launch week. Strong gacha player base drives card collector crossover demand. No anime adaptation as of 2026-05-10, limiting mainstream WS appeal compared to anime IPs.",
+  "mal_anime_id": null,
+  "mal_manga_id": null,
+  "language": "EN",
+  "status": "preorder",
+  "simultaneous_jp_en_release": true,
+  "en_announced": true,
+  "analysis_date": "2026-05-10",
+  "en_release_date_estimate": "2026-Q3",
+  "expected_en_preorder_price_usd": 90.00,
+  "expected_en_preorder_price_note": "Standard EN WS booster boxes $85-105. Using $90 baseline. Vol.1 launched at ~$85; modest price increase expected for Vol.2.",
+
+  "en_historical_sets": [
+    {
+      "name": "Goddess of Victory: NIKKE Vol.1",
+      "slug": "nikke-vol1",
+      "set_code": "NK/W86-E",
+      "seed": "seed-data/en-sets/nikke-vol1.json",
+      "product_type": "booster"
+    }
+  ],
+
+  "jp_equivalent_sets": [
+    {
+      "name": "NIKKE Vol.1 (JP)",
+      "set_code": "NK/W86",
+      "jp_release_date": "2024-01-26",
+      "note": "Simultaneous EN/JP release — JP pricing carries no predictive value for EN"
+    },
+    {
+      "name": "NIKKE Vol.2 (JP)",
+      "set_code": "NK/W120",
+      "jp_release_date": "2026-Q3",
+      "is_current_jp_set": true,
+      "note": "Simultaneous EN/JP release — JP and EN price discovery happens concurrently. JP market data not predictive."
+    }
+  ],
+
+  "competitive_standing": "low",
+  "competitive_notes": "NIKKE has minimal EN WS competitive presence. The game has a dedicated player base but has not translated into BCS tournament representation. Cards are primarily collector-driven. Vol.2 may introduce stronger builds depending on card pool, but no competitive standing change is anticipated at this stage.",
+
+  "series_continuation": {
+    "status": "ongoing",
+    "future_en_sets_expected": true,
+    "reasoning": "NIKKE is an ongoing mobile game with no announced end. Shift Up (the developer) continues to release new characters and story content. As long as the game remains commercially active — which it is, consistently ranking in top-grossing charts — Bushiroad will likely continue releasing WS sets for it. Mobile games with strong gacha revenue tend to receive ongoing WS support (see: GBF, Re:Birth from the Ashes, etc.).",
+    "notes": "No anime adaptation announced as of 2026-05-10. An anime announcement would be a major demand catalyst — monitor Shift Up and Cygames announcements. The simultaneous EN/JP release model for Vol.2 signals Bushiroad confidence in EN market demand for this IP.",
+    "demand_impact": "Ongoing mobile game with stable revenue. Future sets are very likely. However, without an anime adaptation, demand growth is ceiling-capped compared to anime-based IPs. The simultaneous release means no JP market pricing signal — EN demand must be gauged purely from Vol.1 EN performance and community sentiment."
+  }
+}

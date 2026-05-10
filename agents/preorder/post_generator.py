@@ -57,6 +57,7 @@ summary: "{synthesis['summary']}"
         _en_history_section(en_history),
         _jp_section(jp_analysis, set_config),
         _competitive_section(set_config, synthesis),
+        _series_outlook_section(set_config),
         _recommendation_section(synthesis, badge),
         _data_sources_section(set_config, today),
     ]
@@ -135,7 +136,7 @@ def _en_history_section(en_history: dict) -> str:
     trend = en_history.get("trend", {})
     sets = en_history.get("sets", [])
 
-    # Table
+    # Table with ROI columns
     rows = []
     for s in sets:
         name = s["name"]
@@ -143,9 +144,11 @@ def _en_history_section(en_history: dict) -> str:
         preorder = f"${s['preorder_price_usd']:.0f}" if s.get("preorder_price_usd") else "N/A"
         current = f"${s['current_box_price_usd']:.0f}" if s.get("current_box_price_usd") else "N/A"
         change = f"{s['price_change_pct']:+.0f}%" if s.get("price_change_pct") is not None else "N/A"
+        roi = f"{s['roi_pct']:+.0f}%" if s.get("roi_pct") is not None else "N/A"
+        post_fee_roi = f"{s['post_fee_roi_pct']:+.0f}%" if s.get("post_fee_roi_pct") is not None else "N/A"
         days = f"{s['days_elapsed']:,}d" if s.get("days_elapsed") else "N/A"
         comp = (s.get("competitive_standing") or "—").title()
-        rows.append(f"| {name} | {ptype} | {preorder} | {current} | {change} | {days} | {comp} |")
+        rows.append(f"| {name} | {ptype} | {preorder} | {current} | {change} | {roi} | {post_fee_roi} | {days} | {comp} |")
 
     table = "\n".join(rows) if rows else "_No historical data available_"
 
@@ -160,11 +163,11 @@ def _en_history_section(en_history: dict) -> str:
 
 {trend_desc}
 
-| Set | Type | Preorder | Current Box | Change | Age | Competitive |
-|-----|------|----------|-------------|--------|-----|-------------|
+| Set | Type | Preorder | Current Box | Change | ROI | Post-Fee ROI | Age | Competitive |
+|-----|------|----------|-------------|--------|-----|--------------|-----|-------------|
 {table}
 
-> _Note: Extra Booster sets are not directly comparable to standard boosters due to different price points and pack configurations._"""
+> _Post-Fee ROI assumes TCGPlayer seller fees of 11.75% (10.25% marketplace + 1.5% payment processing). Extra Booster sets not directly comparable to standard boosters._"""
 
 
 def _jp_section(jp_analysis: dict, set_config: dict) -> str:
@@ -209,6 +212,25 @@ def _jp_section(jp_analysis: dict, set_config: dict) -> str:
     jp_code = current.get("set_code", set_config.get("set_code_jp", "—"))
     jp_date = current.get("jp_release_date", "—")
 
+    # Prior JP sets comparison (SP avg and EV)
+    prior_jp_rows = []
+    for jp_set in jp_analysis.get("sets", []):
+        if jp_set.get("is_current"):
+            continue
+        set_code_jp = jp_set.get("set_code", "—")
+        jp_rel = jp_set.get("jp_release_date", "—")
+        ev_jpy = jp_set.get("box_ev_jpy")
+        ev_u = jp_set.get("box_ev_usd")
+        ev_str = f"¥{ev_jpy:,} (${ev_u:.0f})" if ev_jpy and ev_u else "N/A"
+        sp = jp_set.get("sp_stats") or {}
+        if sp.get("available"):
+            sp_str = f"¥{sp['avg_price_jpy']:,} (${sp['avg_price_usd']:.0f}) × {sp['card_count']}"
+        else:
+            sp_str = "N/A"
+        prior_jp_rows.append(f"| {jp_set['name']} | {set_code_jp} | {jp_rel} | {ev_str} | {sp_str} |")
+
+    prior_jp_block = "\n".join(prior_jp_rows) if prior_jp_rows else "_No prior JP set data available_"
+
     return f"""## Japanese Set Analysis ({jp_code})
 
 **JP Release:** {jp_date} &nbsp;|&nbsp; {ev_line}
@@ -227,7 +249,44 @@ def _jp_section(jp_analysis: dict, set_config: dict) -> str:
 
 | # | Card Name | Rarity | Price |
 |---|-----------|--------|-------|
-{top_block}"""
+{top_block}
+
+### Prior JP Sets — SP Avg & EV History
+
+| Set | Code | JP Release | Box EV | EX/SP Avg (× cards) |
+|-----|------|------------|--------|----------------------|
+{prior_jp_block}
+
+> _EX rarity on Yuyutei = EN-eligible SP/SSP equivalents. Helps gauge how this IP's SP values trend over time._"""
+
+
+def _series_outlook_section(set_config: dict) -> str:
+    outlook = set_config.get("series_continuation") or {}
+    if not outlook:
+        return ""
+
+    status = outlook.get("status", "unknown").replace("_", " ").title()
+    future_sets = outlook.get("future_en_sets_expected")
+    reasoning = outlook.get("reasoning", "")
+    notes = outlook.get("notes", "")
+    demand_impact = outlook.get("demand_impact", "")
+    simultaneous = set_config.get("simultaneous_jp_en_release", False)
+
+    future_str = "Yes" if future_sets is True else ("No" if future_sets is False else "Unknown")
+
+    simultaneous_note = ""
+    if simultaneous:
+        simultaneous_note = "\n\n> **Simultaneous EN/JP Release:** EN and JP versions release at the same time. JP market price cannot be used as a forward indicator for EN demand — both markets price discovery happens concurrently."
+
+    return f"""## Series & Future Demand Outlook
+
+**Series Status:** {status} &nbsp;|&nbsp; **Future EN Sets Expected:** {future_str}
+
+{reasoning}
+
+{notes}
+
+**Demand impact:** {demand_impact}{simultaneous_note}"""
 
 
 def _competitive_section(set_config: dict, synthesis: dict) -> str:
@@ -269,15 +328,25 @@ def _recommendation_section(synthesis: dict, badge: str) -> str:
 def _data_sources_section(set_config: dict, today: str) -> str:
     mal_anime = set_config.get("mal_anime_id")
     mal_manga = set_config.get("mal_manga_id")
-    jp_code = set_config.get("set_code_jp", "")
+    ip_type = set_config.get("ip_type", "anime")
+
+    if ip_type == "game":
+        ip_data_line = "- **IP Data:** Manual assessment — mobile game IP; MAL data unavailable"
+    elif mal_anime or mal_manga:
+        lines = ["- **IP Data:** [MyAnimeList](https://myanimelist.net) via Jikan v4 API"]
+        if mal_anime:
+            lines.append(f"  - Anime: [MAL #{mal_anime}](https://myanimelist.net/anime/{mal_anime})")
+        if mal_manga:
+            lines.append(f"  - Manga: [MAL #{mal_manga}](https://myanimelist.net/manga/{mal_manga})")
+        ip_data_line = "\n".join(lines)
+    else:
+        ip_data_line = "- **IP Data:** MAL data unavailable for this IP"
 
     return f"""## Data Sources & Methodology
 
 _All prices are point-in-time snapshots taken {today}. Not financial advice._
 
-- **IP Data:** [MyAnimeList](https://myanimelist.net) via Jikan v4 API
-  - Anime: [MAL #{mal_anime}](https://myanimelist.net/anime/{mal_anime})
-  - Manga: [MAL #{mal_manga}](https://myanimelist.net/manga/{mal_manga})
+{ip_data_line}
 - **JP Card Prices:** [Yuyutei](https://yuyu-tei.jp) (scraped)
 - **EN Card Prices:** [TCGPlayer](https://www.tcgplayer.com/search/weiss-schwarz/product) (scraped)
 - **Pull Rates:** Bushiroad official product pages + community records

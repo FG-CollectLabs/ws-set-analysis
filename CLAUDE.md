@@ -55,15 +55,15 @@ Each MCP server can be run standalone and added to `~/.claude/claude_desktop_con
   "mcpServers": {
     "jikan": {
       "command": "python",
-      "args": ["C:/path/to/ws-set-analysis/mcp/jikan/server.py"]
+      "args": ["C:/Users/nguye/VSCode/FG-CollectLabs/ws-set-analysis/mcp/jikan/server.py"]
     },
     "yuyutei": {
       "command": "python",
-      "args": ["C:/path/to/ws-set-analysis/mcp/yuyutei/server.py"]
+      "args": ["C:/Users/nguye/VSCode/FG-CollectLabs/ws-set-analysis/mcp/yuyutei/server.py"]
     },
     "ws-prices": {
       "command": "python",
-      "args": ["C:/path/to/ws-set-analysis/mcp/ws-prices/server.py"]
+      "args": ["C:/Users/nguye/VSCode/FG-CollectLabs/ws-set-analysis/mcp/ws-prices/server.py"]
     }
   }
 }

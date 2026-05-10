@@ -7,10 +7,17 @@ sys.path.insert(0, str(Path(__file__).parent.parent.parent))
 from lib import jikan
 
 
-def score_ip(mal_anime_id: int | None, mal_manga_id: int | None) -> dict:
+def score_ip(
+    mal_anime_id: int | None,
+    mal_manga_id: int | None,
+    ip_tier_override: str | None = None,
+    ip_tier_reason_override: str | None = None,
+    ip_type: str = "anime",
+) -> dict:
     """
     Fetch MAL data for the anime and manga versions of an IP and compute a strength score.
-    Returns structured data for use in synthesis and blog post generation.
+    For non-anime IPs (games, etc.), pass ip_tier_override + ip_tier_reason_override
+    to bypass MAL-based scoring when MAL data is insufficient.
     """
     anime_data = None
     manga_data = None
@@ -27,11 +34,16 @@ def score_ip(mal_anime_id: int | None, mal_manga_id: int | None) -> dict:
         except Exception as e:
             manga_data = {"error": str(e), "mal_id": mal_manga_id}
 
-    tier, reason = _compute_tier(anime_data, manga_data)
+    if ip_tier_override:
+        tier = ip_tier_override
+        reason = ip_tier_reason_override or f"Manual override: {ip_tier_override}"
+    else:
+        tier, reason = _compute_tier(anime_data, manga_data)
 
     return {
         "anime": anime_data,
         "manga": manga_data,
+        "ip_type": ip_type,
         "tier": tier,
         "tier_reason": reason,
     }

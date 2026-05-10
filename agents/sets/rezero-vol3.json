@@ -84,5 +84,12 @@
   "competitive_standing": "moderate",
   "competitive_notes": "Re:Zero has tournament presence but is not currently top-tier in BCS 24/25. Viable for locals and regionals. Vol.3 JP may introduce new competitive pieces.",
   "expected_en_preorder_price_usd": 90.00,
-  "expected_en_preorder_price_note": "Standard EN WS booster boxes trend $85-105. Using $90 as baseline for EV comparison."
+  "expected_en_preorder_price_note": "Standard EN WS booster boxes trend $85-105. Using $90 as baseline for EV comparison.",
+  "series_continuation": {
+    "status": "ongoing",
+    "future_en_sets_expected": true,
+    "reasoning": "Re:Zero is a long-running light novel series (Tappei Nagatsuki, Kadokawa) with no announced ending. The main story is ongoing; arc 7 is still being written as of 2025. The anime has covered through arc 4 (season 2). Arcs 5 and beyond remain unadapted.",
+    "notes": "A third anime season adapting arc 5+ would significantly boost demand for EN WS sets. No season 3 announcement as of 2026-05-10, but community expectation is high given the arc 4 conclusion. Bushiroad has released Vol.1, Vol.2, Memory Snow, and Frozen Bond in EN — this is the 5th EN release, indicating sustained publisher commitment.",
+    "demand_impact": "Ongoing IP with high season 3 anticipation. If season 3 is announced before or during the EN release window, expect a significant demand spike. Even without announcement, prior sets have shown strong long-term appreciation, suggesting collector floor is solid."
+  }
 }
