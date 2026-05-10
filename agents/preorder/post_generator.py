@@ -161,9 +161,10 @@ def _en_history_section(en_history: dict) -> str:
         change = f"{s['price_change_pct']:+.0f}%" if s.get("price_change_pct") is not None else "N/A"
         roi = f"{s['roi_pct']:+.0f}%" if s.get("roi_pct") is not None else "N/A"
         post_fee_roi = f"{s['post_fee_roi_pct']:+.0f}%" if s.get("post_fee_roi_pct") is not None else "N/A"
+        xirr = f"{s['post_fee_xirr_pct']:+.1f}%/yr" if s.get("post_fee_xirr_pct") is not None else "N/A"
         days = f"{s['days_elapsed']:,}d" if s.get("days_elapsed") else "N/A"
         comp = (s.get("competitive_standing") or "—").title()
-        rows.append(f"| {name} | {ptype} | {preorder} | {current} | {change} | {roi} | {post_fee_roi} | {days} | {comp} |")
+        rows.append(f"| {name} | {ptype} | {preorder} | {current} | {change} | {roi} | {post_fee_roi} | {xirr} | {days} | {comp} |")
 
     table = "\n".join(rows) if rows else "_No historical data available_"
 
@@ -178,11 +179,11 @@ def _en_history_section(en_history: dict) -> str:
 
 {trend_desc}
 
-| Set | Type | Preorder | Current Box | Change | ROI | Post-Fee ROI | Age | Competitive |
-|-----|------|----------|-------------|--------|-----|--------------|-----|-------------|
+| Set | Type | Preorder | Current Box | Change | ROI | Post-Fee ROI | Post-Fee XIRR | Age | Competitive |
+|-----|------|----------|-------------|--------|-----|--------------|---------------|-----|-------------|
 {table}
 
-> _Post-Fee ROI assumes TCGPlayer seller fees of 11.75% (10.25% marketplace + 1.5% payment processing). Extra Booster sets not directly comparable to standard boosters._"""
+> _Post-Fee ROI and XIRR assume TCGPlayer seller fees of 11.75% (10.25% marketplace + 1.5% payment processing). XIRR is the annualized return rate — what you'd earn per year if you bought at preorder and sold today. Extra Booster sets not directly comparable to standard boosters._"""
 
 
 def _jp_section(jp_analysis: dict, set_config: dict) -> str:

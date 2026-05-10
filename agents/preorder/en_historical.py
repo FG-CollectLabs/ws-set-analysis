@@ -54,15 +54,19 @@ def analyze_en_history(en_historical_sets: list[dict]) -> dict:
         except Exception as e:
             box_result = {"error": str(e)}
 
-        # Price change and ROI
+        # Price change, ROI, and annualized XIRR
         price_change_pct = None
         roi_pct = None
         post_fee_roi_pct = None
+        post_fee_xirr_pct = None
         if preorder_price and current_price:
             price_change_pct = round(((current_price - preorder_price) / preorder_price) * 100, 1)
-            roi_pct = price_change_pct  # same calc, aliased for clarity
+            roi_pct = price_change_pct
             net_after_fees = current_price * (1 - TCGPLAYER_FEE_RATE)
             post_fee_roi_pct = round(((net_after_fees - preorder_price) / preorder_price) * 100, 1)
+            if days_elapsed and days_elapsed > 0:
+                years = days_elapsed / 365.25
+                post_fee_xirr_pct = round(((net_after_fees / preorder_price) ** (1 / years) - 1) * 100, 1)
 
         # SP pull rate for quick reference
         sp_rate = next(
@@ -82,6 +86,7 @@ def analyze_en_history(en_historical_sets: list[dict]) -> dict:
             "price_change_pct": price_change_pct,
             "roi_pct": roi_pct,
             "post_fee_roi_pct": post_fee_roi_pct,
+            "post_fee_xirr_pct": post_fee_xirr_pct,
             "sp_rate": sp_rate,
             "pull_rates": seed.get("pull_rates", []),
             "competitive_standing": seed.get("competitive_standing"),

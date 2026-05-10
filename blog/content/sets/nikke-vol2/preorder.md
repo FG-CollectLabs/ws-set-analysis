@@ -35,11 +35,11 @@ _MAL manga data unavailable_
 
 Prior EN sets average -17.5% vs preorder. Moderate dip — waiting 30–60 days post-release typically yields a better entry.
 
-| Set | Type | Preorder | Current Box | Change | ROI | Post-Fee ROI | Age | Competitive |
-|-----|------|----------|-------------|--------|-----|--------------|-----|-------------|
-| Goddess of Victory: NIKKE Vol.1 | Standard | $85 | [$70](https://www.tcgplayer.com/search/weiss-schwarz/product?q=Goddess+of+Victory:+NIKKE+Vol.1+booster+box+sealed&productLineName=weiss-schwarz) | -18% | -18% | -27% | 835d | Low |
+| Set | Type | Preorder | Current Box | Change | ROI | Post-Fee ROI | Post-Fee XIRR | Age | Competitive |
+|-----|------|----------|-------------|--------|-----|--------------|---------------|-----|-------------|
+| Goddess of Victory: NIKKE Vol.1 | Standard | $85 | [$70](https://www.tcgplayer.com/search/weiss-schwarz/product?q=Goddess+of+Victory:+NIKKE+Vol.1+booster+box+sealed&productLineName=weiss-schwarz) | -18% | -18% | -27% | -13.0%/yr | 835d | Low |
 
-> _Post-Fee ROI assumes TCGPlayer seller fees of 11.75% (10.25% marketplace + 1.5% payment processing). Extra Booster sets not directly comparable to standard boosters._
+> _Post-Fee ROI and XIRR assume TCGPlayer seller fees of 11.75% (10.25% marketplace + 1.5% payment processing). XIRR is the annualized return rate — what you'd earn per year if you bought at preorder and sold today. Extra Booster sets not directly comparable to standard boosters._
 
 ## Japanese Set Analysis (NK/W120)
 

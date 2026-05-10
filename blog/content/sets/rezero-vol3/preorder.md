@@ -45,14 +45,14 @@ Solid signals overall. Preorder is reasonable. Minor risk factors present but no
 
 Prior EN sets average +129.3% vs preorder. Strong appreciation — demand holds post-release.
 
-| Set | Type | Preorder | Current Box | Change | ROI | Post-Fee ROI | Age | Competitive |
-|-----|------|----------|-------------|--------|-----|--------------|-----|-------------|
-| Re:Zero Vol.1 | Standard | $98 | [$249](https://www.tcgplayer.com/search/weiss-schwarz/product?q=Re:Zero+Vol.1+booster+box+sealed&productLineName=weiss-schwarz) | +154% | +154% | +124% | 2,690d | Moderate |
-| Re:Zero Vol.2 | Standard | $98 | [$249](https://www.tcgplayer.com/search/weiss-schwarz/product?q=Re:Zero+Vol.2+booster+box+sealed&productLineName=weiss-schwarz) | +154% | +154% | +124% | 2,473d | Moderate |
-| Re:Zero Memory Snow | Standard | $98 | [$176](https://www.tcgplayer.com/search/weiss-schwarz/product?q=Re:Zero+Memory+Snow+booster+box+sealed&productLineName=weiss-schwarz) | +80% | +80% | +58% | 2,081d | Low |
-| Re:Zero Frozen Bond | Extra | $29 | [$83](https://www.tcgplayer.com/search/weiss-schwarz/product?q=Re:Zero+Frozen+Bond+booster+box+sealed&productLineName=weiss-schwarz) | +185% | +185% | +151% | 1,899d | Niche |
+| Set | Type | Preorder | Current Box | Change | ROI | Post-Fee ROI | Post-Fee XIRR | Age | Competitive |
+|-----|------|----------|-------------|--------|-----|--------------|---------------|-----|-------------|
+| Re:Zero Vol.1 | Standard | $98 | [$249](https://www.tcgplayer.com/search/weiss-schwarz/product?q=Re:Zero+Vol.1+booster+box+sealed&productLineName=weiss-schwarz) | +154% | +154% | +124% | +11.6%/yr | 2,690d | Moderate |
+| Re:Zero Vol.2 | Standard | $98 | [$249](https://www.tcgplayer.com/search/weiss-schwarz/product?q=Re:Zero+Vol.2+booster+box+sealed&productLineName=weiss-schwarz) | +154% | +154% | +124% | +12.7%/yr | 2,473d | Moderate |
+| Re:Zero Memory Snow | Standard | $98 | [$176](https://www.tcgplayer.com/search/weiss-schwarz/product?q=Re:Zero+Memory+Snow+booster+box+sealed&productLineName=weiss-schwarz) | +80% | +80% | +58% | +8.4%/yr | 2,081d | Low |
+| Re:Zero Frozen Bond | Extra | $29 | [$83](https://www.tcgplayer.com/search/weiss-schwarz/product?q=Re:Zero+Frozen+Bond+booster+box+sealed&productLineName=weiss-schwarz) | +185% | +185% | +151% | +19.4%/yr | 1,899d | Niche |
 
-> _Post-Fee ROI assumes TCGPlayer seller fees of 11.75% (10.25% marketplace + 1.5% payment processing). Extra Booster sets not directly comparable to standard boosters._
+> _Post-Fee ROI and XIRR assume TCGPlayer seller fees of 11.75% (10.25% marketplace + 1.5% payment processing). XIRR is the annualized return rate — what you'd earn per year if you bought at preorder and sold today. Extra Booster sets not directly comparable to standard boosters._
 
 ## Japanese Set Analysis (RZ/S116)
 
