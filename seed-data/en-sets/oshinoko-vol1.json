@@ -10,8 +10,9 @@
   "packs_per_box": 20,
   "cards_per_pack": 8,
   "cards_per_box": 160,
-  "preorder_price_usd": 90.00,
-  "preorder_price_source": "Retailer preorder listings; standard EN WS booster box price tier",
+  "preorder_price_usd": 65.00,
+  "preorder_price_source": "Goldstar Collectibles (u/th8596) — original preorder listing",
+  "preorder_reddit_url": "https://www.reddit.com/r/WeissSchwarz/comments/1c8v4et/english_weiss_schwarz_preorders_hololive_jojo/",
   "pull_rates": [
     { "rarity": "SP",  "guaranteed_per_box": true,  "rate_per_box": 1.0,  "cards_in_set": 8, "note": "1 SP guaranteed per box" },
     { "rarity": "SSP", "guaranteed_per_box": false, "rate_per_box": 0.25, "cards_in_set": 4, "note": "~1 per 4 boxes" },
@@ -20,7 +21,7 @@
     { "rarity": "R",   "guaranteed_per_box": false, "rate_per_box": 32.0 }
   ],
   "competitive_standing": "low",
-  "competitive_notes": "Minimal competitive WS presence. Very strong collector demand driven by the IP's anime popularity.",
-  "data_confidence": "low",
-  "notes": "Release date and preorder price are estimates — verify against actual retailer records. JP set code OSK/S94 may be incorrect if Bushiroad used a different prefix."
+  "competitive_notes": "Minimal competitive WS presence. Very strong collector demand. Ai SP is a landmark card.",
+  "data_confidence": "medium",
+  "notes": "Preorder price confirmed via Goldstar Reddit post (English Oshi No Ko Booster Box $65 Shipped). Release date is estimated — verify against Bushiroad EN product page."
 }

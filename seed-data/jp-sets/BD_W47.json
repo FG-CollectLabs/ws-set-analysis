@@ -1,0 +1,2328 @@
+{
+  "set_code": "BD/W47",
+  "cards": [
+    {
+      "card_no": "BD/W47-001SP",
+      "name": "Glitter*Green 鰐部七菜(サイン入り)",
+      "rarity": "SP",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W47-002SP",
+      "name": "Glitter*Green 二十騎ひなこ(サイン入り)",
+      "rarity": "SP",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W47-003SP",
+      "name": "Glitter*Green 鵜沢リィ(サイン入り)",
+      "rarity": "SP",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W47-004SP",
+      "name": "Glitter*Green 牛込ゆり(サイン入り)",
+      "rarity": "SP",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W47-023SP",
+      "name": "山吹沙綾(サイン入り)",
+      "rarity": "SP",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W47-024SP",
+      "name": "牛込りみ(サイン入り)",
+      "rarity": "SP",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W47-025SP",
+      "name": "戸山香澄(サイン入り)",
+      "rarity": "SP",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W47-040SP",
+      "name": "戸山明日香(サイン入り)",
+      "rarity": "SP",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W47-082SP",
+      "name": "市ヶ谷有咲(サイン入り)",
+      "rarity": "SP",
+      "sell_price_jpy": 2980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W47-084SP",
+      "name": "花園たえ(サイン入り)",
+      "rarity": "SP",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W47-126SP",
+      "name": "★輝ける場所を探して★戸山香澄(サイン入り)",
+      "rarity": "SP",
+      "sell_price_jpy": 1280,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W47-127SP",
+      "name": "★輝ける場所を探して★花園たえ(サイン入り)",
+      "rarity": "SP",
+      "sell_price_jpy": 1280,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W47-128SP",
+      "name": "★輝ける場所を探して★牛込りみ(サイン入り)",
+      "rarity": "SP",
+      "sell_price_jpy": 1280,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W47-129SP",
+      "name": "★輝ける場所を探して★山吹沙綾(サイン入り)",
+      "rarity": "SP",
+      "sell_price_jpy": 1280,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W47-130SP",
+      "name": "★輝ける場所を探して★市ヶ谷有咲(サイン入り)",
+      "rarity": "SP",
+      "sell_price_jpy": 1280,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W47-T10SP",
+      "name": "“Poppin’Party”戸山香澄(サイン入り)",
+      "rarity": "SP",
+      "sell_price_jpy": 2480,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W47-T02X",
+      "name": "“Poppin’Party”山吹沙綾(サイン入り)",
+      "rarity": "X",
+      "sell_price_jpy": 500,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W47-T05X",
+      "name": "“Poppin’Party”牛込りみ(サイン入り)",
+      "rarity": "X",
+      "sell_price_jpy": 500,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W47-T10X",
+      "name": "“Poppin’Party”戸山香澄(サイン入り)",
+      "rarity": "X",
+      "sell_price_jpy": 680,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W47-T18X",
+      "name": "“Poppin’Party”市ヶ谷有咲(サイン入り)",
+      "rarity": "X",
+      "sell_price_jpy": 500,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W47-T19X",
+      "name": "“Poppin’Party”花園たえ(サイン入り)",
+      "rarity": "X",
+      "sell_price_jpy": 500,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W47-026P",
+      "name": "Starrin’ PARTY 山吹沙綾",
+      "rarity": "PR",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-036P",
+      "name": "Starrin’ PARTY 戸山香澄",
+      "rarity": "PR",
+      "sell_price_jpy": 320,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-037P",
+      "name": "Starrin’ PARTY 牛込りみ",
+      "rarity": "PR",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-080P",
+      "name": "私たち Poppin’Party",
+      "rarity": "PR",
+      "sell_price_jpy": 780,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-091P",
+      "name": "Starrin’ PARTY 市ヶ谷有咲",
+      "rarity": "PR",
+      "sell_price_jpy": 320,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-092P",
+      "name": "Starrin’ PARTY 花園たえ",
+      "rarity": "PR",
+      "sell_price_jpy": 320,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-120P",
+      "name": "Poppin’Party 初LIVE",
+      "rarity": "PR",
+      "sell_price_jpy": 320,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-020R",
+      "name": "ハッピークリスマス♪香澄",
+      "rarity": "R",
+      "sell_price_jpy": 1480,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-021R",
+      "name": "ハッピークリスマス♪沙綾",
+      "rarity": "R",
+      "sell_price_jpy": 420,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-022R",
+      "name": "満月の下で 香澄＆りみ",
+      "rarity": "R",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-074R",
+      "name": "STAR BEAT!-ホシノコドウ-",
+      "rarity": "R",
+      "sell_price_jpy": 320,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-075R",
+      "name": "交わした約束",
+      "rarity": "R",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-077R",
+      "name": "大きな一歩",
+      "rarity": "R",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-081R",
+      "name": "ステージを見つめるたえ",
+      "rarity": "R",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-083R",
+      "name": "水着の有咲",
+      "rarity": "R",
+      "sell_price_jpy": 320,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-116R",
+      "name": "ドキドキ星",
+      "rarity": "R",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-117R",
+      "name": "みんなと感じた感動",
+      "rarity": "R",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-029S",
+      "name": "“きらきら星”香澄",
+      "rarity": "S",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-030S",
+      "name": "憂鬱な目覚め りみ",
+      "rarity": "S",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-031S",
+      "name": "ハッピーハロウィン♪香澄",
+      "rarity": "S",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-032S",
+      "name": "ドキドキのステージ りみ",
+      "rarity": "S",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-033S",
+      "name": "女子高生 沙綾",
+      "rarity": "S",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-035S",
+      "name": "木漏れ日の下で 沙綾",
+      "rarity": "S",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-085S",
+      "name": "帰り道 有咲",
+      "rarity": "S",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-086S",
+      "name": "朝の一コマ たえ",
+      "rarity": "S",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-089S",
+      "name": "“クライブ”たえ",
+      "rarity": "S",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-090S",
+      "name": "笑いをこらえる有咲",
+      "rarity": "S",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-T02S",
+      "name": "“Poppin’Party”山吹沙綾",
+      "rarity": "S",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-T10S",
+      "name": "“Poppin’Party”戸山香澄",
+      "rarity": "S",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-020",
+      "name": "ハッピークリスマス♪香澄",
+      "rarity": "PR",
+      "sell_price_jpy": 780,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-021",
+      "name": "ハッピークリスマス♪沙綾",
+      "rarity": "PR",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-022",
+      "name": "満月の下で 香澄＆りみ",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-023",
+      "name": "山吹沙綾",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-024",
+      "name": "牛込りみ",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-025",
+      "name": "戸山香澄",
+      "rarity": "PR",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-081",
+      "name": "ステージを見つめるたえ",
+      "rarity": "PR",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-082",
+      "name": "市ヶ谷有咲",
+      "rarity": "PR",
+      "sell_price_jpy": 420,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-083",
+      "name": "水着の有咲",
+      "rarity": "PR",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-084",
+      "name": "花園たえ",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-001",
+      "name": "Glitter*Green 鰐部七菜",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-002",
+      "name": "Glitter*Green 二十騎ひなこ",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-003",
+      "name": "Glitter*Green 鵜沢リィ",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-004",
+      "name": "Glitter*Green 牛込ゆり",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-026",
+      "name": "Starrin’ PARTY 山吹沙綾",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-027",
+      "name": "初めて感じた“ドキドキ”香澄",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-028",
+      "name": "夕暮れのライブハウスで りみ",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-029",
+      "name": "“きらきら星”香澄",
+      "rarity": "PR",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-030",
+      "name": "憂鬱な目覚め りみ",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-031",
+      "name": "ハッピーハロウィン♪香澄",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-032",
+      "name": "ドキドキのステージ りみ",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-033",
+      "name": "女子高生 沙綾",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-034",
+      "name": "友達思い 沙綾",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-035",
+      "name": "木漏れ日の下で 沙綾",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-036",
+      "name": "Starrin’ PARTY 戸山香澄",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-037",
+      "name": "Starrin’ PARTY 牛込りみ",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-085",
+      "name": "帰り道 有咲",
+      "rarity": "PR",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-086",
+      "name": "朝の一コマ たえ",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-087",
+      "name": "Sprin’PARTY 花園たえ",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-088",
+      "name": "盆栽女子 有咲",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-089",
+      "name": "“クライブ”たえ",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-090",
+      "name": "笑いをこらえる有咲",
+      "rarity": "PR",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-091",
+      "name": "Starrin’ PARTY 市ヶ谷有咲",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-092",
+      "name": "Starrin’ PARTY 花園たえ",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-005",
+      "name": "二十騎ひなこ",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-006",
+      "name": "沙綾の友達 夏希",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-007",
+      "name": "優しい眼差し ゆり",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-008",
+      "name": "ステージの上で リィ",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-009",
+      "name": "生徒会長 七菜",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-038",
+      "name": "提案 りみ",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-039",
+      "name": "夜空の下で 香澄",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-040",
+      "name": "戸山明日香",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-041",
+      "name": "ガールズバンドの聖地 香澄",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-042",
+      "name": "新たなスタート 沙綾",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-043",
+      "name": "家事上手 沙綾",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-044",
+      "name": "走り出した思い 沙綾",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-045",
+      "name": "真夏のビーチサイド 沙綾＆りみ",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-046",
+      "name": "見つけたキラキラ りみ",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-047",
+      "name": "チョココロネの歌 りみ",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-048",
+      "name": "Sprin’PARTY 山吹沙綾",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-049",
+      "name": "おはよう 香澄",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-050",
+      "name": "満足気な香澄",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-051",
+      "name": "夕暮れ時の一コマ りみ",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-071",
+      "name": "蔵の中にあったもの",
+      "rarity": "PR",
+      "sell_price_jpy": 320,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-072",
+      "name": "夜空の下で",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-073",
+      "name": "香澄からの手紙",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-093",
+      "name": "昼休み たえ",
+      "rarity": "PR",
+      "sell_price_jpy": 320,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-094",
+      "name": "Sprin’PARTY 市ヶ谷有咲",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-095",
+      "name": "“SPACE”オーナー 都築詩船",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-096",
+      "name": "キラキラがいっぱい 有咲",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-097",
+      "name": "初ライブ 有咲",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-098",
+      "name": "SPACEのアルバイト たえ",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-099",
+      "name": "“クライブ”有咲",
+      "rarity": "PR",
+      "sell_price_jpy": 500,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-100",
+      "name": "ツンデレ有咲",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-101",
+      "name": "準備万端 たえ",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-102",
+      "name": "はじけるサマー♪ たえ&有咲&香澄",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-114",
+      "name": "イラつくあいつ",
+      "rarity": "PR",
+      "sell_price_jpy": 1480,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-115",
+      "name": "はじめて聴いたギター",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-010",
+      "name": "牛込ゆり",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-011",
+      "name": "香澄たちの先輩 ひなこ",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-012",
+      "name": "頼れるお姉さん ゆり",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-013",
+      "name": "デベコと一緒 リィ",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-014",
+      "name": "キーボード担当 七菜",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-015",
+      "name": "“クライブ”ゆり",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-016",
+      "name": "鵜沢リィ",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-017",
+      "name": "鰐部七菜",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-052",
+      "name": "“クライブ”沙綾",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-053",
+      "name": "内気な少女 りみ",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-054",
+      "name": "“ヘンタイ”香澄",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-055",
+      "name": "姉思い 明日香",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-056",
+      "name": "朝の出来事 りみ",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-057",
+      "name": "“クライブ”香澄",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-058",
+      "name": "カーテンぐるぐる りみ",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-059",
+      "name": "自己紹介 沙綾",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-060",
+      "name": "お誘い 沙綾",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-061",
+      "name": "Sprin’PARTY 牛込りみ",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-062",
+      "name": "おかずの交換 香澄",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-063",
+      "name": "朝の一コマ 沙綾",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-064",
+      "name": "“クライブ”りみ",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-065",
+      "name": "チョココロネを手渡す沙綾",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-066",
+      "name": "香澄の妹 明日香",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-067",
+      "name": "初ライブ 香澄",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-068",
+      "name": "本当の気持ち 沙綾",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-069",
+      "name": "Sprin’PARTY 戸山香澄",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-070",
+      "name": "一日店長 香澄",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-103",
+      "name": "補習教室 たえ",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-104",
+      "name": "女子高生 たえ",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-105",
+      "name": "ハッピーハロウィン♪有咲",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-106",
+      "name": "ドキドキな気持ち たえ",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-107",
+      "name": "魅惑の卵焼き 有咲",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-108",
+      "name": "昨日の出来事 有咲",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-109",
+      "name": "幼いころのたえ",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-110",
+      "name": "高校生 有咲",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-111",
+      "name": "初ライブ たえ",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-112",
+      "name": "けだるげな有咲",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-113",
+      "name": "テンパる有咲",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-018",
+      "name": "私たちのステージ!",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-074",
+      "name": "STAR BEAT!-ホシノコドウ-",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-075",
+      "name": "交わした約束",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-116",
+      "name": "ドキドキ星",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-019",
+      "name": "姉妹のひととき",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-076",
+      "name": "きらきら星",
+      "rarity": "PR",
+      "sell_price_jpy": 420,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-077",
+      "name": "大きな一歩",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-078",
+      "name": "憧れのステージ",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-079",
+      "name": "やさしいお姉ちゃん",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-080",
+      "name": "私たち Poppin’Party",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-117",
+      "name": "みんなと感じた感動",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-118",
+      "name": "本音",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-119",
+      "name": "有咲、トネガワを売る",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-120",
+      "name": "Poppin’Party 初LIVE",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-T01",
+      "name": "パン屋の娘 沙綾",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-T02",
+      "name": "“Poppin’Party”山吹沙綾",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-T03",
+      "name": "自己紹介 香澄",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-T04",
+      "name": "“STAR BEAT! -ホシノコドウ-”牛込りみ",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-T05a",
+      "name": "“Poppin’Party”牛込りみ",
+      "rarity": "?",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-T05b",
+      "name": "“Poppin’Party”牛込りみ",
+      "rarity": "?",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-T06",
+      "name": "始まりの予感 戸山香澄",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-T07",
+      "name": "緊張の自己紹介 りみ",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-T08",
+      "name": "“STAR BEAT! -ホシノコドウ-”戸山香澄",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-T09",
+      "name": "“STAR BEAT! -ホシノコドウ-”山吹沙綾",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-T10",
+      "name": "“Poppin’Party”戸山香澄",
+      "rarity": "PR",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-T11a",
+      "name": "MyFavorite item",
+      "rarity": "?",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-T11b",
+      "name": "MyFavorite item",
+      "rarity": "?",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-T11c",
+      "name": "MyFavorite item",
+      "rarity": "?",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-T11d",
+      "name": "MyFavorite item",
+      "rarity": "?",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-T11e",
+      "name": "MyFavorite item",
+      "rarity": "?",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-T12",
+      "name": "高まるドキドキ! 胸のトキメキ!",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-T13",
+      "name": "Let’s! Poppin’Party",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-T14",
+      "name": "“STAR BEAT! -ホシノコドウ-”花園たえ",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-T15",
+      "name": "両手を上げろ! 有咲",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-T16",
+      "name": "“STAR BEAT! -ホシノコドウ-”市ヶ谷有咲",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-T17",
+      "name": "興味なさげなたえ",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-T18a",
+      "name": "“Poppin’Party”市ヶ谷有咲",
+      "rarity": "?",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-T18b",
+      "name": "“Poppin’Party”市ヶ谷有咲",
+      "rarity": "?",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-T19a",
+      "name": "“Poppin’Party”花園たえ",
+      "rarity": "?",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-T19b",
+      "name": "“Poppin’Party”花園たえ",
+      "rarity": "?",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-T20",
+      "name": "STARBEAT!-ホシノコドウ-",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-121",
+      "name": "ぷち香澄",
+      "rarity": "PR",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-122",
+      "name": "ぷちりみ",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-123",
+      "name": "ぷち沙綾",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-124",
+      "name": "ぷち有咲",
+      "rarity": "PR",
+      "sell_price_jpy": 320,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-125",
+      "name": "ぷちたえ",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-P01",
+      "name": "“はじめまして”Poppin’Party",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-P02",
+      "name": "冬制服 Poppin’Party",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-P03",
+      "name": "冬制服 戸山香澄",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-P04",
+      "name": "ときめきエクスペリエンス! 戸山香澄",
+      "rarity": "PR",
+      "sell_price_jpy": 320,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-P04SP",
+      "name": "ときめきエクスペリエンス! 戸山香澄(サイン入り)",
+      "rarity": "SP",
+      "sell_price_jpy": 780,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W47-P05",
+      "name": "ときめきエクスペリエンス! 花園たえ",
+      "rarity": "PR",
+      "sell_price_jpy": 320,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-P05SP",
+      "name": "ときめきエクスペリエンス! 花園たえ(サイン入り)",
+      "rarity": "SP",
+      "sell_price_jpy": 980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W47-P06",
+      "name": "ときめきエクスペリエンス! 牛込りみ",
+      "rarity": "PR",
+      "sell_price_jpy": 320,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-P06SP",
+      "name": "ときめきエクスペリエンス! 牛込りみ(サイン入り)",
+      "rarity": "SP",
+      "sell_price_jpy": 980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W47-P07",
+      "name": "ときめきエクスペリエンス! 山吹沙綾",
+      "rarity": "PR",
+      "sell_price_jpy": 320,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-P07SP",
+      "name": "ときめきエクスペリエンス! 山吹沙綾(サイン入り)",
+      "rarity": "SP",
+      "sell_price_jpy": 980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W47-P08",
+      "name": "ときめきエクスペリエンス! 市ヶ谷有咲",
+      "rarity": "PR",
+      "sell_price_jpy": 320,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-P08SP",
+      "name": "ときめきエクスペリエンス! 市ヶ谷有咲(サイン入り)",
+      "rarity": "SP",
+      "sell_price_jpy": 780,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W47-P09",
+      "name": "曲作り! Poppin’Party",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-P10",
+      "name": "冬制服 市ヶ谷有咲",
+      "rarity": "PR",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-P11",
+      "name": "冬制服 牛込りみ",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-P12",
+      "name": "冬制服 花園たえ",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-P13",
+      "name": "冬制服 山吹沙綾",
+      "rarity": "PR",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-P14",
+      "name": "キラキラだとか夢だとか -Sing Girls-",
+      "rarity": "PR",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-P14SP",
+      "name": "キラキラだとか夢だとか -Sing Girls-(箔押し入り)",
+      "rarity": "SP",
+      "sell_price_jpy": 420,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W47-P15",
+      "name": "キラキラドキドキしようよ♪",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-P16",
+      "name": "はじめよう、私たちのバンド活動!",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-P16a",
+      "name": "はじめよう、私たちのバンド活動！",
+      "rarity": "?",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-P16b",
+      "name": "はじめよう、私たちのバンド活動！",
+      "rarity": "?",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-P17",
+      "name": "キラキラ香澄",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-P17S",
+      "name": "キラキラ香澄(箔押し入り)",
+      "rarity": "S",
+      "sell_price_jpy": 320,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-P18",
+      "name": "真夏のギタリスト 香澄＆たえ",
+      "rarity": "PR",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-P19",
+      "name": "キラキラ有咲",
+      "rarity": "PR",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-P20a",
+      "name": "届け!私たちの歌 戸山香澄(サインなし)",
+      "rarity": "?",
+      "sell_price_jpy": 320,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W47-P20b",
+      "name": "届け!私たちの歌 戸山香澄(黒サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 500,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W47-P20c",
+      "name": "届け!私たちの歌 戸山香澄(箔押しサイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W47-P21a",
+      "name": "届け!私たちの歌 市ヶ谷有咲(サインなし)",
+      "rarity": "?",
+      "sell_price_jpy": 320,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W47-P21b",
+      "name": "届け!私たちの歌 市ヶ谷有咲(黒サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 780,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W47-P21c",
+      "name": "届け!私たちの歌 市ヶ谷有咲(箔押しサイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W47-P22",
+      "name": "ビーチでセッション♪",
+      "rarity": "PR",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-P23a",
+      "name": "届け!私たちの歌 牛込りみ(サインなし)",
+      "rarity": "?",
+      "sell_price_jpy": 320,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W47-P23b",
+      "name": "届け!私たちの歌 牛込りみ(黒サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W47-P23c",
+      "name": "届け!私たちの歌 牛込りみ(箔押しサイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W47-P24a",
+      "name": "届け!私たちの歌 Poppin’Party(ロゴなし)",
+      "rarity": "?",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-P24b",
+      "name": "届け!私たちの歌 Poppin’Party(黒ロゴ入り)",
+      "rarity": "?",
+      "sell_price_jpy": 320,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-P24c",
+      "name": "届け!私たちの歌 Poppin’Party(箔押しロゴ入り)",
+      "rarity": "?",
+      "sell_price_jpy": 2480,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-P25a",
+      "name": "届け！私たちの歌 花園たえ(サインなし)",
+      "rarity": "?",
+      "sell_price_jpy": 320,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W47-P25b",
+      "name": "届け！私たちの歌 花園たえ(黒サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 780,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W47-P25c",
+      "name": "届け！私たちの歌 花園たえ(箔押しサイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W47-P26a",
+      "name": "届け！私たちの歌 山吹沙綾(サインなし)",
+      "rarity": "?",
+      "sell_price_jpy": 320,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W47-P26b",
+      "name": "届け！私たちの歌 山吹沙綾(黒サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 780,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W47-P26c",
+      "name": "届け！私たちの歌 山吹沙綾(箔押しサイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W47-P27a",
+      "name": "まだまだこれから Poppin’Party(サインなし)",
+      "rarity": "?",
+      "sell_price_jpy": 320,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W47-P27b",
+      "name": "まだまだこれから Poppin’Party(黒サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 780,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W47-P27c",
+      "name": "まだまだこれから Poppin’Party(箔押しサイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1280,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W47-P28",
+      "name": "キラキラを求めて 香澄",
+      "rarity": "PR",
+      "sell_price_jpy": 980,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-P28S",
+      "name": "キラキラを求めて 香澄(箔押し入り)",
+      "rarity": "S",
+      "sell_price_jpy": 1480,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-P29",
+      "name": "私たち Poppin’Party",
+      "rarity": "PR",
+      "sell_price_jpy": 320,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-P30a",
+      "name": "止まらないドキドキ Poppin’Party",
+      "rarity": "?",
+      "sell_price_jpy": 3980,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-P30b",
+      "name": "止まらないドキドキ Poppin’Party",
+      "rarity": "?",
+      "sell_price_jpy": 5980,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W47-P31",
+      "name": "走りだす少女たち",
+      "rarity": "PR",
+      "sell_price_jpy": 320,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    }
+  ],
+  "cached_at": "2026-05-11T00:33:44.821505+00:00"
+}

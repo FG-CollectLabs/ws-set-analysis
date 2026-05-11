@@ -1,0 +1,1329 @@
+{
+  "set_code": "BD/WE34",
+  "cards": [
+    {
+      "card_no": "BD/WE34-01SP",
+      "name": "“Astral Harmony”広町七深(サイン入り)",
+      "rarity": "SP",
+      "sell_price_jpy": 4980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/WE34-03SP",
+      "name": "“Astral Harmony”桐ヶ谷透子(サイン入り)",
+      "rarity": "SP",
+      "sell_price_jpy": 2980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/WE34-11SP",
+      "name": "“Rausch und／and Craziness ll”レイヤ(サイン入り)",
+      "rarity": "SP",
+      "sell_price_jpy": 2980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/WE34-12SP",
+      "name": "“Rausch und／and Craziness ll”ロック(サイン入り)",
+      "rarity": "SP",
+      "sell_price_jpy": 2980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/WE34-13SP",
+      "name": "“Rausch und／and Craziness ll”マスキング(サイン入り)",
+      "rarity": "SP",
+      "sell_price_jpy": 2480,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/WE34-26SP",
+      "name": "“Astral Harmony”二葉つくし(サイン入り)",
+      "rarity": "SP",
+      "sell_price_jpy": 4980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/WE34-27SP",
+      "name": "“Rausch und／and Craziness ll”パレオ(サイン入り)",
+      "rarity": "SP",
+      "sell_price_jpy": 6980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/WE34-28SP",
+      "name": "“Astral Harmony”倉田ましろ(サイン入り)",
+      "rarity": "SP",
+      "sell_price_jpy": 14800,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/WE34-29SP",
+      "name": "“Rausch und／and Craziness ll”チュチュ(サイン入り)",
+      "rarity": "SP",
+      "sell_price_jpy": 7980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/WE34-33SP",
+      "name": "“Astral Harmony”八潮瑠唯(サイン入り)",
+      "rarity": "SP",
+      "sell_price_jpy": 4980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/WE34-T17SP",
+      "name": "“青空に見えた星”倉田ましろ(サイン入り)",
+      "rarity": "SP",
+      "sell_price_jpy": 9980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/WE34-02OFR",
+      "name": "“Summerly Tone♪”桐ヶ谷透子",
+      "rarity": "OFR",
+      "sell_price_jpy": 500,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-04OFR",
+      "name": "“Summerly Tone♪”広町七深",
+      "rarity": "OFR",
+      "sell_price_jpy": 1280,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-14OFR",
+      "name": "“THE DEPTHS”ロック",
+      "rarity": "OFR",
+      "sell_price_jpy": 680,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-15OFR",
+      "name": "“THE DEPTHS”レイヤ",
+      "rarity": "OFR",
+      "sell_price_jpy": 500,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-16OFR",
+      "name": "“THE DEPTHS”マスキング",
+      "rarity": "OFR",
+      "sell_price_jpy": 420,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-30OFR",
+      "name": "“Summerly Tone♪”倉田ましろ",
+      "rarity": "OFR",
+      "sell_price_jpy": 980,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-31OFR",
+      "name": "“THE DEPTHS”パレオ",
+      "rarity": "OFR",
+      "sell_price_jpy": 980,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-32OFR",
+      "name": "“THE DEPTHS”チュチュ",
+      "rarity": "OFR",
+      "sell_price_jpy": 320,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-34OFR",
+      "name": "“Summerly Tone♪”八潮瑠唯",
+      "rarity": "OFR",
+      "sell_price_jpy": 780,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-35OFR",
+      "name": "“Summerly Tone♪”二葉つくし",
+      "rarity": "OFR",
+      "sell_price_jpy": 1280,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-T01R",
+      "name": "“広がる景色”広町七深",
+      "rarity": "R",
+      "sell_price_jpy": 980,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-T06R",
+      "name": "“みんなにお披露目!”桐ヶ谷透子",
+      "rarity": "R",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-T10R",
+      "name": "“ふふん、任せて!”二葉つくし",
+      "rarity": "R",
+      "sell_price_jpy": 980,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-T11R",
+      "name": "“選ばなかった道”八潮瑠唯",
+      "rarity": "R",
+      "sell_price_jpy": 500,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-T13S",
+      "name": "“ネガティブガール”倉田ましろ",
+      "rarity": "S",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-T19S",
+      "name": "輝き、ふたたび",
+      "rarity": "S",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-01",
+      "name": "“Astral Harmony”広町七深",
+      "rarity": "PR",
+      "sell_price_jpy": 420,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-11",
+      "name": "“Rausch und／and Craziness ll”レイヤ",
+      "rarity": "PR",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-26",
+      "name": "“Astral Harmony”二葉つくし",
+      "rarity": "PR",
+      "sell_price_jpy": 680,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-27",
+      "name": "“Rausch und／and Craziness ll”パレオ",
+      "rarity": "PR",
+      "sell_price_jpy": 780,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-28",
+      "name": "“Astral Harmony”倉田ましろ",
+      "rarity": "PR",
+      "sell_price_jpy": 420,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-29",
+      "name": "“Rausch und／and Craziness ll”チュチュ",
+      "rarity": "PR",
+      "sell_price_jpy": 780,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-02",
+      "name": "“Summerly Tone♪”桐ヶ谷透子",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-03",
+      "name": "“Astral Harmony”桐ヶ谷透子",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-04",
+      "name": "“Summerly Tone♪”広町七深",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-12",
+      "name": "“Rausch und／and Craziness ll”ロック",
+      "rarity": "PR",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-13",
+      "name": "“Rausch und／and Craziness ll”マスキング",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-14",
+      "name": "“THE DEPTHS”ロック",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-15",
+      "name": "“THE DEPTHS”レイヤ",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-16",
+      "name": "“THE DEPTHS”マスキング",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-30",
+      "name": "“Summerly Tone♪”倉田ましろ",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-31",
+      "name": "“THE DEPTHS”パレオ",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-32",
+      "name": "“THE DEPTHS”チュチュ",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-33",
+      "name": "“Astral Harmony”八潮瑠唯",
+      "rarity": "PR",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-34",
+      "name": "“Summerly Tone♪”八潮瑠唯",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-35",
+      "name": "“Summerly Tone♪”二葉つくし",
+      "rarity": "PR",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-05",
+      "name": "“Daylight”広町七深",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-06",
+      "name": "“Morfonica”桐ヶ谷透子",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-07",
+      "name": "“Daylight”桐ヶ谷透子",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-17",
+      "name": "MV撮影 ロック",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-18",
+      "name": "“音は嘘つかねえ”マスキング",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-19",
+      "name": "“夢を撃ち抜く瞬間に！”レイヤ",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-20",
+      "name": "夢を追いかけて ロック",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-21",
+      "name": "決勝のステージ マスキング",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-36",
+      "name": "“ヴァイオリン担当”八潮瑠唯",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-37",
+      "name": "メンバー紹介 チュチュ",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-38",
+      "name": "“Daylight”倉田ましろ",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-39",
+      "name": "“Daylight”二葉つくし",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-40",
+      "name": "驚きの速さ パレオ",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-41",
+      "name": "“Daylight”八潮瑠唯",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-08",
+      "name": "“ギター担当”桐ヶ谷透子",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-09",
+      "name": "“Morfonica”広町七深",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-22",
+      "name": "最高のライブ レイヤ",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-23",
+      "name": "新しいステージへ ロック",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-42",
+      "name": "“Morfonica”二葉つくし",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-43",
+      "name": "“ドラム担当”二葉つくし",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-44",
+      "name": "押しかけ勧誘 パレオ",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-45",
+      "name": "押しかけ勧誘 チュチュ",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-46",
+      "name": "“Morfonica”八潮瑠唯",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-47",
+      "name": "メンバー紹介 パレオ",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-48",
+      "name": "“Morfonica”倉田ましろ",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-49",
+      "name": "決戦は武道館 チュチュ",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-10",
+      "name": "私達の音楽",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-24",
+      "name": "Beautiful Birthday",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-25",
+      "name": "夢のひと押し",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-50",
+      "name": "Daylight",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-T01",
+      "name": "“広がる景色”広町七深",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-T02",
+      "name": "“頼れる委員長”桐ヶ谷透子",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-T03",
+      "name": "“普通が一番”広町七深",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-T04",
+      "name": "“学園の人気者”桐ヶ谷透子",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-T05",
+      "name": "“傑作完成!”広町七深",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-T06",
+      "name": "“みんなにお披露目!”桐ヶ谷透子",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-T07",
+      "name": "傑作完成!",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-T08",
+      "name": "“頼れる委員長”二葉つくし",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-T09",
+      "name": "“一目置かれる存在”八潮瑠唯",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-T10",
+      "name": "“ふふん、任せて!”二葉つくし",
+      "rarity": "PR",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-T11",
+      "name": "“選ばなかった道”八潮瑠唯",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-T12",
+      "name": "“いつも自身満々”二葉つくし",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-T13",
+      "name": "“ネガティブガール”倉田ましろ",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-T14",
+      "name": "“頼れる委員長”倉田ましろ",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-T15",
+      "name": "“才能と見切り”八潮瑠唯",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-T16",
+      "name": "“才能と見切り” 倉田ましろ",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-T17",
+      "name": "“青空に見えた星”倉田ましろ",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-T18",
+      "name": "普通カモフラージュ",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-T19",
+      "name": "輝き、ふたたび",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-T20",
+      "name": "Morfonica",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-01",
+      "name": "“Astral Harmony”広町七深(ホロ)",
+      "rarity": "PR",
+      "sell_price_jpy": 420,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-11",
+      "name": "“Rausch und／and Craziness ll”レイヤ(ホロ)",
+      "rarity": "PR",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-26",
+      "name": "“Astral Harmony”二葉つくし(ホロ)",
+      "rarity": "PR",
+      "sell_price_jpy": 680,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-27",
+      "name": "“Rausch und／and Craziness ll”パレオ(ホロ)",
+      "rarity": "PR",
+      "sell_price_jpy": 780,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-28",
+      "name": "“Astral Harmony”倉田ましろ(ホロ)",
+      "rarity": "PR",
+      "sell_price_jpy": 420,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-29",
+      "name": "“Rausch und／and Craziness ll”チュチュ(ホロ)",
+      "rarity": "PR",
+      "sell_price_jpy": 780,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-02",
+      "name": "“Summerly Tone♪”桐ヶ谷透子(ホロ)",
+      "rarity": "PR",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-03",
+      "name": "“Astral Harmony”桐ヶ谷透子(ホロ)",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-04",
+      "name": "“Summerly Tone♪”広町七深(ホロ)",
+      "rarity": "PR",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-12",
+      "name": "“Rausch und／and Craziness ll”ロック(ホロ)",
+      "rarity": "PR",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-13",
+      "name": "“Rausch und／and Craziness ll”マスキング(ホロ)",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-14",
+      "name": "“THE DEPTHS”ロック(ホロ)",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-15",
+      "name": "“THE DEPTHS”レイヤ(ホロ)",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-16",
+      "name": "“THE DEPTHS”マスキング(ホロ)",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-30",
+      "name": "“Summerly Tone♪”倉田ましろ(ホロ)",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-31",
+      "name": "“THE DEPTHS”パレオ(ホロ)",
+      "rarity": "PR",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-32",
+      "name": "“THE DEPTHS”チュチュ(ホロ)",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-33",
+      "name": "“Astral Harmony”八潮瑠唯(ホロ)",
+      "rarity": "PR",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-34",
+      "name": "“Summerly Tone♪”八潮瑠唯(ホロ)",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-35",
+      "name": "“Summerly Tone♪”二葉つくし(ホロ)",
+      "rarity": "PR",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-05",
+      "name": "“Daylight”広町七深(ホロ)",
+      "rarity": "PR",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-06",
+      "name": "“Morfonica”桐ヶ谷透子(ホロ)",
+      "rarity": "PR",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-07",
+      "name": "“Daylight”桐ヶ谷透子(ホロ)",
+      "rarity": "PR",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-17",
+      "name": "MV撮影 ロック(ホロ)",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-18",
+      "name": "“音は嘘つかねえ”マスキング(ホロ)",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-19",
+      "name": "“夢を撃ち抜く瞬間に！”レイヤ(ホロ)",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-20",
+      "name": "夢を追いかけて ロック(ホロ)",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-21",
+      "name": "決勝のステージ マスキング(ホロ)",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-36",
+      "name": "“ヴァイオリン担当”八潮瑠唯(ホロ)",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-37",
+      "name": "メンバー紹介 チュチュ(ホロ)",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-38",
+      "name": "“Daylight”倉田ましろ(ホロ)",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-39",
+      "name": "“Daylight”二葉つくし(ホロ)",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-40",
+      "name": "驚きの速さ パレオ(ホロ)",
+      "rarity": "PR",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-41",
+      "name": "“Daylight”八潮瑠唯(ホロ)",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-08",
+      "name": "“ギター担当”桐ヶ谷透子(ホロ)",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-09",
+      "name": "“Morfonica”広町七深(ホロ)",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-22",
+      "name": "最高のライブ レイヤ(ホロ)",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-23",
+      "name": "新しいステージへ ロック(ホロ)",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-42",
+      "name": "“Morfonica”二葉つくし(ホロ)",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-43",
+      "name": "“ドラム担当”二葉つくし(ホロ)",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-44",
+      "name": "押しかけ勧誘 パレオ(ホロ)",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-45",
+      "name": "押しかけ勧誘 チュチュ(ホロ)",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-46",
+      "name": "“Morfonica”八潮瑠唯(ホロ)",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-47",
+      "name": "メンバー紹介 パレオ(ホロ)",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-48",
+      "name": "“Morfonica”倉田ましろ(ホロ)",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-49",
+      "name": "決戦は武道館 チュチュ(ホロ)",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-10",
+      "name": "私達の音楽(ホロ)",
+      "rarity": "PR",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-24",
+      "name": "Beautiful Birthday(ホロ)",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-25",
+      "name": "夢のひと押し(ホロ)",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE34-50",
+      "name": "Daylight(ホロ)",
+      "rarity": "PR",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    }
+  ],
+  "cached_at": "2026-05-11T00:35:09.195965+00:00"
+}

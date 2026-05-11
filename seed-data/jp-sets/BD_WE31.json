@@ -1,0 +1,1293 @@
+{
+  "set_code": "BD/WE31",
+  "cards": [
+    {
+      "card_no": "BD/WE31-001SPM",
+      "name": "“笑顔のマジック”松原花音(サイン入り)",
+      "rarity": "SPM",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/WE31-002SPM",
+      "name": "“笑顔のマジック”奥沢美咲(サイン入り)",
+      "rarity": "SPM",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/WE31-003SPM",
+      "name": "“煌めくステージへ”氷川日菜(サイン入り)",
+      "rarity": "SPM",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/WE31-004SPM",
+      "name": "“笑顔のマジック”弦巻こころ(サイン入り)",
+      "rarity": "SPM",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/WE31-005SPM",
+      "name": "“笑顔のマジック”瀬田薫(サイン入り)",
+      "rarity": "SPM",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/WE31-006SPM",
+      "name": "“笑顔のマジック”北沢はぐみ(サイン入り)",
+      "rarity": "SPM",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/WE31-008SPM",
+      "name": "“グロウアップロック”羽沢つぐみ(サイン入り)",
+      "rarity": "SPM",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/WE31-009SPM",
+      "name": "“グロウアップロック”宇田川巴(サイン入り)",
+      "rarity": "SPM",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/WE31-010SPM",
+      "name": "“煌めくステージへ”大和麻弥(サイン入り)",
+      "rarity": "SPM",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/WE31-011SPM",
+      "name": "“グロウアップロック”上原ひまり(サイン入り)",
+      "rarity": "SPM",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/WE31-012SPM",
+      "name": "“グロウアップロック”青葉モカ(サイン入り)",
+      "rarity": "SPM",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/WE31-013SPM",
+      "name": "“グロウアップロック”美竹蘭(サイン入り)",
+      "rarity": "SPM",
+      "sell_price_jpy": 2480,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/WE31-014SPM",
+      "name": "“煌めくステージへ”若宮イヴ(サイン入り)",
+      "rarity": "SPM",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/WE31-016SPM",
+      "name": "“カラフルポッピン!”戸山香澄(サイン入り)",
+      "rarity": "SPM",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/WE31-017SPM",
+      "name": "“煌めくステージへ”丸山彩(サイン入り)",
+      "rarity": "SPM",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/WE31-018SPM",
+      "name": "“カラフルポッピン!”山吹沙綾(サイン入り)",
+      "rarity": "SPM",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/WE31-019SPM",
+      "name": "“カラフルポッピン!”牛込りみ(サイン入り)",
+      "rarity": "SPM",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/WE31-021SPM",
+      "name": "“カラフルポッピン!”市ヶ谷有咲(サイン入り)",
+      "rarity": "SPM",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/WE31-022SPM",
+      "name": "“重なり合う青薔薇”湊友希那(サイン入り)",
+      "rarity": "SPM",
+      "sell_price_jpy": 2980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/WE31-023SPM",
+      "name": "“重なり合う青薔薇”今井リサ(サイン入り)",
+      "rarity": "SPM",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/WE31-024SPM",
+      "name": "“重なり合う青薔薇”氷川紗夜(サイン入り)",
+      "rarity": "SPM",
+      "sell_price_jpy": 2480,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/WE31-025SPM",
+      "name": "“煌めくステージへ”白鷺千聖(サイン入り)",
+      "rarity": "SPM",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/WE31-026SPM",
+      "name": "“カラフルポッピン!”花園たえ(サイン入り)",
+      "rarity": "SPM",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/WE31-027SPM",
+      "name": "“重なり合う青薔薇”白金燐子(サイン入り)",
+      "rarity": "SPM",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/WE31-028SPM",
+      "name": "“重なり合う青薔薇”宇田川あこ(サイン入り)",
+      "rarity": "SPM",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/WE31-007BDR",
+      "name": "笑顔のマジック(箔押しロゴ入り)",
+      "rarity": "BDR",
+      "sell_price_jpy": 1980,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-015BDR",
+      "name": "グロウアップロック(箔押しロゴ入り)",
+      "rarity": "BDR",
+      "sell_price_jpy": 1980,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-020BDR",
+      "name": "カラフルポッピン!(箔押しロゴ入り)",
+      "rarity": "BDR",
+      "sell_price_jpy": 780,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-029BDR",
+      "name": "煌めくステージへ(箔押しロゴ入り)",
+      "rarity": "BDR",
+      "sell_price_jpy": 980,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-030BDR",
+      "name": "重なり合う青薔薇(箔押しロゴ入り)",
+      "rarity": "BDR",
+      "sell_price_jpy": 1480,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-001S",
+      "name": "“笑顔のマジック”松原花音",
+      "rarity": "S",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-002S",
+      "name": "“笑顔のマジック”奥沢美咲",
+      "rarity": "S",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-003S",
+      "name": "“煌めくステージへ”氷川日菜",
+      "rarity": "S",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-004S",
+      "name": "“笑顔のマジック”弦巻こころ",
+      "rarity": "S",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-005S",
+      "name": "“笑顔のマジック”瀬田薫",
+      "rarity": "S",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-006S",
+      "name": "“笑顔のマジック”北沢はぐみ",
+      "rarity": "S",
+      "sell_price_jpy": 320,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-007S",
+      "name": "笑顔のマジック",
+      "rarity": "S",
+      "sell_price_jpy": 320,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-008S",
+      "name": "“グロウアップロック”羽沢つぐみ",
+      "rarity": "S",
+      "sell_price_jpy": 320,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-009S",
+      "name": "“グロウアップロック”宇田川巴",
+      "rarity": "S",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-010S",
+      "name": "“煌めくステージへ”大和麻弥",
+      "rarity": "S",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-011S",
+      "name": "“グロウアップロック”上原ひまり",
+      "rarity": "S",
+      "sell_price_jpy": 320,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-012S",
+      "name": "“グロウアップロック”青葉モカ",
+      "rarity": "S",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-013S",
+      "name": "“グロウアップロック”美竹蘭",
+      "rarity": "S",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-014S",
+      "name": "“煌めくステージへ”若宮イヴ",
+      "rarity": "S",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-015S",
+      "name": "グロウアップロック",
+      "rarity": "S",
+      "sell_price_jpy": 320,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-016S",
+      "name": "“カラフルポッピン!”戸山香澄",
+      "rarity": "S",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-017S",
+      "name": "“煌めくステージへ”丸山彩",
+      "rarity": "S",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-018S",
+      "name": "“カラフルポッピン!”山吹沙綾",
+      "rarity": "S",
+      "sell_price_jpy": 320,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-019S",
+      "name": "“カラフルポッピン!”牛込りみ",
+      "rarity": "S",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-020S",
+      "name": "カラフルポッピン!",
+      "rarity": "S",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-021S",
+      "name": "“カラフルポッピン!”市ヶ谷有咲",
+      "rarity": "S",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-022S",
+      "name": "“重なり合う青薔薇”湊友希那",
+      "rarity": "S",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-023S",
+      "name": "“重なり合う青薔薇”今井リサ",
+      "rarity": "S",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-024S",
+      "name": "“重なり合う青薔薇”氷川紗夜",
+      "rarity": "S",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-025S",
+      "name": "“煌めくステージへ”白鷺千聖",
+      "rarity": "S",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-026S",
+      "name": "“カラフルポッピン!”花園たえ",
+      "rarity": "S",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-027S",
+      "name": "“重なり合う青薔薇”白金燐子",
+      "rarity": "S",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-028S",
+      "name": "“重なり合う青薔薇”宇田川あこ",
+      "rarity": "S",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-029S",
+      "name": "煌めくステージへ",
+      "rarity": "S",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-030S",
+      "name": "重なり合う青薔薇",
+      "rarity": "S",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-001H",
+      "name": "“笑顔のマジック”松原花音",
+      "rarity": "H",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-002H",
+      "name": "“笑顔のマジック”奥沢美咲",
+      "rarity": "H",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-003H",
+      "name": "“煌めくステージへ”氷川日菜",
+      "rarity": "H",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-004H",
+      "name": "“笑顔のマジック”弦巻こころ",
+      "rarity": "H",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-005H",
+      "name": "“笑顔のマジック”瀬田薫",
+      "rarity": "H",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-006H",
+      "name": "“笑顔のマジック”北沢はぐみ",
+      "rarity": "H",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-007H",
+      "name": "笑顔のマジック",
+      "rarity": "H",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-008H",
+      "name": "“グロウアップロック”羽沢つぐみ",
+      "rarity": "H",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-009H",
+      "name": "“グロウアップロック”宇田川巴",
+      "rarity": "H",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-010H",
+      "name": "“煌めくステージへ”大和麻弥",
+      "rarity": "H",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-011H",
+      "name": "“グロウアップロック”上原ひまり",
+      "rarity": "H",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-012H",
+      "name": "“グロウアップロック”青葉モカ",
+      "rarity": "H",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-013H",
+      "name": "“グロウアップロック”美竹蘭",
+      "rarity": "H",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-014H",
+      "name": "“煌めくステージへ”若宮イヴ",
+      "rarity": "H",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-015H",
+      "name": "グロウアップロック",
+      "rarity": "H",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-016H",
+      "name": "“カラフルポッピン!”戸山香澄",
+      "rarity": "H",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-017H",
+      "name": "“煌めくステージへ”丸山彩",
+      "rarity": "H",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-018H",
+      "name": "“カラフルポッピン!”山吹沙綾",
+      "rarity": "H",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-019H",
+      "name": "“カラフルポッピン!”牛込りみ",
+      "rarity": "H",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-020H",
+      "name": "カラフルポッピン!",
+      "rarity": "H",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-021H",
+      "name": "“カラフルポッピン!”市ヶ谷有咲",
+      "rarity": "H",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-022H",
+      "name": "“重なり合う青薔薇”湊友希那",
+      "rarity": "H",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-023H",
+      "name": "“重なり合う青薔薇”今井リサ",
+      "rarity": "H",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-024H",
+      "name": "“重なり合う青薔薇”氷川紗夜",
+      "rarity": "H",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-025H",
+      "name": "“煌めくステージへ”白鷺千聖",
+      "rarity": "H",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-026H",
+      "name": "“カラフルポッピン!”花園たえ",
+      "rarity": "H",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-027H",
+      "name": "“重なり合う青薔薇”白金燐子",
+      "rarity": "H",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-028H",
+      "name": "“重なり合う青薔薇”宇田川あこ",
+      "rarity": "H",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-029H",
+      "name": "煌めくステージへ",
+      "rarity": "H",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-030H",
+      "name": "重なり合う青薔薇",
+      "rarity": "H",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-001",
+      "name": "“笑顔のマジック”松原花音",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-002",
+      "name": "“笑顔のマジック”奥沢美咲",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-003",
+      "name": "“煌めくステージへ”氷川日菜",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-004",
+      "name": "“笑顔のマジック”弦巻こころ",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-005",
+      "name": "“笑顔のマジック”瀬田薫",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-006",
+      "name": "“笑顔のマジック”北沢はぐみ",
+      "rarity": "PR",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-007",
+      "name": "笑顔のマジック",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-008",
+      "name": "“グロウアップロック”羽沢つぐみ",
+      "rarity": "PR",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-009",
+      "name": "“グロウアップロック”宇田川巴",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-010",
+      "name": "“煌めくステージへ”大和麻弥",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-011",
+      "name": "“グロウアップロック”上原ひまり",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-012",
+      "name": "“グロウアップロック”青葉モカ",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-013",
+      "name": "“グロウアップロック”美竹蘭",
+      "rarity": "PR",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-014",
+      "name": "“煌めくステージへ”若宮イヴ",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-015",
+      "name": "グロウアップロック",
+      "rarity": "PR",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-016",
+      "name": "“カラフルポッピン!”戸山香澄",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-017",
+      "name": "“煌めくステージへ”丸山彩",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-018",
+      "name": "“カラフルポッピン!”山吹沙綾",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-019",
+      "name": "“カラフルポッピン!”牛込りみ",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-020",
+      "name": "カラフルポッピン!",
+      "rarity": "PR",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-021",
+      "name": "“カラフルポッピン!”市ヶ谷有咲",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-022",
+      "name": "“重なり合う青薔薇”湊友希那",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-023",
+      "name": "“重なり合う青薔薇”今井リサ",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-024",
+      "name": "“重なり合う青薔薇”氷川紗夜",
+      "rarity": "PR",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-025",
+      "name": "“煌めくステージへ”白鷺千聖",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-026",
+      "name": "“カラフルポッピン!”花園たえ",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-027",
+      "name": "“重なり合う青薔薇”白金燐子",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-028",
+      "name": "“重なり合う青薔薇”宇田川あこ",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-029",
+      "name": "煌めくステージへ",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-030",
+      "name": "重なり合う青薔薇",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-P01",
+      "name": "“マジシャンズスマイル”弦巻こころ",
+      "rarity": "PR",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-P01S",
+      "name": "“マジシャンズスマイル”弦巻こころ(ホロ)",
+      "rarity": "S",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-P02",
+      "name": "“ロックな一体感”美竹蘭",
+      "rarity": "PR",
+      "sell_price_jpy": 320,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-P02S",
+      "name": "“ロックな一体感”美竹蘭(ホロ)",
+      "rarity": "S",
+      "sell_price_jpy": 320,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-P03",
+      "name": "“憧れのお姉ちゃん”牛込ゆり",
+      "rarity": "PR",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-P03S",
+      "name": "“憧れのお姉ちゃん”牛込ゆり(ホロ)",
+      "rarity": "S",
+      "sell_price_jpy": 320,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-P04",
+      "name": "“あたふたアドリブ”丸山彩",
+      "rarity": "PR",
+      "sell_price_jpy": 420,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-P04S",
+      "name": "“あたふたアドリブ”丸山彩(ホロ)",
+      "rarity": "S",
+      "sell_price_jpy": 780,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-P05",
+      "name": "“お揃いの衣装”戸山香澄",
+      "rarity": "PR",
+      "sell_price_jpy": 320,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-P05S",
+      "name": "“お揃いの衣装”戸山香澄(ホロ)",
+      "rarity": "S",
+      "sell_price_jpy": 500,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-P06",
+      "name": "“進むべき道、共に歩む仲間”湊友希那",
+      "rarity": "PR",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-P06S",
+      "name": "“進むべき道、共に歩む仲間”湊友希那(ホロ)",
+      "rarity": "S",
+      "sell_price_jpy": 320,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-P07",
+      "name": "“あたしもペンギン！”弦巻こころ",
+      "rarity": "PR",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-P07S",
+      "name": "“あたしもペンギン！”弦巻こころ(ホロ)",
+      "rarity": "S",
+      "sell_price_jpy": 320,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-P08",
+      "name": "“蘭のアイコンタクト”美竹蘭",
+      "rarity": "PR",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-P08S",
+      "name": "“蘭のアイコンタクト”美竹蘭(ホロ)",
+      "rarity": "S",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-P09",
+      "name": "“宣誓！花火大会！”戸山香澄",
+      "rarity": "PR",
+      "sell_price_jpy": 320,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-P09S",
+      "name": "“宣誓！花火大会！”戸山香澄(ホロ)",
+      "rarity": "S",
+      "sell_price_jpy": 420,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-P10",
+      "name": "“初心者バード”湊友希那",
+      "rarity": "PR",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-P10S",
+      "name": "“初心者バード”湊友希那(ホロ)",
+      "rarity": "S",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-P11",
+      "name": "“本気・待機……”丸山彩",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-P11S",
+      "name": "“本気・待機……”丸山彩(ホロ)",
+      "rarity": "S",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE31-P12S",
+      "name": "“みんなでお花見”戸山香澄",
+      "rarity": "S",
+      "sell_price_jpy": 420,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    }
+  ],
+  "cached_at": "2026-05-11T00:34:21.031446+00:00"
+}

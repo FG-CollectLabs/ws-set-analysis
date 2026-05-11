@@ -59,7 +59,7 @@ summary: "{synthesis['summary']}"
         _competitive_section(set_config, synthesis),
         _series_outlook_section(set_config),
         _recommendation_section(synthesis, badge),
-        _data_sources_section(set_config, today),
+        _data_sources_section(set_config, today, en_history),
     ]
 
     content = "\n\n".join(s for s in sections if s)
@@ -341,7 +341,7 @@ def _recommendation_section(synthesis: dict, badge: str) -> str:
 {synthesis['summary']}"""
 
 
-def _data_sources_section(set_config: dict, today: str) -> str:
+def _data_sources_section(set_config: dict, today: str, en_history: dict | None = None) -> str:
     mal_anime = set_config.get("mal_anime_id")
     mal_manga = set_config.get("mal_manga_id")
     ip_type = set_config.get("ip_type", "anime")
@@ -358,11 +358,27 @@ def _data_sources_section(set_config: dict, today: str) -> str:
     else:
         ip_data_line = "- **IP Data:** MAL data unavailable for this IP"
 
+    # Build preorder price source note
+    en_sets = en_history.get("sets", []) if en_history else []
+    preorder_lines = []
+    for s in en_sets:
+        src = s.get("preorder_source", "")
+        url = s.get("preorder_reddit_url", "")
+        name = s["name"]
+        price = f"${s['preorder_price_usd']:.2f}" if s.get("preorder_price_usd") else "N/A"
+        if url:
+            preorder_lines.append(f"  - {name}: [{price}]({url})")
+        elif src:
+            preorder_lines.append(f"  - {name}: {price} ({src})")
+    goldstar_block = ""
+    if preorder_lines:
+        goldstar_block = "\n- **Preorder Prices:** [Goldstar Collectibles](https://www.goldstarcollectibles.com) via [u/th8596](https://www.reddit.com/user/th8596/) Reddit posts\n" + "\n".join(preorder_lines)
+
     return f"""## Data Sources & Methodology
 
 _All prices are point-in-time snapshots taken {today}. Not financial advice._
 
-{ip_data_line}
+{ip_data_line}{goldstar_block}
 - **JP Card Prices:** [Yuyutei](https://yuyu-tei.jp) (scraped)
 - **EN Card Prices:** [TCGPlayer](https://www.tcgplayer.com/search/weiss-schwarz/product) (scraped)
 - **Pull Rates:** Bushiroad official product pages + community records

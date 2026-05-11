@@ -1,0 +1,3885 @@
+{
+  "set_code": "BD/W54",
+  "cards": [
+    {
+      "card_no": "BD/W54-001SSP",
+      "name": "“世界を彩る役者”瀬田薫(サイン入り)",
+      "rarity": "SSP",
+      "sell_price_jpy": 14800,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-002SSP",
+      "name": "“モデル・モード”若宮イヴ(サイン入り)",
+      "rarity": "SSP",
+      "sell_price_jpy": 7980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-003SSP",
+      "name": "“船上の名探偵”弦巻こころ(サイン入り)",
+      "rarity": "SSP",
+      "sell_price_jpy": 19800,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-004SSP",
+      "name": "“みんなでせーの!”北沢はぐみ(サイン入り)",
+      "rarity": "SSP",
+      "sell_price_jpy": 5980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-005SSP",
+      "name": "“愛の告白”奥沢美咲(サイン入り)",
+      "rarity": "SSP",
+      "sell_price_jpy": 4980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-007SSP",
+      "name": "“踏み出した一歩”松原花音(サイン入り)",
+      "rarity": "SSP",
+      "sell_price_jpy": 6980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-026SSP",
+      "name": "“夕影の思い出”美竹蘭(サイン入り)",
+      "rarity": "SSP",
+      "sell_price_jpy": 9980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-027SSP",
+      "name": "“受け止めたい思い”青葉モカ(サイン入り)",
+      "rarity": "SSP",
+      "sell_price_jpy": 24800,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-028SSP",
+      "name": "“素顔の姿”大和麻弥(サイン入り)",
+      "rarity": "SSP",
+      "sell_price_jpy": 5980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-029SSP",
+      "name": "“パジャマ姿の患者さん”宇田川巴(サイン入り)",
+      "rarity": "SSP",
+      "sell_price_jpy": 5980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-030SSP",
+      "name": "“3人で水遊び”上原ひまり(サイン入り)",
+      "rarity": "SSP",
+      "sell_price_jpy": 12800,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-031SSP",
+      "name": "“はじまりはいつも”羽沢つぐみ(サイン入り)",
+      "rarity": "SSP",
+      "sell_price_jpy": 5980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-051SSP",
+      "name": "“憧れのお姉ちゃん”牛込りみ(サイン入り)",
+      "rarity": "SSP",
+      "sell_price_jpy": 9980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-052SSP",
+      "name": "“はじまりの音”戸山香澄(サイン入り)",
+      "rarity": "SSP",
+      "sell_price_jpy": 7980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-053SSP",
+      "name": "“必殺アイドルポーズ☆”丸山彩(サイン入り)",
+      "rarity": "SSP",
+      "sell_price_jpy": 19800,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-056SSP",
+      "name": "“真っ白な居場所”白鷺千聖(サイン入り)",
+      "rarity": "SSP",
+      "sell_price_jpy": 7980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-057SSP",
+      "name": "“1日だけの新婦”山吹沙綾(サイン入り)",
+      "rarity": "SSP",
+      "sell_price_jpy": 19800,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-069SSP",
+      "name": "“純粋な熱意”白金燐子(サイン入り)",
+      "rarity": "SSP",
+      "sell_price_jpy": 19800,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-070SSP",
+      "name": "“鳥籠の歌姫”湊友希那(サイン入り)",
+      "rarity": "SSP",
+      "sell_price_jpy": 298000,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-071SSP",
+      "name": "“しあわせの共有”花園たえ(サイン入り)",
+      "rarity": "SSP",
+      "sell_price_jpy": 5980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-073SSP",
+      "name": "“必要不可欠な存在”今井リサ(サイン入り)",
+      "rarity": "SSP",
+      "sell_price_jpy": 29800,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-074SSP",
+      "name": "“巴だけの看護師さん”宇田川あこ(サイン入り)",
+      "rarity": "SSP",
+      "sell_price_jpy": 4980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-075SSP",
+      "name": "“二人で過ごす七夕”氷川紗夜(サイン入り)",
+      "rarity": "SSP",
+      "sell_price_jpy": 17800,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-076SSP",
+      "name": "“可愛いともだち”市ヶ谷有咲(サイン入り)",
+      "rarity": "SSP",
+      "sell_price_jpy": 24800,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-077SSP",
+      "name": "“未知数の存在”氷川日菜(サイン入り)",
+      "rarity": "SSP",
+      "sell_price_jpy": 7980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-001SPa",
+      "name": "“世界を彩る役者”瀬田薫(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 2980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-001SPb",
+      "name": "“世界を彩る役者”瀬田薫(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 2980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-002SPa",
+      "name": "“モデル・モード”若宮イヴ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-002SPb",
+      "name": "“モデル・モード”若宮イヴ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-003SPa",
+      "name": "“船上の名探偵”弦巻こころ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-003SPb",
+      "name": "“船上の名探偵”弦巻こころ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-004SPa",
+      "name": "“みんなでせーの!”北沢はぐみ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-004SPb",
+      "name": "“みんなでせーの!”北沢はぐみ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-005SPa",
+      "name": "“愛の告白”奥沢美咲(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-005SPb",
+      "name": "“愛の告白”奥沢美咲(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-007SPa",
+      "name": "“踏み出した一歩”松原花音(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-007SPb",
+      "name": "“踏み出した一歩”松原花音(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-026SPa",
+      "name": "“夕影の思い出”美竹蘭(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-026SPb",
+      "name": "“夕影の思い出”美竹蘭(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-027SPa",
+      "name": "“受け止めたい思い”青葉モカ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 2480,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-027SPb",
+      "name": "“受け止めたい思い”青葉モカ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 2480,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-028SPa",
+      "name": "“素顔の姿”大和麻弥(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-028SPb",
+      "name": "“素顔の姿”大和麻弥(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-029SPa",
+      "name": "“パジャマ姿の患者さん”宇田川巴(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-029SPb",
+      "name": "“パジャマ姿の患者さん”宇田川巴(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-030SPa",
+      "name": "“3人で水遊び”上原ひまり(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-030SPb",
+      "name": "“3人で水遊び”上原ひまり(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-031SPa",
+      "name": "“はじまりはいつも”羽沢つぐみ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-031SPb",
+      "name": "“はじまりはいつも”羽沢つぐみ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-051SPa",
+      "name": "“憧れのお姉ちゃん”牛込りみ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-051SPb",
+      "name": "“憧れのお姉ちゃん”牛込りみ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-052SPa",
+      "name": "“はじまりの音”戸山香澄(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-052SPb",
+      "name": "“はじまりの音”戸山香澄(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-053SPa",
+      "name": "“必殺アイドルポーズ☆”丸山彩(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-053SPb",
+      "name": "“必殺アイドルポーズ☆”丸山彩(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-056SPa",
+      "name": "“真っ白な居場所”白鷺千聖(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-056SPb",
+      "name": "“真っ白な居場所”白鷺千聖(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-057SPa",
+      "name": "“1日だけの新婦”山吹沙綾(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 2480,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-057SPb",
+      "name": "“1日だけの新婦”山吹沙綾(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 2480,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-069SPa",
+      "name": "“純粋な熱意”白金燐子(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-069SPb",
+      "name": "“純粋な熱意”白金燐子(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-070SPa",
+      "name": "“鳥籠の歌姫”湊友希那(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 4980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-070SPb",
+      "name": "“鳥籠の歌姫”湊友希那(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 4980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-071SPa",
+      "name": "“しあわせの共有”花園たえ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-071SPb",
+      "name": "“しあわせの共有”花園たえ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-073SPa",
+      "name": "“必要不可欠な存在”今井リサ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-073SPb",
+      "name": "“必要不可欠な存在”今井リサ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-074SPa",
+      "name": "“巴だけの看護師さん”宇田川あこ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-074SPb",
+      "name": "“巴だけの看護師さん”宇田川あこ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-075SPa",
+      "name": "“二人で過ごす七夕”氷川紗夜(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-075SPb",
+      "name": "“二人で過ごす七夕”氷川紗夜(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-076SPa",
+      "name": "“可愛いともだち”市ヶ谷有咲(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-076SPb",
+      "name": "“可愛いともだち”市ヶ谷有咲(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-077SPa",
+      "name": "“未知数の存在”氷川日菜(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-077SPb",
+      "name": "“未知数の存在”氷川日菜(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1780,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-T08SP",
+      "name": "“クリスタルソング”湊友希那(サイン入り)",
+      "rarity": "SP",
+      "sell_price_jpy": 3980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-T25SP",
+      "name": "“ポテトはいかがですか？”丸山彩(サイン入り)",
+      "rarity": "SP",
+      "sell_price_jpy": 2980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-T45SP",
+      "name": "“高鳴る鼓動”美竹蘭(サイン入り)",
+      "rarity": "SP",
+      "sell_price_jpy": 2480,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-T71SP",
+      "name": "“ハッピー革命!”弦巻こころ(サイン入り)",
+      "rarity": "SP",
+      "sell_price_jpy": 2480,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-T80SP",
+      "name": "“キラキラの星空”戸山香澄(サイン入り)",
+      "rarity": "SP",
+      "sell_price_jpy": 2980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-006SPMa",
+      "name": "“世界を笑顔に!”弦巻こころ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-006SPMb",
+      "name": "“世界を笑顔に!”弦巻こころ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-008SPMa",
+      "name": "“ステージ”北沢はぐみ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-008SPMb",
+      "name": "“ステージ”北沢はぐみ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-009SPMa",
+      "name": "“ステージ”松原花音(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-009SPMb",
+      "name": "“ステージ”松原花音(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-011SPMa",
+      "name": "“はーい、ミッシェルでーす”奥沢美咲(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-011SPMb",
+      "name": "“はーい、ミッシェルでーす”奥沢美咲(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-020SPMa",
+      "name": "“私を捕まえてごらん”瀬田薫(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-020SPMb",
+      "name": "“私を捕まえてごらん”瀬田薫(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-032SPMa",
+      "name": "“ここにいる証”美竹蘭(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 2480,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-032SPMb",
+      "name": "“ここにいる証”美竹蘭(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 2480,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-033SPMa",
+      "name": "“あの日見た夕焼け”青葉モカ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-033SPMb",
+      "name": "“あの日見た夕焼け”青葉モカ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-036SPMa",
+      "name": "“考えるより行動!”羽沢つぐみ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-036SPMb",
+      "name": "“考えるより行動!”羽沢つぐみ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-037SPMa",
+      "name": "“はいっ、プレゼント♪”上原ひまり(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 3980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-037SPMb",
+      "name": "“はいっ、プレゼント♪”上原ひまり(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 3980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-045SPMa",
+      "name": "“ハードストローク”宇田川巴(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-045SPMb",
+      "name": "“ハードストローク”宇田川巴(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1280,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-054SPMa",
+      "name": "“直伝ポーズっ☆”丸山彩(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 2980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-054SPMb",
+      "name": "“直伝ポーズっ☆”丸山彩(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 2980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-055SPMa",
+      "name": "“みんなで遊園地!”戸山香澄(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-055SPMb",
+      "name": "“みんなで遊園地!”戸山香澄(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-058SPMa",
+      "name": "“おそろいのシュシュ”山吹沙綾(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 2980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-058SPMb",
+      "name": "“おそろいのシュシュ”山吹沙綾(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 2980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-061SPMa",
+      "name": "“チョココロネな時間”牛込りみ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-061SPMb",
+      "name": "“チョココロネな時間”牛込りみ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-072SPMa",
+      "name": "“4人でカフェテリア”湊友希那(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 2980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-072SPMb",
+      "name": "“4人でカフェテリア”湊友希那(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 2980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-078SPMa",
+      "name": "“選んでもらった水着”白金燐子(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 3480,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-078SPMb",
+      "name": "“選んでもらった水着”白金燐子(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 3480,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-079SPMa",
+      "name": "“頼れる協力者”市ヶ谷有咲(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 2980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-079SPMb",
+      "name": "“頼れる協力者”市ヶ谷有咲(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 2980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-081SPMa",
+      "name": "“重ねていたい音”氷川紗夜(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-081SPMb",
+      "name": "“重ねていたい音”氷川紗夜(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-082SPMa",
+      "name": "“パーフェクトスマイル”白鷺千聖(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-082SPMb",
+      "name": "“パーフェクトスマイル”白鷺千聖(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-083SPMa",
+      "name": "“ホワイトフェアリー”若宮イヴ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-083SPMb",
+      "name": "“ホワイトフェアリー”若宮イヴ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-084SPMa",
+      "name": "“ちいさな魔王”宇田川あこ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-084SPMb",
+      "name": "“ちいさな魔王”宇田川あこ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-085SPMa",
+      "name": "“みんなのうた”花園たえ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-085SPMb",
+      "name": "“みんなのうた”花園たえ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-086SPMa",
+      "name": "“眩しい日射し”今井リサ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 4980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-086SPMb",
+      "name": "“眩しい日射し”今井リサ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 4980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-087SPMa",
+      "name": "“ステージ”大和麻弥(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-087SPMb",
+      "name": "“ステージ”大和麻弥(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-088SPMa",
+      "name": "“ステージ”氷川日菜(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-088SPMb",
+      "name": "“ステージ”氷川日菜(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-022R",
+      "name": "怪盗さん、待てーーー!",
+      "rarity": "R",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-024R",
+      "name": "怪盗ハロハッピー",
+      "rarity": "R",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-025R",
+      "name": "武士は相身互い",
+      "rarity": "R",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-047R",
+      "name": "熱狂の一声",
+      "rarity": "R",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-048R",
+      "name": "That Is How I Roll!",
+      "rarity": "R",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-066R",
+      "name": "STAR BEAT!-ホシノコドウ-",
+      "rarity": "R",
+      "sell_price_jpy": 320,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-067R",
+      "name": "憧れの先",
+      "rarity": "R",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-098R",
+      "name": "激しいシャウト",
+      "rarity": "R",
+      "sell_price_jpy": 500,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-099R",
+      "name": "いつでもそばに",
+      "rarity": "R",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-100R",
+      "name": "満開の桜の下で",
+      "rarity": "R",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T02R",
+      "name": "“揺るぎない覚悟”氷川紗夜",
+      "rarity": "R",
+      "sell_price_jpy": 1480,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T03R",
+      "name": "“天使のほほえみ”宇田川あこ",
+      "rarity": "R",
+      "sell_price_jpy": 320,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T12R",
+      "name": "“この音しか聞こえない”白金燐子",
+      "rarity": "R",
+      "sell_price_jpy": 780,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T15R",
+      "name": "“努力の跡”今井リサ",
+      "rarity": "R",
+      "sell_price_jpy": 500,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T20R",
+      "name": "“みんな応援してます！”若宮イヴ",
+      "rarity": "R",
+      "sell_price_jpy": 420,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T21R",
+      "name": "“短冊の行方”氷川日菜",
+      "rarity": "R",
+      "sell_price_jpy": 680,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T30R",
+      "name": "“すごく素敵な舞台でした”大和麻弥",
+      "rarity": "R",
+      "sell_price_jpy": 420,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T37R",
+      "name": "“本当の私を伝えられたら”白鷺千聖",
+      "rarity": "R",
+      "sell_price_jpy": 2480,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T39R",
+      "name": "“ふんばれ私っ!”羽沢つぐみ",
+      "rarity": "R",
+      "sell_price_jpy": 320,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T40R",
+      "name": "“ちゃんと説明してくれ!”宇田川巴",
+      "rarity": "R",
+      "sell_price_jpy": 780,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T41R",
+      "name": "“一生のお願いっ!!”上原ひまり",
+      "rarity": "R",
+      "sell_price_jpy": 1980,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T53R",
+      "name": "“七不思議伝承ー”青葉モカ",
+      "rarity": "R",
+      "sell_price_jpy": 320,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T58R",
+      "name": "“栄養満点だよ!”北沢はぐみ",
+      "rarity": "R",
+      "sell_price_jpy": 420,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T59R",
+      "name": "“うれしい変化だね”松原花音",
+      "rarity": "R",
+      "sell_price_jpy": 420,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T63R",
+      "name": "“恋の翼”瀬田薫",
+      "rarity": "R",
+      "sell_price_jpy": 320,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T72R",
+      "name": "“あたしの大事なもの”奥沢美咲",
+      "rarity": "R",
+      "sell_price_jpy": 500,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T78R",
+      "name": "“伝えたい気持ち”山吹沙綾",
+      "rarity": "R",
+      "sell_price_jpy": 1480,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T86R",
+      "name": "“りみの大事なもの”牛込りみ",
+      "rarity": "R",
+      "sell_price_jpy": 320,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T90R",
+      "name": "“この恩は一生忘れない”花園たえ",
+      "rarity": "R",
+      "sell_price_jpy": 420,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T94R",
+      "name": "“ぜってーとってやる!”市ヶ谷有咲",
+      "rarity": "R",
+      "sell_price_jpy": 500,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-006S",
+      "name": "“世界を笑顔に!”弦巻こころ",
+      "rarity": "S",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-012S",
+      "name": "“ステージ”瀬田薫",
+      "rarity": "S",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-032S",
+      "name": "“ここにいる証”美竹蘭",
+      "rarity": "S",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-037S",
+      "name": "“はいっ、プレゼント♪”上原ひまり",
+      "rarity": "S",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-054S",
+      "name": "“直伝ポーズっ☆”丸山彩",
+      "rarity": "S",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-055S",
+      "name": "“みんなで遊園地!”戸山香澄",
+      "rarity": "S",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-072S",
+      "name": "“4人でカフェテリア”湊友希那",
+      "rarity": "S",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-079S",
+      "name": "“頼れる協力者”市ヶ谷有咲",
+      "rarity": "S",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-083S",
+      "name": "“ホワイトフェアリー”若宮イヴ",
+      "rarity": "S",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-084S",
+      "name": "“ちいさな魔王”宇田川あこ",
+      "rarity": "S",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T14S",
+      "name": "“ステージ”湊友希那",
+      "rarity": "S",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T17S",
+      "name": "Zeit",
+      "rarity": "S",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T22S",
+      "name": "“全力応援”丸山彩",
+      "rarity": "S",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T27S",
+      "name": "しゅわりん☆どりーみん",
+      "rarity": "S",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T52S",
+      "name": "“怖くないし!”美竹蘭",
+      "rarity": "S",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T55S",
+      "name": "That Is How I Roll!",
+      "rarity": "S",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T65S",
+      "name": "“いっちゃうモンモン!”弦巻こころ",
+      "rarity": "S",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T74S",
+      "name": "えがおのオーケストラっ!",
+      "rarity": "S",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T80S",
+      "name": "“キラキラの星空”戸山香澄",
+      "rarity": "S",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T87S",
+      "name": "二重の虹(ダブルレインボウ)",
+      "rarity": "S",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-001",
+      "name": "“世界を彩る役者”瀬田薫",
+      "rarity": "PR",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-002",
+      "name": "“モデル・モード”若宮イヴ",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-003",
+      "name": "“船上の名探偵”弦巻こころ",
+      "rarity": "PR",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-026",
+      "name": "“夕影の思い出”美竹蘭",
+      "rarity": "PR",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-027",
+      "name": "“受け止めたい思い”青葉モカ",
+      "rarity": "PR",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-051",
+      "name": "“憧れのお姉ちゃん”牛込りみ",
+      "rarity": "PR",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-052",
+      "name": "“はじまりの音”戸山香澄",
+      "rarity": "PR",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-053",
+      "name": "“必殺アイドルポーズ☆”丸山彩",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-069",
+      "name": "“純粋な熱意”白金燐子",
+      "rarity": "PR",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-070",
+      "name": "“鳥籠の歌姫”湊友希那",
+      "rarity": "PR",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-004",
+      "name": "“みんなでせーの!”北沢はぐみ",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-005",
+      "name": "“愛の告白”奥沢美咲",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-006",
+      "name": "“世界を笑顔に!”弦巻こころ",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-007",
+      "name": "“踏み出した一歩”松原花音",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-028",
+      "name": "“素顔の姿”大和麻弥",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-029",
+      "name": "“パジャマ姿の患者さん”宇田川巴",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-030",
+      "name": "“3人で水遊び”上原ひまり",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-031",
+      "name": "“はじまりはいつも”羽沢つぐみ",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-032",
+      "name": "“ここにいる証”美竹蘭",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-054",
+      "name": "“直伝ポーズっ☆”丸山彩",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-055",
+      "name": "“みんなで遊園地!”戸山香澄",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-056",
+      "name": "“真っ白な居場所”白鷺千聖",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-057",
+      "name": "“1日だけの新婦”山吹沙綾",
+      "rarity": "PR",
+      "sell_price_jpy": 320,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-071",
+      "name": "“しあわせの共有”花園たえ",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-072",
+      "name": "“4人でカフェテリア”湊友希那",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-073",
+      "name": "“必要不可欠な存在”今井リサ",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-074",
+      "name": "“巴だけの看護師さん”宇田川あこ",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-075",
+      "name": "“二人で過ごす七夕”氷川紗夜",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-076",
+      "name": "“可愛いともだち”市ヶ谷有咲",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-077",
+      "name": "“未知数の存在”氷川日菜",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-008",
+      "name": "“ステージ”北沢はぐみ",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-009",
+      "name": "“ステージ”松原花音",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-010",
+      "name": "“ステージ”弦巻こころ",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-011",
+      "name": "“はーい、ミッシェルでーす”奥沢美咲",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-012",
+      "name": "“ステージ”瀬田薫",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-021",
+      "name": "ミッシェルシール",
+      "rarity": "PR",
+      "sell_price_jpy": 320,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-033",
+      "name": "“あの日見た夕焼け”青葉モカ",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-034",
+      "name": "“ステージ”丸山彩",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-035",
+      "name": "“ステージ”宇田川巴",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-036",
+      "name": "“考えるより行動!”羽沢つぐみ",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-037",
+      "name": "“はいっ、プレゼント♪”上原ひまり",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-038",
+      "name": "“断ち切った迷い”美竹蘭",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-046",
+      "name": "素直じゃないヤツ",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-058",
+      "name": "“おそろいのシュシュ”山吹沙綾",
+      "rarity": "PR",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-059",
+      "name": "“ステージ”牛込りみ",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-064",
+      "name": "蔵の中にあったもの",
+      "rarity": "PR",
+      "sell_price_jpy": 320,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-065",
+      "name": "がんばれパン",
+      "rarity": "PR",
+      "sell_price_jpy": 320,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-078",
+      "name": "“選んでもらった水着”白金燐子",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-079",
+      "name": "“頼れる協力者”市ヶ谷有咲",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-080",
+      "name": "“歌姫の覚悟”湊友希那",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-081",
+      "name": "“重ねていたい音”氷川紗夜",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-082",
+      "name": "“パーフェクトスマイル”白鷺千聖",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-083",
+      "name": "“ホワイトフェアリー”若宮イヴ",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-084",
+      "name": "“ちいさな魔王”宇田川あこ",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-085",
+      "name": "“みんなのうた”花園たえ",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-086",
+      "name": "“眩しい日射し”今井リサ",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-087",
+      "name": "“ステージ”大和麻弥",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-088",
+      "name": "“ステージ”氷川日菜",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-013",
+      "name": "“囚われのお姫様”松原花音",
+      "rarity": "PR",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-014",
+      "name": "“双子の苦悩”氷川日菜",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-015",
+      "name": "“無敵のヒーロー”弦巻こころ",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-016",
+      "name": "“ドラムとの出会い”大和麻弥",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-017",
+      "name": "“ミッシェルのヒミツ”奥沢美咲",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-018",
+      "name": "“ステージ”奥沢美咲",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-019",
+      "name": "“かわいい探偵さん”北沢はぐみ",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-020",
+      "name": "“私を捕まえてごらん”瀬田薫",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-039",
+      "name": "“ステージ”美竹蘭",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-040",
+      "name": "“ステージ”羽沢つぐみ",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-041",
+      "name": "“ステージ”上原ひまり",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-042",
+      "name": "“ステージ”青葉モカ",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-043",
+      "name": "“七夕の店員さん”丸山彩",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-044",
+      "name": "“フシギなお守り”上原ひまり",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-045",
+      "name": "“ハードストローク”宇田川巴",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-060",
+      "name": "“ステージ”山吹沙綾",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-061",
+      "name": "“チョココロネな時間”牛込りみ",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-062",
+      "name": "“ステージ”戸山香澄",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-063",
+      "name": "“ステージ”白鷺千聖",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-089",
+      "name": "“二人を繋いで”今井リサ",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-090",
+      "name": "“パジャマでお邪魔”花園たえ",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-091",
+      "name": "“目指す道のり”白鷺千聖",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-092",
+      "name": "“ステージ”若宮イヴ",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-093",
+      "name": "“ひたむきな向上心”宇田川あこ",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-094",
+      "name": "“ステージ”市ヶ谷有咲",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-095",
+      "name": "“わたし、どうしたら…”白金燐子",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-096",
+      "name": "“ステージ”花園たえ",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-097",
+      "name": "“双子の苦悩”氷川紗夜",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-022",
+      "name": "怪盗さん、待てーーー!",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-047",
+      "name": "熱狂の一声",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-066",
+      "name": "STAR BEAT!-ホシノコドウ-",
+      "rarity": "PR",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-067",
+      "name": "憧れの先",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-098",
+      "name": "激しいシャウト",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-023",
+      "name": "えがおのオーケストラっ!",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-024",
+      "name": "怪盗ハロハッピー",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-025",
+      "name": "武士は相身互い",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-048",
+      "name": "That Is How I Roll!",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-049",
+      "name": "バンド、やろう!",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-050",
+      "name": "しゅわりん☆どりーみん",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-068",
+      "name": "大好きなチョココロネ",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-099",
+      "name": "いつでもそばに",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-100",
+      "name": "満開の桜の下で",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T01",
+      "name": "“孤高の歌姫”湊友希那",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T02",
+      "name": "“揺るぎない覚悟”氷川紗夜",
+      "rarity": "PR",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T03",
+      "name": "“天使のほほえみ”宇田川あこ",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T04",
+      "name": "“人混みはニガテ”白金燐子",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T05",
+      "name": "“ステージ”白金燐子",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T06",
+      "name": "“ムードメーカー☆”今井リサ",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T07",
+      "name": "“ステージ”宇田川あこ",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T08",
+      "name": "“クリスタルソング”湊友希那",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T09",
+      "name": "“ステージ”氷川紗夜",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T10",
+      "name": "“ステージ”今井リサ",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T11",
+      "name": "“カッコイイ!ドラマー”宇田川あこ",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T12",
+      "name": "“この音しか聞こえない”白金燐子",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T13",
+      "name": "“生真面目な努力家”氷川紗夜",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T14",
+      "name": "“ステージ”湊友希那",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T15",
+      "name": "“努力の跡”今井リサ",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T16",
+      "name": "慣れない電話",
+      "rarity": "PR",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T17",
+      "name": "Zeit",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T18",
+      "name": "1stライブがんばろう会",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T19",
+      "name": "この曲……すっごく楽しい!",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T20",
+      "name": "“みんな応援してます！”若宮イヴ",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T21",
+      "name": "“短冊の行方”氷川日菜",
+      "rarity": "PR",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T22",
+      "name": "“全力応援”丸山彩",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T23",
+      "name": "“オタクなドラマー”大和麻弥",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T24",
+      "name": "“鉄壁の微笑”白鷺千聖",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T25",
+      "name": "“ポテトはいかがですか？”丸山彩",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T26",
+      "name": "大切な短冊(エラッタ前)",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T26",
+      "name": "大切な短冊(エラッタ後)",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T27",
+      "name": "しゅわりん☆どりーみん",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T28",
+      "name": "お月見の会",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T29",
+      "name": "“ピンク担当☆”丸山彩",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T30",
+      "name": "“すごく素敵な舞台でした”大和麻弥",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T31",
+      "name": "“表舞台の裏側”氷川日菜",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T32",
+      "name": "“感動の涙”大和麻弥",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T33",
+      "name": "“天才少女”氷川日菜",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T34",
+      "name": "“ブシドーの精神”若宮イヴ",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T35",
+      "name": "“ハートの女王様”白鷺千聖",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T36",
+      "name": "“ブシドー!”若宮イヴ",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T37",
+      "name": "“本当の私を伝えられたら”白鷺千聖",
+      "rarity": "PR",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T38",
+      "name": "心許せる仲間",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T39",
+      "name": "“ふんばれ私っ!”羽沢つぐみ",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T40",
+      "name": "“ちゃんと説明してくれ!”宇田川巴",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T41",
+      "name": "“一生のお願いっ!!”上原ひまり",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T42",
+      "name": "“幼馴染の意義”青葉モカ",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T43",
+      "name": "“勇者つぐ”羽沢つぐみ",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T44",
+      "name": "“階段の怪談”宇田川巴",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T45",
+      "name": "“高鳴る鼓動”美竹蘭",
+      "rarity": "PR",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T46",
+      "name": "“みんなのリーダー!”上原ひまり",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T47",
+      "name": "“クールな友達想い”美竹蘭",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T48",
+      "name": "“マイペース”青葉モカ",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T49",
+      "name": "“みんなの支え”羽沢つぐみ",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T50",
+      "name": "“頼れる姉御肌”宇田川巴",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T51",
+      "name": "“懐かしい音源”上原ひまり",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T52",
+      "name": "“怖くないし!”美竹蘭",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T53",
+      "name": "“七不思議伝承ー”青葉モカ",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T54",
+      "name": "怖さはんぶんこ",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T55",
+      "name": "That Is How I Roll!",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T56",
+      "name": "学園七不思議",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T57",
+      "name": "いつも通りだから",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T58",
+      "name": "“栄養満点だよ!”北沢はぐみ",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T59",
+      "name": "“うれしい変化だね”松原花音",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T60",
+      "name": "“なにごともほどほどに”奥沢美咲",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T61",
+      "name": "“お手伝いしたくて”松原花音",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T62",
+      "name": "“メラメラ!”北沢はぐみ",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T63",
+      "name": "“恋の翼”瀬田薫",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T64",
+      "name": "“おっとり少女”松原花音",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T65",
+      "name": "“いっちゃうモンモン!”弦巻こころ",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T66",
+      "name": "“スマイルキャプテン”北沢はぐみ",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T67",
+      "name": "“これも儚さ”瀬田薫",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T68",
+      "name": "“桜ミッシェル”奥沢美咲",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T69",
+      "name": "“噂の王子様”瀬田薫",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T70",
+      "name": "“花咲川の異空間”弦巻こころ",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T71",
+      "name": "“ハッピー革命!”弦巻こころ",
+      "rarity": "PR",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T72",
+      "name": "“あたしの大事なもの”奥沢美咲",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T73",
+      "name": "レペゼン・ハロハピ",
+      "rarity": "PR",
+      "sell_price_jpy": 1480,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T74",
+      "name": "えがおのオーケストラっ!",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T75",
+      "name": "商店街でゲリラライブ!",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T76",
+      "name": "元気のみなもと",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T77",
+      "name": "“猪突猛進っ!”戸山香澄",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T78",
+      "name": "“伝えたい気持ち”山吹沙綾",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T79",
+      "name": "“チョコだいすき”牛込りみ",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T80",
+      "name": "“キラキラの星空”戸山香澄",
+      "rarity": "PR",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T81",
+      "name": "“みんなのお姉ちゃん”山吹沙綾",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T82",
+      "name": "“緊張してきちゃった”牛込りみ",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T83",
+      "name": "“沙綾の告白”沙綾＆香澄",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T84",
+      "name": "“たくさんの思い出の品”山吹沙綾",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T85",
+      "name": "“最高のステージに!”戸山香澄",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T86",
+      "name": "“りみの大事なもの”牛込りみ",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T87",
+      "name": "二重の虹(ダブルレインボウ)",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T88",
+      "name": "秋の味覚!",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T89",
+      "name": "“思いをこめたノート”市ヶ谷有咲",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T90",
+      "name": "“この恩は一生忘れない”花園たえ",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T91",
+      "name": "“天然ビューティー”花園たえ",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T92",
+      "name": "“猫かぶりの優等生”市ヶ谷有咲",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T93",
+      "name": "“支え合うのがバンド”香澄＆たえ",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T94",
+      "name": "“ぜってーとってやる!”市ヶ谷有咲",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T95",
+      "name": "昼下がりのハンバーグ",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-T96",
+      "name": "星空を見上げて",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-101",
+      "name": "“ちびキャラ”弦巻こころ",
+      "rarity": "PR",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-102",
+      "name": "“ちびキャラ”美竹蘭",
+      "rarity": "PR",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-103",
+      "name": "“ちびキャラ”戸山香澄",
+      "rarity": "PR",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-104",
+      "name": "“ちびキャラ”丸山彩",
+      "rarity": "PR",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-105",
+      "name": "“ちびキャラ”湊友希那",
+      "rarity": "PR",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-106",
+      "name": "きらきら星(金箔押し入り)",
+      "rarity": "PR",
+      "sell_price_jpy": 1980,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-107",
+      "name": "憧れのステージ(金箔押し入り)",
+      "rarity": "PR",
+      "sell_price_jpy": 320,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-108",
+      "name": "交わした約束(金箔押し入り)",
+      "rarity": "PR",
+      "sell_price_jpy": 420,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-109",
+      "name": "みんなと感じた感動(金箔押し入り)",
+      "rarity": "PR",
+      "sell_price_jpy": 320,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-110",
+      "name": "ドキドキ星(金箔押し入り)",
+      "rarity": "PR",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-111",
+      "name": "きらきら星(銀箔押し入り)",
+      "rarity": "PR",
+      "sell_price_jpy": 1280,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-112",
+      "name": "憧れのステージ(銀箔押し入り)",
+      "rarity": "PR",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-113",
+      "name": "交わした約束(銀箔押し入り)",
+      "rarity": "PR",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-114",
+      "name": "みんなと感じた感動(銀箔押し入り)",
+      "rarity": "PR",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-115",
+      "name": "ドキドキ星(銀箔押し入り)",
+      "rarity": "PR",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-P01",
+      "name": "“キラキラコード”戸山香澄",
+      "rarity": "PR",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-P02",
+      "name": "“最初のお客さん”戸山香澄",
+      "rarity": "PR",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-P03",
+      "name": "“秘めた想い”湊友希那",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-P04",
+      "name": "“リタルダンド”市ヶ谷有咲",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-P04S",
+      "name": "“リタルダンド”市ヶ谷有咲(箔押し入り)",
+      "rarity": "S",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-P05",
+      "name": "“Roselia Stage”リサ＆友希那&紗夜",
+      "rarity": "PR",
+      "sell_price_jpy": 420,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-P06",
+      "name": "“幼い頃の夢”丸山彩",
+      "rarity": "PR",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-P07",
+      "name": "“まだまだやれる!”美竹蘭",
+      "rarity": "PR",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-P08",
+      "name": "“癒しの音色”牛込りみ",
+      "rarity": "PR",
+      "sell_price_jpy": 420,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-P09",
+      "name": "“パン屋の匂い”山吹沙綾",
+      "rarity": "PR",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-P10",
+      "name": "“弦巻家の差し入れ”弦巻こころ",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-P11",
+      "name": "“ウサギ20羽”花園たえ",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-P12",
+      "name": "“二重の虹”戸山香澄",
+      "rarity": "PR",
+      "sell_price_jpy": 320,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-P12S",
+      "name": "“二重の虹”戸山香澄(ホロ)",
+      "rarity": "S",
+      "sell_price_jpy": 4980,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-P12SP",
+      "name": "“二重の虹”戸山香澄(サイン入り)",
+      "rarity": "SP",
+      "sell_price_jpy": 398000,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-P13",
+      "name": "“二重の虹”牛込りみ",
+      "rarity": "PR",
+      "sell_price_jpy": 320,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-P13S",
+      "name": "“二重の虹”牛込りみ(ホロ)",
+      "rarity": "S",
+      "sell_price_jpy": 4980,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-P13SP",
+      "name": "“二重の虹”牛込りみ(サイン入り)",
+      "rarity": "SP",
+      "sell_price_jpy": 29800,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-P14",
+      "name": "“二重の虹”山吹沙綾",
+      "rarity": "PR",
+      "sell_price_jpy": 320,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-P14S",
+      "name": "“二重の虹”山吹沙綾(ホロ)",
+      "rarity": "S",
+      "sell_price_jpy": 4980,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-P14SP",
+      "name": "“二重の虹”山吹沙綾(サイン入り)",
+      "rarity": "SP",
+      "sell_price_jpy": 398000,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-P15",
+      "name": "“二重の虹”花園たえ",
+      "rarity": "PR",
+      "sell_price_jpy": 420,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-P15S",
+      "name": "“二重の虹”花園たえ(ホロ)",
+      "rarity": "S",
+      "sell_price_jpy": 4980,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-P15SP",
+      "name": "“二重の虹”花園たえ(サイン入り)",
+      "rarity": "SP",
+      "sell_price_jpy": 59800,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-P16",
+      "name": "“二重の虹”市ヶ谷有咲",
+      "rarity": "PR",
+      "sell_price_jpy": 420,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-P16S",
+      "name": "“二重の虹”市ヶ谷有咲(ホロ)",
+      "rarity": "S",
+      "sell_price_jpy": 4980,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-P16SP",
+      "name": "“二重の虹”市ヶ谷有咲(サイン入り)",
+      "rarity": "SP",
+      "sell_price_jpy": 59800,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W54-P17",
+      "name": "“突撃サンタ”戸山香澄",
+      "rarity": "PR",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-P18",
+      "name": "Roselia Vo.湊友希那役 相羽あいな&Gt.氷川紗夜役 工藤晴香",
+      "rarity": "PR",
+      "sell_price_jpy": 500,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-022",
+      "name": "怪盗さん、待てーーー!(箔押し入り)",
+      "rarity": "PR",
+      "sell_price_jpy": 320,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-022b",
+      "name": "怪盗さん、待てーーー!(金箔押し入り)",
+      "rarity": "?",
+      "sell_price_jpy": 500,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-047",
+      "name": "熱狂の一声(箔押し入り)",
+      "rarity": "PR",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-047b",
+      "name": "熱狂の一声(金箔押し入り)",
+      "rarity": "?",
+      "sell_price_jpy": 420,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-066",
+      "name": "STAR BEAT!-ホシノコドウ-(箔押し入り)",
+      "rarity": "PR",
+      "sell_price_jpy": 500,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-066b",
+      "name": "STAR BEAT!-ホシノコドウ-(金箔押し入り)",
+      "rarity": "?",
+      "sell_price_jpy": 980,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-067",
+      "name": "憧れの先(箔押し入り)",
+      "rarity": "PR",
+      "sell_price_jpy": 320,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-067b",
+      "name": "憧れの先(金箔押し入り)",
+      "rarity": "?",
+      "sell_price_jpy": 500,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-098",
+      "name": "激しいシャウト(箔押し入り)",
+      "rarity": "PR",
+      "sell_price_jpy": 2980,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W54-098b",
+      "name": "激しいシャウト(金箔押し入り)",
+      "rarity": "?",
+      "sell_price_jpy": 3480,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    }
+  ],
+  "cached_at": "2026-05-11T00:33:47.770857+00:00"
+}

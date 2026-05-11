@@ -1,0 +1,20 @@
+{
+  "mcpServers": {
+    "jikan": {
+      "command": "python",
+      "args": ["C:/Users/nguye/VSCode/FG-CollectLabs/ws-set-analysis/mcp/jikan/server.py"]
+    },
+    "yuyutei": {
+      "command": "python",
+      "args": ["C:/Users/nguye/VSCode/FG-CollectLabs/ws-set-analysis/mcp/yuyutei/server.py"]
+    },
+    "ws-prices": {
+      "command": "python",
+      "args": ["C:/Users/nguye/VSCode/FG-CollectLabs/ws-set-analysis/mcp/ws-prices/server.py"]
+    },
+    "goldstar": {
+      "command": "python",
+      "args": ["C:/Users/nguye/VSCode/FG-CollectLabs/ws-set-analysis/mcp/goldstar/server.py"]
+    }
+  }
+}

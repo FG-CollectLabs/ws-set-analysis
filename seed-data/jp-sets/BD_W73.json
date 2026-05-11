@@ -1,0 +1,3219 @@
+{
+  "set_code": "BD/W73",
+  "cards": [
+    {
+      "card_no": "BD/W73-001SSP",
+      "name": "“笑顔の音楽” 北沢はぐみ(サイン入り)",
+      "rarity": "SSP",
+      "sell_price_jpy": 5980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-002SSP",
+      "name": "“笑顔の音楽” 弦巻こころ(サイン入り)",
+      "rarity": "SSP",
+      "sell_price_jpy": 19800,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-004SSP",
+      "name": "“笑顔の音楽” 奥沢美咲(サイン入り)",
+      "rarity": "SSP",
+      "sell_price_jpy": 7980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-005SSP",
+      "name": "“笑顔の音楽” 瀬田薫(サイン入り)",
+      "rarity": "SSP",
+      "sell_price_jpy": 9980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-010SSP",
+      "name": "“笑顔の音楽” 松原花音(サイン入り)",
+      "rarity": "SSP",
+      "sell_price_jpy": 7980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-017SSP",
+      "name": "“あたしたちの音楽” 美竹蘭(サイン入り)",
+      "rarity": "SSP",
+      "sell_price_jpy": 17800,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-018SSP",
+      "name": "“至高の音楽” レイヤ(サイン入り)",
+      "rarity": "SSP",
+      "sell_price_jpy": 9980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-019SSP",
+      "name": "“あたしたちの音楽” 羽沢つぐみ(サイン入り)",
+      "rarity": "SSP",
+      "sell_price_jpy": 7980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-020SSP",
+      "name": "“至高の音楽” ロック(サイン入り)",
+      "rarity": "SSP",
+      "sell_price_jpy": 14800,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-021SSP",
+      "name": "“あたしたちの音楽” 宇田川巴(サイン入り)",
+      "rarity": "SSP",
+      "sell_price_jpy": 4980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-022SSP",
+      "name": "“あたしたちの音楽” 青葉モカ(サイン入り)",
+      "rarity": "SSP",
+      "sell_price_jpy": 6980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-023SSP",
+      "name": "“重なる音楽” 若宮イヴ(サイン入り)",
+      "rarity": "SSP",
+      "sell_price_jpy": 7980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-024SSP",
+      "name": "“至高の音楽” マスキング(サイン入り)",
+      "rarity": "SSP",
+      "sell_price_jpy": 7980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-027SSP",
+      "name": "“あたしたちの音楽” 上原ひまり(サイン入り)",
+      "rarity": "SSP",
+      "sell_price_jpy": 7980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-049SSP",
+      "name": "“キズナの音楽” 戸山香澄(サイン入り)",
+      "rarity": "SSP",
+      "sell_price_jpy": 12800,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-050SSP",
+      "name": "“重なる音楽” 氷川日菜(サイン入り)",
+      "rarity": "SSP",
+      "sell_price_jpy": 9980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-051SSP",
+      "name": "“キズナの音楽” 山吹沙綾(サイン入り)",
+      "rarity": "SSP",
+      "sell_price_jpy": 6980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-052SSP",
+      "name": "“キズナの音楽” 牛込りみ(サイン入り)",
+      "rarity": "SSP",
+      "sell_price_jpy": 6980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-056SSP",
+      "name": "“重なる音楽” 大和麻弥(サイン入り)",
+      "rarity": "SSP",
+      "sell_price_jpy": 5980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-065SSP",
+      "name": "“重なる音楽” 丸山彩(サイン入り)",
+      "rarity": "SSP",
+      "sell_price_jpy": 17800,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-066SSP",
+      "name": "“揺るぎない音楽” 湊友希那(サイン入り)",
+      "rarity": "SSP",
+      "sell_price_jpy": 79800,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-067SSP",
+      "name": "“キズナの音楽” 花園たえ(サイン入り)",
+      "rarity": "SSP",
+      "sell_price_jpy": 17800,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-068SSP",
+      "name": "“揺るぎない音楽” 氷川紗夜(サイン入り)",
+      "rarity": "SSP",
+      "sell_price_jpy": 34800,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-070SSP",
+      "name": "“至高の音楽” チュチュ(サイン入り)",
+      "rarity": "SSP",
+      "sell_price_jpy": 9980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-071SSP",
+      "name": "“揺るぎない音楽” 宇田川あこ(サイン入り)",
+      "rarity": "SSP",
+      "sell_price_jpy": 7980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-073SSP",
+      "name": "“至高の音楽” パレオ(サイン入り)",
+      "rarity": "SSP",
+      "sell_price_jpy": 9980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-074SSP",
+      "name": "“重なる音楽” 白鷺千聖(サイン入り)",
+      "rarity": "SSP",
+      "sell_price_jpy": 7980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-076SSP",
+      "name": "“揺るぎない音楽” 今井リサ(サイン入り)",
+      "rarity": "SSP",
+      "sell_price_jpy": 24800,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-079SSP",
+      "name": "“揺るぎない音楽” 白金燐子(サイン入り)",
+      "rarity": "SSP",
+      "sell_price_jpy": 24800,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-080SSP",
+      "name": "“キズナの音楽” 市ヶ谷有咲(サイン入り)",
+      "rarity": "SSP",
+      "sell_price_jpy": 12800,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-001SPa",
+      "name": "“笑顔の音楽” 北沢はぐみ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-001SPb",
+      "name": "“笑顔の音楽” 北沢はぐみ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-002SPa",
+      "name": "“笑顔の音楽” 弦巻こころ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 4980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-002SPb",
+      "name": "“笑顔の音楽” 弦巻こころ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 4980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-004SPa",
+      "name": "“笑顔の音楽” 奥沢美咲(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-004SPb",
+      "name": "“笑顔の音楽” 奥沢美咲(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-005SPa",
+      "name": "“笑顔の音楽” 瀬田薫(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-005SPb",
+      "name": "“笑顔の音楽” 瀬田薫(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-010SPa",
+      "name": "“笑顔の音楽” 松原花音(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-010SPb",
+      "name": "“笑顔の音楽” 松原花音(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-017SPa",
+      "name": "“あたしたちの音楽” 美竹蘭(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 3980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-017SPb",
+      "name": "“あたしたちの音楽” 美竹蘭(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 3980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-018SPa",
+      "name": "“至高の音楽” レイヤ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 2980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-018SPb",
+      "name": "“至高の音楽” レイヤ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 2980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-019SPa",
+      "name": "“あたしたちの音楽” 羽沢つぐみ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-019SPb",
+      "name": "“あたしたちの音楽” 羽沢つぐみ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-020SPa",
+      "name": "“至高の音楽” ロック(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 2480,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-020SPb",
+      "name": "“至高の音楽” ロック(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 2480,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-021SPa",
+      "name": "“あたしたちの音楽” 宇田川巴(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-021SPb",
+      "name": "“あたしたちの音楽” 宇田川巴(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-022SPa",
+      "name": "“あたしたちの音楽” 青葉モカ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 2980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-022SPb",
+      "name": "“あたしたちの音楽” 青葉モカ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 2980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-023SPa",
+      "name": "“重なる音楽” 若宮イヴ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-023SPb",
+      "name": "“重なる音楽” 若宮イヴ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-024SPa",
+      "name": "“至高の音楽” マスキング(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-024SPb",
+      "name": "“至高の音楽” マスキング(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-027SPa",
+      "name": "“あたしたちの音楽” 上原ひまり(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-027SPb",
+      "name": "“あたしたちの音楽” 上原ひまり(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-049SPa",
+      "name": "“キズナの音楽” 戸山香澄(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 2980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-049SPb",
+      "name": "“キズナの音楽” 戸山香澄(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 2980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-050SPa",
+      "name": "“重なる音楽” 氷川日菜(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 2480,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-050SPb",
+      "name": "“重なる音楽” 氷川日菜(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 2480,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-051SPa",
+      "name": "“キズナの音楽” 山吹沙綾(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-051SPb",
+      "name": "“キズナの音楽” 山吹沙綾(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-052SPa",
+      "name": "“キズナの音楽” 牛込りみ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-052SPb",
+      "name": "“キズナの音楽” 牛込りみ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-056SPa",
+      "name": "“重なる音楽” 大和麻弥(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-056SPb",
+      "name": "“重なる音楽” 大和麻弥(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-065SPa",
+      "name": "“重なる音楽” 丸山彩(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 3980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-065SPb",
+      "name": "“重なる音楽” 丸山彩(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 3980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-066SPa",
+      "name": "“揺るぎない音楽” 湊友希那(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 6980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-066SPb",
+      "name": "“揺るぎない音楽” 湊友希那(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 6980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-067SPa",
+      "name": "“キズナの音楽” 花園たえ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 3980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-067SPb",
+      "name": "“キズナの音楽” 花園たえ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 3980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-068SPa",
+      "name": "“揺るぎない音楽” 氷川紗夜(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 5980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-068SPb",
+      "name": "“揺るぎない音楽” 氷川紗夜(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 5980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-070SPa",
+      "name": "“至高の音楽” チュチュ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 2980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-070SPb",
+      "name": "“至高の音楽” チュチュ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 2980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-071SPa",
+      "name": "“揺るぎない音楽” 宇田川あこ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-071SPb",
+      "name": "“揺るぎない音楽” 宇田川あこ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-073SPa",
+      "name": "“至高の音楽” パレオ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 2480,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-073SPb",
+      "name": "“至高の音楽” パレオ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 2480,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-074SPa",
+      "name": "“重なる音楽” 白鷺千聖(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 2480,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-074SPb",
+      "name": "“重なる音楽” 白鷺千聖(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 2480,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-076SPa",
+      "name": "“揺るぎない音楽” 今井リサ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 4980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-076SPb",
+      "name": "“揺るぎない音楽” 今井リサ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 4980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-079SPa",
+      "name": "“揺るぎない音楽” 白金燐子(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 3980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-079SPb",
+      "name": "“揺るぎない音楽” 白金燐子(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 3980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-080SPa",
+      "name": "“キズナの音楽” 市ヶ谷有咲(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 2480,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-080SPb",
+      "name": "“キズナの音楽” 市ヶ谷有咲(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 2480,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-T01SP",
+      "name": "“UNSTOPPABLE” レイヤ (サイン入り)",
+      "rarity": "SP",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-003SPMa",
+      "name": "笑顔のために 弦巻こころ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 2480,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-003SPMb",
+      "name": "笑顔のために 弦巻こころ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 2480,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-006SPMa",
+      "name": "震えも味方に 丸山彩(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 3980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-006SPMb",
+      "name": "震えも味方に 丸山彩(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 3980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-007SPMa",
+      "name": "魅力的な誘い 瀬田薫(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-007SPMb",
+      "name": "魅力的な誘い 瀬田薫(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-008SPMa",
+      "name": "エンジンオン！ 奥沢美咲(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 2980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-008SPMb",
+      "name": "エンジンオン！ 奥沢美咲(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 2980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-009SPMa",
+      "name": "誠の気持ち 若宮イヴ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 2480,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-009SPMb",
+      "name": "誠の気持ち 若宮イヴ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 2480,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-011SPMa",
+      "name": "方向音痴 松原花音(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-011SPMb",
+      "name": "方向音痴 松原花音(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-012SPMa",
+      "name": "果敢に挑戦 北沢はぐみ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-012SPMb",
+      "name": "果敢に挑戦 北沢はぐみ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-025SPMa",
+      "name": "必死の勧誘 ロック(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 2480,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-025SPMb",
+      "name": "必死の勧誘 ロック(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 2480,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-026SPMa",
+      "name": "圧倒的な歌唱力 レイヤ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 2480,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-026SPMb",
+      "name": "圧倒的な歌唱力 レイヤ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 2480,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-030SPMa",
+      "name": "マイペース 青葉モカ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 4980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-030SPMb",
+      "name": "マイペース 青葉モカ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 4980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-031SPMa",
+      "name": "ぶっきらぼうな優しさ マスキング(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 2480,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-031SPMb",
+      "name": "ぶっきらぼうな優しさ マスキング(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 2480,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-032SPMa",
+      "name": "変わらぬ絆 美竹蘭(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 3480,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-032SPMb",
+      "name": "変わらぬ絆 美竹蘭(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 3480,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-033SPMa",
+      "name": "頑張り屋 羽沢つぐみ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-033SPMb",
+      "name": "頑張り屋 羽沢つぐみ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-034SPMa",
+      "name": "いつもの掛け声 上原ひまり(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 2980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-034SPMb",
+      "name": "いつもの掛け声 上原ひまり(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 2980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-035SPMa",
+      "name": "行動力ばつぐん 氷川日菜(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-035SPMb",
+      "name": "行動力ばつぐん 氷川日菜(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-040SPMa",
+      "name": "気合十分 宇田川巴(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-040SPMb",
+      "name": "気合十分 宇田川巴(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-053SPMa",
+      "name": "いざ、主催ライブ！ 戸山香澄(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 7980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-053SPMb",
+      "name": "いざ、主催ライブ！ 戸山香澄(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 7980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-054SPMa",
+      "name": "ドキドキを胸に 牛込りみ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-054SPMb",
+      "name": "ドキドキを胸に 牛込りみ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-055SPMa",
+      "name": "みんなで一緒に 白鷺千聖(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 3480,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-055SPMb",
+      "name": "みんなで一緒に 白鷺千聖(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 3480,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-059SPMa",
+      "name": "テンション上昇! 山吹沙綾(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 2480,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-059SPMb",
+      "name": "テンション上昇! 山吹沙綾(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 2480,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-069SPMa",
+      "name": "居場所はここ 花園たえ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 4980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-069SPMb",
+      "name": "居場所はここ 花園たえ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 4980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-072SPMa",
+      "name": "敏腕プロデューサー チュチュ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 2980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-072SPMb",
+      "name": "敏腕プロデューサー チュチュ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 2980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-075SPMa",
+      "name": "静かな情熱 湊友希那(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 4980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-075SPMb",
+      "name": "静かな情熱 湊友希那(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 4980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-077SPMa",
+      "name": "隣で見守る 今井リサ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 3980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-077SPMb",
+      "name": "隣で見守る 今井リサ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 3980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-078SPMa",
+      "name": "にっこり笑顔 パレオ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 2480,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-078SPMb",
+      "name": "にっこり笑顔 パレオ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 2480,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-083SPMa",
+      "name": "冷静沈着 氷川紗夜(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 4980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-083SPMb",
+      "name": "冷静沈着 氷川紗夜(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 4980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-084SPMa",
+      "name": "くすぐったい気持ち 市ヶ谷有咲(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 2480,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-084SPMb",
+      "name": "くすぐったい気持ち 市ヶ谷有咲(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 2480,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-085SPMa",
+      "name": "少しずつの勇気 白金燐子(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 2980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-085SPMb",
+      "name": "少しずつの勇気 白金燐子(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 2980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-087SPMa",
+      "name": "らしさを武器に 大和麻弥(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 2480,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-087SPMb",
+      "name": "らしさを武器に 大和麻弥(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 2480,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-090SPMa",
+      "name": "さらなる力を 宇田川あこ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-090SPMb",
+      "name": "さらなる力を 宇田川あこ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-015R",
+      "name": "夜空のスマイル",
+      "rarity": "R",
+      "sell_price_jpy": 420,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-046R",
+      "name": "いつかの約束",
+      "rarity": "R",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-047R",
+      "name": "あたしたちのメロディ",
+      "rarity": "R",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-063R",
+      "name": "キズナのメロディ",
+      "rarity": "R",
+      "sell_price_jpy": 500,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-064R",
+      "name": "重なるメロディ",
+      "rarity": "R",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-096R",
+      "name": "Jumpin' Girls！",
+      "rarity": "R",
+      "sell_price_jpy": 500,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-097R",
+      "name": "揺るぎないメロディ",
+      "rarity": "R",
+      "sell_price_jpy": 320,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-T04R",
+      "name": "“UNSTOPPABLE” ロック",
+      "rarity": "R",
+      "sell_price_jpy": 1980,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-T07R",
+      "name": "“UNSTOPPABLE” マスキング",
+      "rarity": "R",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-T14R",
+      "name": "“UNSTOPPABLE” チュチュ",
+      "rarity": "R",
+      "sell_price_jpy": 320,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-T15R",
+      "name": "“UNSTOPPABLE” パレオ",
+      "rarity": "R",
+      "sell_price_jpy": 680,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-003S",
+      "name": "笑顔のために 弦巻こころ",
+      "rarity": "S",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-006S",
+      "name": "震えも味方に 丸山彩",
+      "rarity": "S",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-012S",
+      "name": "果敢に挑戦 北沢はぐみ",
+      "rarity": "S",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-025S",
+      "name": "必死の勧誘 ロック",
+      "rarity": "S",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-026S",
+      "name": "圧倒的な歌唱力 レイヤ",
+      "rarity": "S",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-030S",
+      "name": "マイペース 青葉モカ",
+      "rarity": "S",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-032S",
+      "name": "変わらぬ絆 美竹蘭",
+      "rarity": "S",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-035S",
+      "name": "行動力ばつぐん 氷川日菜",
+      "rarity": "S",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-053S",
+      "name": "いざ、主催ライブ！ 戸山香澄",
+      "rarity": "S",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-054S",
+      "name": "ドキドキを胸に 牛込りみ",
+      "rarity": "S",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-075S",
+      "name": "静かな情熱 湊友希那",
+      "rarity": "S",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-081S",
+      "name": "奏でるメロディ 花園たえ",
+      "rarity": "S",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-083S",
+      "name": "冷静沈着 氷川紗夜",
+      "rarity": "S",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-T10S",
+      "name": "確かな実力 レイヤ",
+      "rarity": "S",
+      "sell_price_jpy": 780,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-T11S",
+      "name": "激奏",
+      "rarity": "S",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-001",
+      "name": "“笑顔の音楽” 北沢はぐみ",
+      "rarity": "PR",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-002",
+      "name": "“笑顔の音楽” 弦巻こころ",
+      "rarity": "PR",
+      "sell_price_jpy": 420,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-017",
+      "name": "“あたしたちの音楽” 美竹蘭",
+      "rarity": "PR",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-018",
+      "name": "“至高の音楽” レイヤ",
+      "rarity": "PR",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-019",
+      "name": "“あたしたちの音楽” 羽沢つぐみ",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-020",
+      "name": "“至高の音楽” ロック",
+      "rarity": "PR",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-049",
+      "name": "“キズナの音楽” 戸山香澄",
+      "rarity": "PR",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-050",
+      "name": "“重なる音楽” 氷川日菜",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-065",
+      "name": "“重なる音楽” 丸山彩",
+      "rarity": "PR",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-066",
+      "name": "“揺るぎない音楽” 湊友希那",
+      "rarity": "PR",
+      "sell_price_jpy": 320,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-067",
+      "name": "“キズナの音楽” 花園たえ",
+      "rarity": "PR",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-068",
+      "name": "“揺るぎない音楽” 氷川紗夜",
+      "rarity": "PR",
+      "sell_price_jpy": 500,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-003",
+      "name": "笑顔のために 弦巻こころ",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-004",
+      "name": "“笑顔の音楽” 奥沢美咲",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-005",
+      "name": "“笑顔の音楽” 瀬田薫",
+      "rarity": "PR",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-006",
+      "name": "震えも味方に 丸山彩",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-021",
+      "name": "“あたしたちの音楽” 宇田川巴",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-022",
+      "name": "“あたしたちの音楽” 青葉モカ",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-023",
+      "name": "“重なる音楽” 若宮イヴ",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-024",
+      "name": "“至高の音楽” マスキング",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-025",
+      "name": "必死の勧誘 ロック",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-026",
+      "name": "圧倒的な歌唱力 レイヤ",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-027",
+      "name": "“あたしたちの音楽” 上原ひまり",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-051",
+      "name": "“キズナの音楽” 山吹沙綾",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-052",
+      "name": "“キズナの音楽” 牛込りみ",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-053",
+      "name": "いざ、主催ライブ！ 戸山香澄",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-069",
+      "name": "居場所はここ 花園たえ",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-070",
+      "name": "“至高の音楽” チュチュ",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-071",
+      "name": "“揺るぎない音楽” 宇田川あこ",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-072",
+      "name": "敏腕プロデューサー チュチュ",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-073",
+      "name": "“至高の音楽” パレオ",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-074",
+      "name": "“重なる音楽” 白鷺千聖",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-075",
+      "name": "静かな情熱 湊友希那",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-076",
+      "name": "“揺るぎない音楽” 今井リサ",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-007",
+      "name": "魅力的な誘い 瀬田薫",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-008",
+      "name": "エンジンオン！ 奥沢美咲",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-009",
+      "name": "誠の気持ち 若宮イヴ",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-010",
+      "name": "“笑顔の音楽” 松原花音",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-014",
+      "name": "ほーかご作戦会議",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-028",
+      "name": "RAISE YOUR HANDS ロック",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-029",
+      "name": "RAISE YOUR HANDS レイヤ",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-030",
+      "name": "マイペース 青葉モカ",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-031",
+      "name": "ぶっきらぼうな優しさ マスキング",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-032",
+      "name": "変わらぬ絆 美竹蘭",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-033",
+      "name": "頑張り屋 羽沢つぐみ",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-045",
+      "name": "永遠の夕日",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-054",
+      "name": "ドキドキを胸に 牛込りみ",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-055",
+      "name": "みんなで一緒に 白鷺千聖",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-056",
+      "name": "“重なる音楽” 大和麻弥",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-061",
+      "name": "重なる手のひら",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-062",
+      "name": "気合の円陣",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-077",
+      "name": "隣で見守る 今井リサ",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-078",
+      "name": "にっこり笑顔 パレオ",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-079",
+      "name": "“揺るぎない音楽” 白金燐子",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-080",
+      "name": "“キズナの音楽” 市ヶ谷有咲",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-081",
+      "name": "奏でるメロディ 花園たえ",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-082",
+      "name": "浮かれ気味のチュチュ",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-083",
+      "name": "冷静沈着 氷川紗夜",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-084",
+      "name": "くすぐったい気持ち 市ヶ谷有咲",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-094",
+      "name": "五人で目指す頂点",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-095",
+      "name": "Yes!!最強!!",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-011",
+      "name": "方向音痴 松原花音",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-012",
+      "name": "果敢に挑戦 北沢はぐみ",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-013",
+      "name": "いつもの合言葉 弦巻こころ",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-034",
+      "name": "いつもの掛け声 上原ひまり",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-035",
+      "name": "行動力ばつぐん 氷川日菜",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-036",
+      "name": "新入生 ロック&明日香",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-037",
+      "name": "キラキラした憧れ ロック",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-038",
+      "name": "無茶ぶり対応 ロック",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-039",
+      "name": "力強い瞳 美竹蘭",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-040",
+      "name": "気合十分 宇田川巴",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-041",
+      "name": "RAISE YOUR HANDS マスキング",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-042",
+      "name": "おねがい 丸山彩",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-043",
+      "name": "幼いころの約束 レイヤ",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-044",
+      "name": "狂犬 マスキング",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-057",
+      "name": "新しいスティック 山吹沙綾",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-058",
+      "name": "練習の合間に 戸山香澄",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-059",
+      "name": "テンション上昇! 山吹沙綾",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-060",
+      "name": "うるんだ瞳 牛込りみ",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-085",
+      "name": "少しずつの勇気 白金燐子",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-086",
+      "name": "RAISE YOUR HANDS チュチュ",
+      "rarity": "PR",
+      "sell_price_jpy": 320,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-087",
+      "name": "らしさを武器に 大和麻弥",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-088",
+      "name": "伝説の開幕 パレオ",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-089",
+      "name": "きょとんとする 市ヶ谷有咲",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-090",
+      "name": "さらなる力を 宇田川あこ",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-091",
+      "name": "厳しさの本音 湊友希那",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-092",
+      "name": "RAISE YOUR HANDS パレオ",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-093",
+      "name": "ときめく 花園たえ",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-015",
+      "name": "夜空のスマイル",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-046",
+      "name": "いつかの約束",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-047",
+      "name": "あたしたちのメロディ",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-064",
+      "name": "重なるメロディ",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-096",
+      "name": "Jumpin' Girls！",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-097",
+      "name": "揺るぎないメロディ",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-016",
+      "name": "今宵、星が煌めく頃に",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-048",
+      "name": "あの日の景色",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-063",
+      "name": "キズナのメロディ",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-098",
+      "name": "至高のメロディ",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-099",
+      "name": "雨上がり",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-100",
+      "name": "スクール・フェスティバル",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-T01",
+      "name": "“UNSTOPPABLE” レイヤ",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-T02",
+      "name": "大歓声の中へ ロック",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-T03",
+      "name": "確かな情熱 マスキング",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-T04",
+      "name": "“UNSTOPPABLE” ロック",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-T05",
+      "name": "爪弾くメロディ レイヤ",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-T06",
+      "name": "ステージの上 マスキング",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-T07",
+      "name": "“UNSTOPPABLE” マスキング",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-T08",
+      "name": "確かな想い ロック",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-T09",
+      "name": "ステージの上 レイヤ",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-T10",
+      "name": "確かな実力 レイヤ",
+      "rarity": "PR",
+      "sell_price_jpy": 980,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-T11",
+      "name": "激奏",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-T12",
+      "name": "昂る熱狂",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-T13",
+      "name": "確かな慧眼 チュチュ",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-T14",
+      "name": "“UNSTOPPABLE” チュチュ",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-T15",
+      "name": "“UNSTOPPABLE” パレオ",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-T16",
+      "name": "確かな信頼 パレオ",
+      "rarity": "PR",
+      "sell_price_jpy": 30,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-T17",
+      "name": "鳴り止まぬ歓声 チュチュ",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-T18",
+      "name": "ステージの上 パレオ",
+      "rarity": "PR",
+      "sell_price_jpy": 80,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-T19",
+      "name": "Change the world！",
+      "rarity": "PR",
+      "sell_price_jpy": 420,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-T20",
+      "name": "究極のサウンド",
+      "rarity": "PR",
+      "sell_price_jpy": 50,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-101",
+      "name": "止まらない音楽 弦巻こころ",
+      "rarity": "PR",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-102",
+      "name": "止まらない音楽 丸山彩",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-103",
+      "name": "止まらない音楽 レイヤ",
+      "rarity": "PR",
+      "sell_price_jpy": 320,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-104",
+      "name": "止まらない音楽 美竹蘭",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-105",
+      "name": "止まらない音楽 戸山香澄",
+      "rarity": "PR",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-106",
+      "name": "止まらない音楽 湊友希那",
+      "rarity": "PR",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-P01",
+      "name": "全力のライブ レイヤ",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-P02",
+      "name": "全力のライブ 戸山香澄",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-P03",
+      "name": "全力のライブ 湊友希那",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-P04",
+      "name": "Rausch und/and Craziness",
+      "rarity": "PR",
+      "sell_price_jpy": 320,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-P05",
+      "name": "スクールライフ 弦巻こころ",
+      "rarity": "PR",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-P05S",
+      "name": "スクールライフ 弦巻こころ(ホロ)",
+      "rarity": "S",
+      "sell_price_jpy": 320,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-P06",
+      "name": "スクールライフ 美竹蘭",
+      "rarity": "PR",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-P06S",
+      "name": "スクールライフ 美竹蘭(ホロ)",
+      "rarity": "S",
+      "sell_price_jpy": 320,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-P07",
+      "name": "ギャラクシーの前で レイヤ",
+      "rarity": "PR",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-P07S",
+      "name": "ギャラクシーの前で レイヤ(ホロ)",
+      "rarity": "S",
+      "sell_price_jpy": 420,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-P08",
+      "name": "スクールライフ 丸山彩",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-P08S",
+      "name": "スクールライフ 丸山彩(ホロ)",
+      "rarity": "S",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-P09",
+      "name": "スクールライフ 戸山香澄",
+      "rarity": "PR",
+      "sell_price_jpy": 320,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-P09S",
+      "name": "スクールライフ 戸山香澄(ホロ)",
+      "rarity": "S",
+      "sell_price_jpy": 420,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-P10",
+      "name": "スクールライフ 湊友希那",
+      "rarity": "PR",
+      "sell_price_jpy": 120,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-P10S",
+      "name": "スクールライフ 湊友希那(ホロ)",
+      "rarity": "S",
+      "sell_price_jpy": 320,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-P11a",
+      "name": "キズナのメロディ(箔押し入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1480,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-P11b",
+      "name": "キズナのメロディ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-P11c",
+      "name": "キズナのメロディ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-P11d",
+      "name": "キズナのメロディ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-P11e",
+      "name": "キズナのメロディ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-P11f",
+      "name": "キズナのメロディ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-P12a",
+      "name": "揺るぎないメロディ(箔押し入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-P12b",
+      "name": "揺るぎないメロディ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-P12c",
+      "name": "揺るぎないメロディ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-P12d",
+      "name": "揺るぎないメロディ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": true,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-P12e",
+      "name": "揺るぎないメロディ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-P12f",
+      "name": "揺るぎないメロディ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-P13a",
+      "name": "いつかの約束(箔押し入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1480,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-P13b",
+      "name": "いつかの約束(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-P13c",
+      "name": "いつかの約束(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-P13d",
+      "name": "いつかの約束(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-P13e",
+      "name": "いつかの約束(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-P13f",
+      "name": "いつかの約束(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-P14a",
+      "name": "重なるメロディ(箔押し入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-P14b",
+      "name": "重なるメロディ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-P14c",
+      "name": "重なるメロディ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-P14d",
+      "name": "重なるメロディ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-P14e",
+      "name": "重なるメロディ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-P14f",
+      "name": "重なるメロディ(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-P15a",
+      "name": "あの日の景色(箔押し入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1480,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-P15b",
+      "name": "あの日の景色(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-P15c",
+      "name": "あの日の景色(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-P15d",
+      "name": "あの日の景色(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-P15e",
+      "name": "あの日の景色(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-P15f",
+      "name": "あの日の景色(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1480,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-P16a",
+      "name": "夜空のスマイル(箔押し入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-P16b",
+      "name": "夜空のスマイル(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-P16c",
+      "name": "夜空のスマイル(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-P16d",
+      "name": "夜空のスマイル(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-P16e",
+      "name": "夜空のスマイル(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-P16f",
+      "name": "夜空のスマイル(サイン入り)",
+      "rarity": "?",
+      "sell_price_jpy": 1980,
+      "is_signed": true,
+      "is_sold_out": false,
+      "excluded_from_ev": true
+    },
+    {
+      "card_no": "BD/W73-P17",
+      "name": "BanG Dream! Episode of Roselia I : 約束",
+      "rarity": "PR",
+      "sell_price_jpy": 980,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/W73-P18",
+      "name": "誇り高く、気高く。",
+      "rarity": "PR",
+      "sell_price_jpy": 980,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    }
+  ],
+  "cached_at": "2026-05-11T00:33:53.566528+00:00"
+}

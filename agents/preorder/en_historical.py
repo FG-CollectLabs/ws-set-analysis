@@ -81,6 +81,8 @@ def analyze_en_history(en_historical_sets: list[dict]) -> dict:
             "release_date": release_date_str,
             "days_elapsed": days_elapsed,
             "preorder_price_usd": preorder_price,
+            "preorder_source": seed.get("preorder_price_source", ""),
+            "preorder_reddit_url": seed.get("preorder_reddit_url", ""),
             "current_box_price_usd": current_price,
             "tcgplayer_url": tcgplayer_url,
             "price_change_pct": price_change_pct,

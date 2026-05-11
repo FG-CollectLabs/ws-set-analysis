@@ -12,8 +12,7 @@
   "en_release_date_estimate": "2026-Q4",
   "en_announced": false,
   "analysis_date": "2026-05-10",
-  "expected_en_preorder_price_usd": 90.00,
-
+  "expected_en_preorder_price_usd": 49.99,
   "en_historical_sets": [
     {
       "name": "BanG Dream! Vol.1",
@@ -51,12 +50,27 @@
       "product_type": "extra_booster"
     }
   ],
-
   "jp_equivalent_sets": [
-    { "name": "BanG Dream! Vol.1 (JP)", "set_code": "BD/W47", "jp_release_date": "2018-07-27" },
-    { "name": "BanG Dream! Vol.2 (JP)", "set_code": "BD/W54", "jp_release_date": "2019-03-29" },
-    { "name": "BanG Dream! Vol.3 (JP)", "set_code": "BD/W63", "jp_release_date": "2020-01-31" },
-    { "name": "BanG Dream! Vol.4 (JP)", "set_code": "BD/W73", "jp_release_date": "2021-03-26" },
+    {
+      "name": "BanG Dream! Vol.1 (JP)",
+      "set_code": "BD/W47",
+      "jp_release_date": "2018-07-27"
+    },
+    {
+      "name": "BanG Dream! Vol.2 (JP)",
+      "set_code": "BD/W54",
+      "jp_release_date": "2019-03-29"
+    },
+    {
+      "name": "BanG Dream! Vol.3 (JP)",
+      "set_code": "BD/W63",
+      "jp_release_date": "2020-01-31"
+    },
+    {
+      "name": "BanG Dream! Vol.4 (JP)",
+      "set_code": "BD/W73",
+      "jp_release_date": "2021-03-26"
+    },
     {
       "name": "BanG Dream! Vol.5 (JP)",
       "set_code": "BD/W95",
@@ -64,15 +78,14 @@
       "is_current_jp_set": true
     }
   ],
-
   "competitive_standing": "moderate",
   "competitive_notes": "BanG Dream has a consistent competitive WS presence. MyGO!!!!! (introduced in Vol.5 JP) has been noted for aggressive deck synergies. The EN competitive scene for BD is smaller than the collector market but active at regionals.",
-
   "series_continuation": {
     "status": "ongoing",
     "future_en_sets_expected": true,
     "reasoning": "BanG Dream! is an actively running multimedia franchise with new anime (Ave Mujica aired Winter 2025), ongoing mobile game (Girls Band Party!), and live concerts. Bushiroad — the publisher of both WS and BanG Dream — has strong incentive to continue WS releases as a promotional arm. The franchise is Bushiroad's flagship IP.",
     "notes": "BanG Dream Vol.5 EN (BD/W95-E) introduces MyGO!!!!! band content. The Ave Mujica anime (spinoff of MyGO) aired in early 2025, likely driving additional interest in the broader franchise. Bushiroad has not slowed WS releases for this IP across 5+ years.",
     "demand_impact": "Ongoing franchise with guaranteed future sets. The extra booster format (band-specific sets) tends to hold value better than standard sets — limited card pool means concentrated demand for specific character cards. Compare the XIRR of the FILM LIVE 2nd Stage Extra Booster vs standard sets in the historical table above."
-  }
+  },
+  "expected_en_preorder_price_note": "Goldstar Collectibles (u/th8596) — based on recent EN WS standard set pricing $49.99/box"
 }

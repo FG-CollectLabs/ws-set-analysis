@@ -12,8 +12,7 @@
   "en_release_date_estimate": "2026-Q3",
   "en_announced": true,
   "analysis_date": "2026-05-10",
-  "expected_en_preorder_price_usd": 90.00,
-
+  "expected_en_preorder_price_usd": 49.99,
   "en_historical_sets": [
     {
       "name": "The Quintessential Quintuplets",
@@ -30,7 +29,6 @@
       "product_type": "booster"
     }
   ],
-
   "jp_equivalent_sets": [
     {
       "name": "Quintessential Quintuplets Vol.1 (JP)",
@@ -50,15 +48,14 @@
       "note": "Based on the movie - the final chapter of the IP"
     }
   ],
-
   "competitive_standing": "low",
   "competitive_notes": "Quintuplets has minimal BCS competitive presence. Purely collector-driven. The movie set will feature wedding/finale content which historically drives high SP demand.",
-
   "series_continuation": {
     "status": "completed",
     "future_en_sets_expected": false,
     "reasoning": "The Quintessential Quintuplets manga concluded in February 2020 and the movie 'Fine~' (December 2022 JP) is the definitive finale covering the wedding arc. The IP is fully concluded — no sequel, continuation, or new adaptation is expected.",
     "notes": "Completed IPs with strong cultural footprint tend to retain collector value well once supply clears the initial market. The five quintuplet waifus have a durable fanbase. However, the absence of new content means no demand spikes from future seasons.",
     "demand_impact": "Completed IP — no future catalyst events, but also no dilution from new sets. Price ceiling is set by collector demand alone. The finale movie content (wedding SPs) is likely to be the most sought-after in the entire IP lineup."
-  }
+  },
+  "expected_en_preorder_price_note": "Goldstar Collectibles (u/th8596) — based on recent EN WS standard set pricing $49.99/box"
 }

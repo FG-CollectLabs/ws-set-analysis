@@ -1,0 +1,825 @@
+{
+  "set_code": "BD/WE32",
+  "cards": [
+    {
+      "card_no": "BD/WE32-01BDR",
+      "name": "“にこにこプラネット”北沢はぐみ(箔押し入り)",
+      "rarity": "BDR",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-02BDR",
+      "name": "“にこにこプラネット”弦巻こころ(箔押し入り)",
+      "rarity": "BDR",
+      "sell_price_jpy": 780,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-03BDR",
+      "name": "“イノセントフラップ”広町七深(箔押し入り)",
+      "rarity": "BDR",
+      "sell_price_jpy": 780,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-04BDR",
+      "name": "“ブルーミングエール”氷川日菜(箔押し入り)",
+      "rarity": "BDR",
+      "sell_price_jpy": 680,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-05BDR",
+      "name": "“にこにこプラネット”松原花音(箔押し入り)",
+      "rarity": "BDR",
+      "sell_price_jpy": 680,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-06BDR",
+      "name": "“イノセントフラップ”桐ケ谷透子(箔押し入り)",
+      "rarity": "BDR",
+      "sell_price_jpy": 680,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-07BDR",
+      "name": "“にこにこプラネット”瀬田薫(箔押し入り)",
+      "rarity": "BDR",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-08BDR",
+      "name": "“ブルーミングエール”白鷺千聖(箔押し入り)",
+      "rarity": "BDR",
+      "sell_price_jpy": 980,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-09BDR",
+      "name": "“にこにこプラネット”奥沢美咲(箔押し入り)",
+      "rarity": "BDR",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-10BDR",
+      "name": "“スカーレットソウル”上原ひまり(箔押し入り)",
+      "rarity": "BDR",
+      "sell_price_jpy": 580,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-11BDR",
+      "name": "“スカーレットソウル”羽沢つぐみ(箔押し入り)",
+      "rarity": "BDR",
+      "sell_price_jpy": 980,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-12BDR",
+      "name": "“スカーレットソウル”宇田川巴(箔押し入り)",
+      "rarity": "BDR",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-13BDR",
+      "name": "“エキサイトパフォーム”ロック(箔押し入り)",
+      "rarity": "BDR",
+      "sell_price_jpy": 980,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-14BDR",
+      "name": "“スカーレットソウル”美竹蘭(箔押し入り)",
+      "rarity": "BDR",
+      "sell_price_jpy": 1480,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-15BDR",
+      "name": "“ブルーミングエール”若宮イヴ(箔押し入り)",
+      "rarity": "BDR",
+      "sell_price_jpy": 320,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-16BDR",
+      "name": "“エキサイトパフォーム”レイヤ(箔押し入り)",
+      "rarity": "BDR",
+      "sell_price_jpy": 680,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-17BDR",
+      "name": "“スカーレットソウル”青葉モカ(箔押し入り)",
+      "rarity": "BDR",
+      "sell_price_jpy": 680,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-18BDR",
+      "name": "“エキサイトパフォーム”マスキング(箔押し入り)",
+      "rarity": "BDR",
+      "sell_price_jpy": 780,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-19BDR",
+      "name": "“ピースフルジャンプ!”牛込りみ(箔押し入り)",
+      "rarity": "BDR",
+      "sell_price_jpy": 780,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-20BDR",
+      "name": "“ブルーミングエール”大和麻弥(箔押し入り)",
+      "rarity": "BDR",
+      "sell_price_jpy": 680,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-21BDR",
+      "name": "“ピースフルジャンプ!”戸山香澄(箔押し入り)",
+      "rarity": "BDR",
+      "sell_price_jpy": 680,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-22BDR",
+      "name": "“ピースフルジャンプ!”山吹沙綾(箔押し入り)",
+      "rarity": "BDR",
+      "sell_price_jpy": 980,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-23BDR",
+      "name": "“ロフティアンビション”宇田川あこ(箔押し入り)",
+      "rarity": "BDR",
+      "sell_price_jpy": 680,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-24BDR",
+      "name": "“イノセントフラップ”八潮瑠唯(箔押し入り)",
+      "rarity": "BDR",
+      "sell_price_jpy": 1280,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-25BDR",
+      "name": "“エキサイトパフォーム”パレオ(箔押し入り)",
+      "rarity": "BDR",
+      "sell_price_jpy": 980,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-26BDR",
+      "name": "“ブルーミングエール”丸山彩(箔押し入り)",
+      "rarity": "BDR",
+      "sell_price_jpy": 1280,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-27BDR",
+      "name": "“ロフティアンビション”今井リサ(箔押し入り)",
+      "rarity": "BDR",
+      "sell_price_jpy": 1980,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-28BDR",
+      "name": "“エキサイトパフォーム”チュチュ(箔押し入り)",
+      "rarity": "BDR",
+      "sell_price_jpy": 980,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-29BDR",
+      "name": "“ロフティアンビション”湊友希那(箔押し入り)",
+      "rarity": "BDR",
+      "sell_price_jpy": 2480,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-30BDR",
+      "name": "“ピースフルジャンプ!”花園たえ(箔押し入り)",
+      "rarity": "BDR",
+      "sell_price_jpy": 680,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-31BDR",
+      "name": "“ロフティアンビション”氷川紗夜(箔押し入り)",
+      "rarity": "BDR",
+      "sell_price_jpy": 1980,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-32BDR",
+      "name": "“イノセントフラップ”二葉つくし(箔押し入り)",
+      "rarity": "BDR",
+      "sell_price_jpy": 580,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-33BDR",
+      "name": "“ピースフルジャンプ!”市ヶ谷有咲(箔押し入り)",
+      "rarity": "BDR",
+      "sell_price_jpy": 980,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-34BDR",
+      "name": "“ロフティアンビション”白金燐子(箔押し入り)",
+      "rarity": "BDR",
+      "sell_price_jpy": 980,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-35BDR",
+      "name": "“イノセントフラップ”倉田ましろ(箔押し入り)",
+      "rarity": "BDR",
+      "sell_price_jpy": 1980,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-01S",
+      "name": "“にこにこプラネット”北沢はぐみ",
+      "rarity": "S",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-02S",
+      "name": "“にこにこプラネット”弦巻こころ",
+      "rarity": "S",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-03S",
+      "name": "“イノセントフラップ”広町七深",
+      "rarity": "S",
+      "sell_price_jpy": 320,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-04S",
+      "name": "“ブルーミングエール”氷川日菜",
+      "rarity": "S",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-05S",
+      "name": "“にこにこプラネット”松原花音",
+      "rarity": "S",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-06S",
+      "name": "“イノセントフラップ”桐ケ谷透子",
+      "rarity": "S",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-07S",
+      "name": "“にこにこプラネット”瀬田薫",
+      "rarity": "S",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-08S",
+      "name": "“ブルーミングエール”白鷺千聖",
+      "rarity": "S",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-09S",
+      "name": "“にこにこプラネット”奥沢美咲",
+      "rarity": "S",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-10S",
+      "name": "“スカーレットソウル”上原ひまり",
+      "rarity": "S",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-11S",
+      "name": "“スカーレットソウル”羽沢つぐみ",
+      "rarity": "S",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-12S",
+      "name": "“スカーレットソウル”宇田川巴",
+      "rarity": "S",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-13S",
+      "name": "“エキサイトパフォーム”ロック",
+      "rarity": "S",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-14S",
+      "name": "“スカーレットソウル”美竹蘭",
+      "rarity": "S",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-15S",
+      "name": "“ブルーミングエール”若宮イヴ",
+      "rarity": "S",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-16S",
+      "name": "“エキサイトパフォーム”レイヤ",
+      "rarity": "S",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-17S",
+      "name": "“スカーレットソウル”青葉モカ",
+      "rarity": "S",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-18S",
+      "name": "“エキサイトパフォーム”マスキング",
+      "rarity": "S",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-19S",
+      "name": "“ピースフルジャンプ!”牛込りみ",
+      "rarity": "S",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-20S",
+      "name": "“ブルーミングエール”大和麻弥",
+      "rarity": "S",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-21S",
+      "name": "“ピースフルジャンプ!”戸山香澄",
+      "rarity": "S",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-22S",
+      "name": "“ピースフルジャンプ!”山吹沙綾",
+      "rarity": "S",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-23S",
+      "name": "“ロフティアンビション”宇田川あこ",
+      "rarity": "S",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-24S",
+      "name": "“イノセントフラップ”八潮瑠唯",
+      "rarity": "S",
+      "sell_price_jpy": 320,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-25S",
+      "name": "“エキサイトパフォーム”パレオ",
+      "rarity": "S",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-26S",
+      "name": "“ブルーミングエール”丸山彩",
+      "rarity": "S",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-27S",
+      "name": "“ロフティアンビション”今井リサ",
+      "rarity": "S",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-28S",
+      "name": "“エキサイトパフォーム”チュチュ",
+      "rarity": "S",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-29S",
+      "name": "“ロフティアンビション”湊友希那",
+      "rarity": "S",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-30S",
+      "name": "“ピースフルジャンプ!”花園たえ",
+      "rarity": "S",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-31S",
+      "name": "“ロフティアンビション”氷川紗夜",
+      "rarity": "S",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-32S",
+      "name": "“イノセントフラップ”二葉つくし",
+      "rarity": "S",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": true,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-33S",
+      "name": "“ピースフルジャンプ!”市ヶ谷有咲",
+      "rarity": "S",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-34S",
+      "name": "“ロフティアンビション”白金燐子",
+      "rarity": "S",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-35S",
+      "name": "“イノセントフラップ”倉田ましろ",
+      "rarity": "S",
+      "sell_price_jpy": 320,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-P01",
+      "name": "“さぁ、行こう!”弦巻こころ",
+      "rarity": "PR",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-P01S",
+      "name": "“さぁ、行こう!”弦巻こころ(箔押し入り)",
+      "rarity": "S",
+      "sell_price_jpy": 680,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-P02",
+      "name": "“リクエストは?”レイヤ",
+      "rarity": "PR",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-P02S",
+      "name": "“リクエストは?”レイヤ(箔押し入り)",
+      "rarity": "S",
+      "sell_price_jpy": 420,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-P03",
+      "name": "“さぁ、行こう!”美竹蘭",
+      "rarity": "PR",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-P03S",
+      "name": "“さぁ、行こう!”美竹蘭(箔押し入り)",
+      "rarity": "S",
+      "sell_price_jpy": 420,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-P04",
+      "name": "“さぁ、行こう!”丸山彩",
+      "rarity": "PR",
+      "sell_price_jpy": 500,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-P04S",
+      "name": "“さぁ、行こう!”丸山彩(箔押し入り)",
+      "rarity": "S",
+      "sell_price_jpy": 780,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-P05",
+      "name": "“さぁ、行こう!”戸山香澄",
+      "rarity": "PR",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-P05S",
+      "name": "“さぁ、行こう!”戸山香澄(箔押し入り)",
+      "rarity": "S",
+      "sell_price_jpy": 320,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-P06",
+      "name": "“さぁ、行こう!”湊友希那",
+      "rarity": "PR",
+      "sell_price_jpy": 980,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-P06S",
+      "name": "“さぁ、行こう!”湊友希那(箔押し入り)",
+      "rarity": "S",
+      "sell_price_jpy": 1980,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-P07",
+      "name": "“さぁ、行こう!”倉田ましろ",
+      "rarity": "PR",
+      "sell_price_jpy": 320,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-P07S",
+      "name": "“さぁ、行こう!”倉田ましろ(箔押し入り)",
+      "rarity": "S",
+      "sell_price_jpy": 680,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-P08",
+      "name": "“Present for you !”丸山彩",
+      "rarity": "PR",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-P09",
+      "name": "“Present for you !”弦巻こころ",
+      "rarity": "PR",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-P10",
+      "name": "“Present for you !”美竹蘭",
+      "rarity": "PR",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-P11",
+      "name": "“Present for you !”レイヤ",
+      "rarity": "PR",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-P12",
+      "name": "“Present for you !”戸山香澄",
+      "rarity": "PR",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-P13",
+      "name": "“Present for you !”湊友希那",
+      "rarity": "PR",
+      "sell_price_jpy": 180,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    },
+    {
+      "card_no": "BD/WE32-P14",
+      "name": "“Present for you !”倉田ましろ",
+      "rarity": "PR",
+      "sell_price_jpy": 220,
+      "is_signed": false,
+      "is_sold_out": false,
+      "excluded_from_ev": false
+    }
+  ],
+  "cached_at": "2026-05-11T00:34:52.236275+00:00"
+}

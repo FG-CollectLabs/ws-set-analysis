@@ -5,17 +5,17 @@ set_name: "Oshi no Ko Vol.2"
 set_slug: "oshinoko-vol2"
 ip: "Oshi no Ko"
 stage: "preorder"
-recommendation: "wait-for-dip"
+recommendation: "buy"
 analyst: "claude-agent"
 draft: false
-summary: "Mixed signals. Historical EN performance suggests a post-release dip is likely. Wait 30–60 days after release for a better entry price."
+summary: "Solid signals overall. Preorder is reasonable. Minor risk factors present but not deal-breakers."
 ---
 
-## TL;DR — 🟡 WAIT FOR DIP
+## TL;DR — 🔵 BUY
 
-**Score:** 4/10 &nbsp;|&nbsp; **Expected EN preorder:** ~$90 &nbsp;|&nbsp; **Estimated EN release:** 2026-Q4
+**Score:** 6/10 &nbsp;|&nbsp; **Expected EN preorder:** ~$50 &nbsp;|&nbsp; **Estimated EN release:** 2026-Q4
 
-Mixed signals. Historical EN performance suggests a post-release dip is likely. Wait 30–60 days after release for a better entry price.
+Solid signals overall. Preorder is reasonable. Minor risk factors present but not deal-breakers.
 
 ## IP Strength — Strong
 
@@ -41,13 +41,13 @@ Mixed signals. Historical EN performance suggests a post-release dip is likely. 
 
 ## Historical EN Performance
 
-**Trend:** Significant Dip (avg -30.5% vs preorder)
+**Trend:** Stable (avg -3.7% vs preorder)
 
-Prior EN sets average -30.5% vs preorder. Significant depreciation — wait for market stabilization.
+Prior EN sets average -3.7% vs preorder. Relatively stable — minimal dip risk.
 
 | Set | Type | Preorder | Current Box | Change | ROI | Post-Fee ROI | Post-Fee XIRR | Age | Competitive |
 |-----|------|----------|-------------|--------|-----|--------------|---------------|-----|-------------|
-| Oshi no Ko | Standard | $90 | [$63](https://www.tcgplayer.com/search/weiss-schwarz/product?q=Oshi+no+Ko+booster+box+sealed&productLineName=weiss-schwarz) | -30% | -30% | -39% | -31.5%/yr | 471d | Low |
+| Oshi no Ko | Standard | $65 | [$63](https://www.tcgplayer.com/search/weiss-schwarz/product?q=Oshi+no+Ko+booster+box+sealed&productLineName=weiss-schwarz) | -4% | -4% | -15% | -11.9%/yr | 471d | Low |
 
 > _Post-Fee ROI and XIRR assume TCGPlayer seller fees of 11.75% (10.25% marketplace + 1.5% payment processing). XIRR is the annualized return rate — what you'd earn per year if you bought at preorder and sold today. Extra Booster sets not directly comparable to standard boosters._
 
@@ -95,18 +95,18 @@ Despite being a completed IP, Oshi no Ko had one of the fastest rises in WS coll
 
 **Demand impact:** Completed IP with extremely strong cultural imprint. The conclusion of the manga/anime likely creates a 'final edition' premium for Vol.2 — last chance to get new content cards. Watch for post-completion price appreciation similar to what re:Zero experienced after anime arcs concluded.
 
-## Recommendation: 🟡 WAIT FOR DIP
+## Recommendation: 🔵 BUY
 
-**Total Score: 4/10**
+**Total Score: 6/10**
 
 | Dimension | Score | Detail |
 |-----------|-------|--------|
 | IP Strength | 3/3 | Strong — Anime MAL rank #151 (top 500) |
-| EN Trend | 0/3 | Significant Dip — Prior EN sets average -30.5% vs preorder. Significant depreciation — wait for ma... |
+| EN Trend | 2/3 | Stable — Prior EN sets average -3.7% vs preorder. Relatively stable — minimal dip risk.... |
 | JP EV Signal | 1/2 | Neutral — ... |
 | Competitive | 0/2 | Low |
 
-Mixed signals. Historical EN performance suggests a post-release dip is likely. Wait 30–60 days after release for a better entry price.
+Solid signals overall. Preorder is reasonable. Minor risk factors present but not deal-breakers.
 
 ## Data Sources & Methodology
 
@@ -115,6 +115,8 @@ _All prices are point-in-time snapshots taken 2026-05-10. Not financial advice._
 - **IP Data:** [MyAnimeList](https://myanimelist.net) via Jikan v4 API
   - Anime: [MAL #52034](https://myanimelist.net/anime/52034)
   - Manga: [MAL #126146](https://myanimelist.net/manga/126146)
+- **Preorder Prices:** [Goldstar Collectibles](https://www.goldstarcollectibles.com) via [u/th8596](https://www.reddit.com/user/th8596/) Reddit posts
+  - Oshi no Ko: [$65.00](https://www.reddit.com/r/WeissSchwarz/comments/1c8v4et/english_weiss_schwarz_preorders_hololive_jojo/)
 - **JP Card Prices:** [Yuyutei](https://yuyu-tei.jp) (scraped)
 - **EN Card Prices:** [TCGPlayer](https://www.tcgplayer.com/search/weiss-schwarz/product) (scraped)
 - **Pull Rates:** Bushiroad official product pages + community records

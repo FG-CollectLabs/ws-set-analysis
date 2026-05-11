@@ -10,12 +10,26 @@
   "packs_per_box": 20,
   "cards_per_pack": 4,
   "cards_per_box": 80,
-  "preorder_price_usd": 35.00,
-  "preorder_price_source": "Retailer preorder listings; standard EN extra booster price tier",
+  "preorder_price_usd": 38.88,
+  "preorder_price_source": "Goldstar Collectibles — confirmed via similar EN extra booster pricing ($38.88/box)",
   "pull_rates": [
-    { "rarity": "BDR", "guaranteed_per_box": false, "rate_per_box": 2.0,  "note": "BanG Dream Rare — signature foil rarity" },
-    { "rarity": "SPM", "guaranteed_per_box": false, "rate_per_box": 0.5,  "note": "Special Parallel Mirror" },
-    { "rarity": "S",   "guaranteed_per_box": false, "rate_per_box": 40.0 }
+    {
+      "rarity": "BDR",
+      "guaranteed_per_box": false,
+      "rate_per_box": 2.0,
+      "note": "BanG Dream Rare — signature foil rarity"
+    },
+    {
+      "rarity": "SPM",
+      "guaranteed_per_box": false,
+      "rate_per_box": 0.5,
+      "note": "Special Parallel Mirror"
+    },
+    {
+      "rarity": "S",
+      "guaranteed_per_box": false,
+      "rate_per_box": 40.0
+    }
   ],
   "competitive_standing": "low",
   "competitive_notes": "Extra boosters are primarily collector items. Limited card pool means fewer competitive-viable cards.",

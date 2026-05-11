@@ -13,38 +13,42 @@ summary: "Weak IP signals, unfavorable EN trend, or poor JP EV. Not worth the pr
 
 ## TL;DR — 🔴 PASS
 
-**Score:** 3/10 &nbsp;|&nbsp; **Expected EN preorder:** ~$90 &nbsp;|&nbsp; **Estimated EN release:** 2026-Q3
+**Score:** 3/10 &nbsp;|&nbsp; **Expected EN preorder:** ~$50 &nbsp;|&nbsp; **Estimated EN release:** 2026-Q3
 
 Weak IP signals, unfavorable EN trend, or poor JP EV. Not worth the preorder risk at current expected pricing.
 
 ## IP Strength — Strong
 
-**Assessment:** Anime member count 1,069,892 > 500k
+**Assessment:** Anime member count 1,070,226 > 500k
 
 ### Anime
 
 - **Title:** [The Quintessential Quintuplets](https://myanimelist.net/anime/38101/5-toubun_no_Hanayome)
-- **MAL Rank:** [#1714](https://myanimelist.net/topanime.php)
+- **MAL Rank:** [#1716](https://myanimelist.net/topanime.php)
 - **Score:** 7.62 / 10
-- **Members:** 1,069,892
-- **Favorites:** 14,702
+- **Members:** 1,070,226
+- **Favorites:** 14,707
 - **Popularity Rank:** #172
 - **Status:** Finished Airing (12 episodes)
 
 ### Manga / Light Novel
 
-_MAL manga data unavailable_
+- **Title:** [The Quintessential Quintuplets](https://myanimelist.net/manga/103851/5-toubun_no_Hanayome)
+- **MAL Rank:** [#1214](https://myanimelist.net/topmanga.php)
+- **Score:** 7.9 / 10
+- **Members:** 178,481
+- **Status:** Finished
 
 ## Historical EN Performance
 
-**Trend:** Mild Dip (avg -24.9% vs preorder)
+**Trend:** Mild Dip (avg -16.1% vs preorder)
 
-Prior EN sets average -24.9% vs preorder. Moderate dip — waiting 30–60 days post-release typically yields a better entry.
+Prior EN sets average -16.1% vs preorder. Moderate dip — waiting 30–60 days post-release typically yields a better entry.
 
 | Set | Type | Preorder | Current Box | Change | ROI | Post-Fee ROI | Post-Fee XIRR | Age | Competitive |
 |-----|------|----------|-------------|--------|-----|--------------|---------------|-----|-------------|
-| The Quintessential Quintuplets | Standard | $85 | [$64](https://www.tcgplayer.com/search/weiss-schwarz/product?q=The+Quintessential+Quintuplets+booster+box+sealed&productLineName=weiss-schwarz) | -25% | -25% | -34% | -8.5%/yr | 1,696d | Low |
-| The Quintessential Quintuplets ∬ | Standard | $85 | [$64](https://www.tcgplayer.com/search/weiss-schwarz/product?q=The+Quintessential+Quintuplets+∬+booster+box+sealed&productLineName=weiss-schwarz) | -25% | -25% | -34% | -10.6%/yr | 1,339d | Low |
+| The Quintessential Quintuplets | Standard | $68 | [$64](https://www.tcgplayer.com/search/weiss-schwarz/product?q=The+Quintessential+Quintuplets+booster+box+sealed&productLineName=weiss-schwarz) | -5% | -5% | -16% | -3.8%/yr | 1,696d | Low |
+| The Quintessential Quintuplets ∬ | Standard | $65 | [$48](https://www.tcgplayer.com/search/weiss-schwarz/product?q=The+Quintessential+Quintuplets+∬+booster+box+sealed&productLineName=weiss-schwarz) | -27% | -27% | -36% | -11.3%/yr | 1,339d | Low |
 
 > _Post-Fee ROI and XIRR assume TCGPlayer seller fees of 11.75% (10.25% marketplace + 1.5% payment processing). XIRR is the annualized return rate — what you'd earn per year if you bought at preorder and sold today. Extra Booster sets not directly comparable to standard boosters._
 
@@ -114,8 +118,8 @@ Completed IPs with strong cultural footprint tend to retain collector value well
 
 | Dimension | Score | Detail |
 |-----------|-------|--------|
-| IP Strength | 3/3 | Strong — Anime member count 1,069,892 > 500k |
-| EN Trend | 1/3 | Mild Dip — Prior EN sets average -24.9% vs preorder. Moderate dip — waiting 30–60 days post... |
+| IP Strength | 3/3 | Strong — Anime member count 1,070,226 > 500k |
+| EN Trend | 1/3 | Mild Dip — Prior EN sets average -16.1% vs preorder. Moderate dip — waiting 30–60 days post... |
 | JP EV Signal | -1/2 | Negative — JP box EV $9 is significantly below expected EN preorder. EV does not support pr... |
 | Competitive | 0/2 | Low |
 
@@ -128,6 +132,9 @@ _All prices are point-in-time snapshots taken 2026-05-10. Not financial advice._
 - **IP Data:** [MyAnimeList](https://myanimelist.net) via Jikan v4 API
   - Anime: [MAL #38101](https://myanimelist.net/anime/38101)
   - Manga: [MAL #103851](https://myanimelist.net/manga/103851)
+- **Preorder Prices:** [Goldstar Collectibles](https://www.goldstarcollectibles.com) via [u/th8596](https://www.reddit.com/user/th8596/) Reddit posts
+  - The Quintessential Quintuplets: $67.50 (estimated — Goldstar era pricing Sep 2021 (~$67.50/box for contemporaneous sets))
+  - The Quintessential Quintuplets ∬: $65.00 (estimated — Goldstar era pricing Sep 2022 (~$65/box, same era as Bocchi/Ayakashi))
 - **JP Card Prices:** [Yuyutei](https://yuyu-tei.jp) (scraped)
 - **EN Card Prices:** [TCGPlayer](https://www.tcgplayer.com/search/weiss-schwarz/product) (scraped)
 - **Pull Rates:** Bushiroad official product pages + community records

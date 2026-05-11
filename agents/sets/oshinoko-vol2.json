@@ -12,9 +12,8 @@
   "en_release_date_estimate": "2026-Q4",
   "en_announced": false,
   "analysis_date": "2026-05-10",
-  "expected_en_preorder_price_usd": 90.00,
-  "expected_en_preorder_price_note": "Standard EN WS price tier. Vol.1 launched at $90.",
-
+  "expected_en_preorder_price_usd": 49.99,
+  "expected_en_preorder_price_note": "Goldstar Collectibles (u/th8596) — WS EN Oshi No Ko V2 Booster Box $49.99 Shipped",
   "en_historical_sets": [
     {
       "name": "Oshi no Ko",
@@ -24,7 +23,6 @@
       "product_type": "booster"
     }
   ],
-
   "jp_equivalent_sets": [
     {
       "name": "Oshi no Ko Vol.1 (JP)",
@@ -40,15 +38,14 @@
       "note": "JP set code estimated — verify against Bushiroad product page."
     }
   ],
-
   "competitive_standing": "low",
   "competitive_notes": "Oshi no Ko has minimal EN WS competitive presence. The IP is purely collector-driven. Strong single-character demand (Ai, Ruby, Aqua SPs command significant premiums).",
-
   "series_continuation": {
     "status": "completed",
     "future_en_sets_expected": false,
     "reasoning": "The Oshi no Ko manga concluded in Fall 2024. Anime Season 2 adapted the manga's later arcs. With the source material complete and the story concluded, no further major adaptations are expected beyond any remaining anime seasons covering the ending.",
     "notes": "Despite being a completed IP, Oshi no Ko had one of the fastest rises in WS collector demand of any recent IP. The 'Ai' SP from Vol.1 is a landmark card. Completion of the story may actually strengthen collector demand for the final sets by cementing the IP's cultural moment.",
     "demand_impact": "Completed IP with extremely strong cultural imprint. The conclusion of the manga/anime likely creates a 'final edition' premium for Vol.2 — last chance to get new content cards. Watch for post-completion price appreciation similar to what re:Zero experienced after anime arcs concluded."
-  }
+  },
+  "expected_en_preorder_reddit_url": "https://www.reddit.com/r/WeissSchwarz/comments/1osakum/preorder_english_fujimi_vol2_and_oshi_no_ko_vol2/"
 }

@@ -14,9 +14,8 @@
   "en_announced": true,
   "analysis_date": "2026-05-10",
   "en_release_date_estimate": "2026-Q3",
-  "expected_en_preorder_price_usd": 90.00,
-  "expected_en_preorder_price_note": "Standard EN WS booster boxes $85-105. Using $90 baseline. Vol.1 launched at ~$85; modest price increase expected for Vol.2.",
-
+  "expected_en_preorder_price_usd": 54.99,
+  "expected_en_preorder_price_note": "Goldstar Collectibles (u/th8596) — based on NIKKE EN rerun pricing $54.99/box",
   "en_historical_sets": [
     {
       "name": "Goddess of Victory: NIKKE Vol.1",
@@ -26,7 +25,6 @@
       "product_type": "booster"
     }
   ],
-
   "jp_equivalent_sets": [
     {
       "name": "NIKKE Vol.1 (JP)",
@@ -42,10 +40,8 @@
       "note": "Simultaneous EN/JP release — JP and EN price discovery happens concurrently. JP market data not predictive."
     }
   ],
-
   "competitive_standing": "low",
   "competitive_notes": "NIKKE has minimal EN WS competitive presence. The game has a dedicated player base but has not translated into BCS tournament representation. Cards are primarily collector-driven. Vol.2 may introduce stronger builds depending on card pool, but no competitive standing change is anticipated at this stage.",
-
   "series_continuation": {
     "status": "ongoing",
     "future_en_sets_expected": true,

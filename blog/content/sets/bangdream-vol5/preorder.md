@@ -13,7 +13,7 @@ summary: "Mixed signals. Historical EN performance suggests a post-release dip i
 
 ## TL;DR — 🟡 WAIT FOR DIP
 
-**Score:** 4/10 &nbsp;|&nbsp; **Expected EN preorder:** ~$90 &nbsp;|&nbsp; **Estimated EN release:** 2026-Q4
+**Score:** 5/10 &nbsp;|&nbsp; **Expected EN preorder:** ~$50 &nbsp;|&nbsp; **Estimated EN release:** 2026-Q4
 
 Mixed signals. Historical EN performance suggests a post-release dip is likely. Wait 30–60 days after release for a better entry price.
 
@@ -37,17 +37,17 @@ _MAL manga data unavailable_
 
 ## Historical EN Performance
 
-**Trend:** Stable (avg -8.3% vs preorder)
+**Trend:** Appreciating (avg +64.5% vs preorder)
 
-Prior EN sets average -8.3% vs preorder. Relatively stable — minimal dip risk.
+Prior EN sets average +64.5% vs preorder. Strong appreciation — demand holds post-release.
 
 | Set | Type | Preorder | Current Box | Change | ROI | Post-Fee ROI | Post-Fee XIRR | Age | Competitive |
 |-----|------|----------|-------------|--------|-----|--------------|---------------|-----|-------------|
-| BanG Dream! Vol.1 | Standard | $65 | [$23](https://www.tcgplayer.com/search/weiss-schwarz/product?q=BanG+Dream!+Vol.1+booster+box+sealed&productLineName=weiss-schwarz) | -64% | -64% | -68% | -16.8%/yr | 2,291d | Moderate |
-| BanG Dream! Vol.2 | Standard | $70 | [$191](https://www.tcgplayer.com/search/weiss-schwarz/product?q=BanG+Dream!+Vol.2+booster+box+sealed&productLineName=weiss-schwarz) | +173% | +173% | +141% | +16.9%/yr | 2,053d | Moderate |
-| BanG Dream! Vol.3 | Standard | $75 | [$23](https://www.tcgplayer.com/search/weiss-schwarz/product?q=BanG+Dream!+Vol.3+booster+box+sealed&productLineName=weiss-schwarz) | -69% | -69% | -73% | -24.6%/yr | 1,675d | Moderate |
-| BanG Dream! Vol.4 | Standard | $85 | [$23](https://www.tcgplayer.com/search/weiss-schwarz/product?q=BanG+Dream!+Vol.4+booster+box+sealed&productLineName=weiss-schwarz) | -73% | -73% | -76% | -32.4%/yr | 1,325d | Moderate |
-| BanG Dream! FILM LIVE 2nd Stage Extra Booster | Extra | $35 | [$30](https://www.tcgplayer.com/search/weiss-schwarz/product?q=BanG+Dream!+FILM+LIVE+2nd+Stage+Extra+Booster+booster+box+sealed&productLineName=weiss-schwarz) | -14% | -14% | -24% | -6.6%/yr | 1,472d | Low |
+| BanG Dream! Vol.1 | Standard | $68 | [$23](https://www.tcgplayer.com/search/weiss-schwarz/product?q=BanG+Dream!+Vol.1+booster+box+sealed&productLineName=weiss-schwarz) | -66% | -66% | -70% | -17.3%/yr | 2,291d | Moderate |
+| BanG Dream! Vol.2 | Standard | $65 | [$191](https://www.tcgplayer.com/search/weiss-schwarz/product?q=BanG+Dream!+Vol.2+booster+box+sealed&productLineName=weiss-schwarz) | +194% | +194% | +159% | +18.5%/yr | 2,053d | Moderate |
+| BanG Dream! Vol.3 | Standard | $65 | [$191](https://www.tcgplayer.com/search/weiss-schwarz/product?q=BanG+Dream!+Vol.3+booster+box+sealed&productLineName=weiss-schwarz) | +194% | +194% | +159% | +23.1%/yr | 1,675d | Moderate |
+| BanG Dream! Vol.4 | Standard | $65 | [$23](https://www.tcgplayer.com/search/weiss-schwarz/product?q=BanG+Dream!+Vol.4+booster+box+sealed&productLineName=weiss-schwarz) | -64% | -64% | -68% | -27.3%/yr | 1,325d | Moderate |
+| BanG Dream! FILM LIVE 2nd Stage Extra Booster | Extra | $39 | [$30](https://www.tcgplayer.com/search/weiss-schwarz/product?q=BanG+Dream!+FILM+LIVE+2nd+Stage+Extra+Booster+booster+box+sealed&productLineName=weiss-schwarz) | -23% | -23% | -32% | -9.0%/yr | 1,472d | Low |
 
 > _Post-Fee ROI and XIRR assume TCGPlayer seller fees of 11.75% (10.25% marketplace + 1.5% payment processing). XIRR is the annualized return rate — what you'd earn per year if you bought at preorder and sold today. Extra Booster sets not directly comparable to standard boosters._
 
@@ -113,12 +113,12 @@ BanG Dream Vol.5 EN (BD/W95-E) introduces MyGO!!!!! band content. The Ave Mujica
 
 ## Recommendation: 🟡 WAIT FOR DIP
 
-**Total Score: 4/10**
+**Total Score: 5/10**
 
 | Dimension | Score | Detail |
 |-----------|-------|--------|
 | IP Strength | 2/3 | Moderate — Anime member count 106,326 (100k–500k) |
-| EN Trend | 2/3 | Stable — Prior EN sets average -8.3% vs preorder. Relatively stable — minimal dip risk.... |
+| EN Trend | 3/3 | Appreciating — Prior EN sets average +64.5% vs preorder. Strong appreciation — demand holds pos... |
 | JP EV Signal | -1/2 | Negative — JP box EV $4 is significantly below expected EN preorder. EV does not support pr... |
 | Competitive | 1/2 | Moderate |
 
@@ -130,6 +130,12 @@ _All prices are point-in-time snapshots taken 2026-05-10. Not financial advice._
 
 - **IP Data:** [MyAnimeList](https://myanimelist.net) via Jikan v4 API
   - Anime: [MAL #33573](https://myanimelist.net/anime/33573)
+- **Preorder Prices:** [Goldstar Collectibles](https://www.goldstarcollectibles.com) via [u/th8596](https://www.reddit.com/user/th8596/) Reddit posts
+  - BanG Dream! Vol.1: $67.50 (estimated — Goldstar era pricing 2019-2020 (~$67.50/box for older sets))
+  - BanG Dream! Vol.2: $65.00 (estimated — Goldstar era pricing 2020 (~$65/box))
+  - BanG Dream! Vol.3: $65.00 (estimated — Goldstar era pricing 2021 (~$65/box, contemporaneous Bocchi was $65))
+  - BanG Dream! Vol.4: $65.00 (estimated — Goldstar era pricing 2022 (~$65/box))
+  - BanG Dream! FILM LIVE 2nd Stage Extra Booster: $38.88 (Goldstar Collectibles — confirmed via similar EN extra booster pricing ($38.88/box))
 - **JP Card Prices:** [Yuyutei](https://yuyu-tei.jp) (scraped)
 - **EN Card Prices:** [TCGPlayer](https://www.tcgplayer.com/search/weiss-schwarz/product) (scraped)
 - **Pull Rates:** Bushiroad official product pages + community records

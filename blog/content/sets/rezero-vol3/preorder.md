@@ -136,6 +136,11 @@ _All prices are point-in-time snapshots taken 2026-05-10. Not financial advice._
 - **IP Data:** [MyAnimeList](https://myanimelist.net) via Jikan v4 API
   - Anime: [MAL #31240](https://myanimelist.net/anime/31240)
   - Manga: [MAL #74697](https://myanimelist.net/manga/74697)
+- **Preorder Prices:** [Goldstar Collectibles](https://www.goldstarcollectibles.com) via [u/th8596](https://www.reddit.com/user/th8596/) Reddit posts
+  - Re:Zero Vol.1: $98.00 (Potomac Distribution / retailer listings at launch)
+  - Re:Zero Vol.2: $98.00 (Retailer listings at launch (approximate))
+  - Re:Zero Memory Snow: $98.00 (Retailer listings at launch (approximate))
+  - Re:Zero Frozen Bond: $29.00 (Retailer listings at launch (approximately $29-32))
 - **JP Card Prices:** [Yuyutei](https://yuyu-tei.jp) (scraped)
 - **EN Card Prices:** [TCGPlayer](https://www.tcgplayer.com/search/weiss-schwarz/product) (scraped)
 - **Pull Rates:** Bushiroad official product pages + community records
