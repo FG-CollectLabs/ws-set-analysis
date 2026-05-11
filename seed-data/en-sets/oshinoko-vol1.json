@@ -1,0 +1,26 @@
+{
+  "set_name": "Oshi no Ko",
+  "set_slug": "oshinoko-vol1",
+  "set_code_en": "OSK/S94-E",
+  "set_code_jp": "OSK/S94",
+  "language": "EN",
+  "release_date": "2025-01-24",
+  "jp_release_date": "2023-09-22",
+  "product_type": "booster",
+  "packs_per_box": 20,
+  "cards_per_pack": 8,
+  "cards_per_box": 160,
+  "preorder_price_usd": 90.00,
+  "preorder_price_source": "Retailer preorder listings; standard EN WS booster box price tier",
+  "pull_rates": [
+    { "rarity": "SP",  "guaranteed_per_box": true,  "rate_per_box": 1.0,  "cards_in_set": 8, "note": "1 SP guaranteed per box" },
+    { "rarity": "SSP", "guaranteed_per_box": false, "rate_per_box": 0.25, "cards_in_set": 4, "note": "~1 per 4 boxes" },
+    { "rarity": "RRR", "guaranteed_per_box": false, "rate_per_box": 8.0 },
+    { "rarity": "RR",  "guaranteed_per_box": false, "rate_per_box": 16.0 },
+    { "rarity": "R",   "guaranteed_per_box": false, "rate_per_box": 32.0 }
+  ],
+  "competitive_standing": "low",
+  "competitive_notes": "Minimal competitive WS presence. Very strong collector demand driven by the IP's anime popularity.",
+  "data_confidence": "low",
+  "notes": "Release date and preorder price are estimates — verify against actual retailer records. JP set code OSK/S94 may be incorrect if Bushiroad used a different prefix."
+}

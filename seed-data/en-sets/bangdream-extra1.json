@@ -1,0 +1,24 @@
+{
+  "set_name": "BanG Dream! FILM LIVE 2nd Stage Extra Booster",
+  "set_slug": "bangdream-extra1",
+  "set_code_en": "BD/WE31-E",
+  "set_code_jp": "BD/WE31",
+  "language": "EN",
+  "release_date": "2022-04-29",
+  "jp_release_date": "2021-03-26",
+  "product_type": "extra_booster",
+  "packs_per_box": 20,
+  "cards_per_pack": 4,
+  "cards_per_box": 80,
+  "preorder_price_usd": 35.00,
+  "preorder_price_source": "Retailer preorder listings; standard EN extra booster price tier",
+  "pull_rates": [
+    { "rarity": "BDR", "guaranteed_per_box": false, "rate_per_box": 2.0,  "note": "BanG Dream Rare — signature foil rarity" },
+    { "rarity": "SPM", "guaranteed_per_box": false, "rate_per_box": 0.5,  "note": "Special Parallel Mirror" },
+    { "rarity": "S",   "guaranteed_per_box": false, "rate_per_box": 40.0 }
+  ],
+  "competitive_standing": "low",
+  "competitive_notes": "Extra boosters are primarily collector items. Limited card pool means fewer competitive-viable cards.",
+  "data_confidence": "low",
+  "notes": "Release date and preorder price are estimates. Extra boosters have different box structures than standard — 4 cards per pack rather than 8. BanG Dream uses unique rarity designations (BDR, SPM) not standard WS rarities."
+}

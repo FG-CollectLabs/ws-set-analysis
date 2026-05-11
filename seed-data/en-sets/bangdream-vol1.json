@@ -1,0 +1,25 @@
+{
+  "set_name": "BanG Dream! Vol.1",
+  "set_slug": "bangdream-vol1",
+  "set_code_en": "BD/W47-E",
+  "set_code_jp": "BD/W47",
+  "language": "EN",
+  "release_date": "2020-01-31",
+  "jp_release_date": "2018-07-27",
+  "product_type": "booster",
+  "packs_per_box": 20,
+  "cards_per_pack": 8,
+  "cards_per_box": 160,
+  "preorder_price_usd": 65.00,
+  "preorder_price_source": "Retailer preorder listings; EN WS was cheaper in 2019-2020 era",
+  "pull_rates": [
+    { "rarity": "SP",  "guaranteed_per_box": true,  "rate_per_box": 1.0,  "cards_in_set": 9 },
+    { "rarity": "RRR", "guaranteed_per_box": false, "rate_per_box": 8.0 },
+    { "rarity": "RR",  "guaranteed_per_box": false, "rate_per_box": 16.0 },
+    { "rarity": "R",   "guaranteed_per_box": false, "rate_per_box": 32.0 }
+  ],
+  "competitive_standing": "moderate",
+  "competitive_notes": "BanG Dream has a dedicated WS competitive scene, particularly at locals. Poppin' Party builds had BCS representation in 2020-2022.",
+  "data_confidence": "medium",
+  "notes": "One of the earlier EN WS releases. Preorder price reflects the lower EN pricing tier before the 2021-2022 price increases."
+}

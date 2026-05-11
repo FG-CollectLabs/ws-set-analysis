@@ -1,0 +1,64 @@
+{
+  "set_name": "The Quintessential Quintuplets ~Fine~",
+  "set_slug": "quints-vol3",
+  "ip_name": "The Quintessential Quintuplets",
+  "ip_full_name": "Go-Toubun no Hanayome",
+  "mal_anime_id": 38101,
+  "mal_manga_id": 103851,
+  "language": "EN",
+  "status": "preorder",
+  "set_code_jp": "5HY/W101",
+  "jp_release_date": "2023-09-29",
+  "en_release_date_estimate": "2026-Q3",
+  "en_announced": true,
+  "analysis_date": "2026-05-10",
+  "expected_en_preorder_price_usd": 90.00,
+
+  "en_historical_sets": [
+    {
+      "name": "The Quintessential Quintuplets",
+      "slug": "quints-vol1",
+      "set_code": "5HY/W83-E",
+      "seed": "seed-data/en-sets/quints-vol1.json",
+      "product_type": "booster"
+    },
+    {
+      "name": "The Quintessential Quintuplets ∬",
+      "slug": "quints-vol2",
+      "set_code": "5HY/W90-E",
+      "seed": "seed-data/en-sets/quints-vol2.json",
+      "product_type": "booster"
+    }
+  ],
+
+  "jp_equivalent_sets": [
+    {
+      "name": "Quintessential Quintuplets Vol.1 (JP)",
+      "set_code": "5HY/W83",
+      "jp_release_date": "2020-08-21"
+    },
+    {
+      "name": "Quintessential Quintuplets Vol.2 (JP)",
+      "set_code": "5HY/W90",
+      "jp_release_date": "2021-09-17"
+    },
+    {
+      "name": "Quintessential Quintuplets ~Fine~ (JP)",
+      "set_code": "5HY/W101",
+      "jp_release_date": "2023-09-29",
+      "is_current_jp_set": true,
+      "note": "Based on the movie - the final chapter of the IP"
+    }
+  ],
+
+  "competitive_standing": "low",
+  "competitive_notes": "Quintuplets has minimal BCS competitive presence. Purely collector-driven. The movie set will feature wedding/finale content which historically drives high SP demand.",
+
+  "series_continuation": {
+    "status": "completed",
+    "future_en_sets_expected": false,
+    "reasoning": "The Quintessential Quintuplets manga concluded in February 2020 and the movie 'Fine~' (December 2022 JP) is the definitive finale covering the wedding arc. The IP is fully concluded — no sequel, continuation, or new adaptation is expected.",
+    "notes": "Completed IPs with strong cultural footprint tend to retain collector value well once supply clears the initial market. The five quintuplet waifus have a durable fanbase. However, the absence of new content means no demand spikes from future seasons.",
+    "demand_impact": "Completed IP — no future catalyst events, but also no dilution from new sets. Price ceiling is set by collector demand alone. The finale movie content (wedding SPs) is likely to be the most sought-after in the entire IP lineup."
+  }
+}

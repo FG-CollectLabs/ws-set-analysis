@@ -1,0 +1,26 @@
+{
+  "set_name": "The Quintessential Quintuplets ∬",
+  "set_slug": "quints-vol2",
+  "set_code_en": "5HY/W90-E",
+  "set_code_jp": "5HY/W90",
+  "language": "EN",
+  "release_date": "2022-09-09",
+  "jp_release_date": "2021-09-17",
+  "product_type": "booster",
+  "packs_per_box": 20,
+  "cards_per_pack": 8,
+  "cards_per_box": 160,
+  "preorder_price_usd": 85.00,
+  "preorder_price_source": "Retailer preorder listings at launch",
+  "pull_rates": [
+    { "rarity": "SP",  "guaranteed_per_box": true,  "rate_per_box": 1.0,  "cards_in_set": 10, "note": "1 SP guaranteed" },
+    { "rarity": "SSP", "guaranteed_per_box": false, "rate_per_box": 0.25, "cards_in_set": 5,  "note": "~1 per 4 boxes" },
+    { "rarity": "RRR", "guaranteed_per_box": false, "rate_per_box": 8.0 },
+    { "rarity": "RR",  "guaranteed_per_box": false, "rate_per_box": 16.0 },
+    { "rarity": "R",   "guaranteed_per_box": false, "rate_per_box": 32.0 }
+  ],
+  "competitive_standing": "low",
+  "competitive_notes": "Season 2 / wedding arc content. Still primarily collector-driven.",
+  "data_confidence": "medium",
+  "notes": "Adapts Season 2 / Gotoubun no Hanayome ∬ anime content."
+}
